@@ -1,0 +1,1079 @@
+id,title,year,journal_name,conf_name
+42433124,Computing the Probability of Specific Random Sector Graphs with Applications in Wireless Networks with Directional Antennas,2014,,Intelligent Information Hiding and Multimedia Signal Processing
+389275631,GNDA: Detecting Good Neighbor Nodes in Adhoc Routing Protocol,2011,,International Conference on Emerging Applications of Information Technology
+324456354,The cover time of random geometric graphs,2009,,Symposium on Discrete Algorithms
+347044690,Dynamic Random Geometric Graphs,2007,,Symposium on Discrete Algorithms
+285373400,On the connectivity of dynamic random geometric graphs,2008,,Symposium on Discrete Algorithms
+184386748,Line-of-sight networks,2007,,Symposium on Discrete Algorithms
+386738594,"Mobile geometric graphs: detection, coverage and percolation",2011,,Symposium on Discrete Algorithms
+214070459,Dynamic Random Geometric Graphs,2007,,Symposium on Discrete Algorithms
+80027396,Agreeing under randomized network dynamics,2012,,Advances in Computing and Communications
+147168474,Distance graphs: from random geometric graphs to Bernoulli graphs and between,2008,,Foundations of Mobile Computing
+195504938,Undirected connectivity of sparse Yao graphs,2011,,Foundations of Mobile Computing
+411024715,On the fundamental limits of topology control,2004,,Foundations of Mobile Computing
+49306581,Local broadcasting in the physical interference model,2008,,Foundations of Mobile Computing
+451458000,On the Fundamental Limits of Topology Control in Ad Hoc Networks,2007,,Foundations of Mobile Computing
+474742019,Hierarchical routing over dynamic wireless networks,2008,,Measurement and Modeling of Computer Systems
+286709223,Robust network connectivity: when it's the big picture that matters,2006,,Measurement and Modeling of Computer Systems
+261292469,Two way of round robin MAC protocol for clusterheads in WEAC for MANETS,2003,,Canadian Conference on Electrical and Computer Engineering
+35639250,On the connectivity of nodes in wireless ad hoc and sensor net,2005,,Canadian Conference on Electrical and Computer Engineering
+25978405,Connecting Two Worlds: Physical Models and Graph Models of Wireless Network Topologies,2011,,High Performance Computing and Communications
+266617705,Comparison of two CDS algorithms on random unit ball graphs,2005,,Algorithm Engineering and Experimentation
+448187286,On the Symmetric Range Assignment Problem in Wireless Ad Hoc Networks,2002,,IFIP International Conference on Theoretical Computer Science
+213349987,Topology control with better radio models: Implications for energy and multi-hop interference,2007,,Dagstuhl Seminar Proceedings
+193045226,Results on finite wireless networks on a line,2010,,Information Theory Workshop
+220809175,"Capacity, stability and flows in large-scale random networks",2004,,Information Theory Workshop
+31199752,CRBcast: a collaborative rateless scheme for reliable and energy-efficient broadcasting in wireless sensor networks,2006,,Information Processing in Sensor Networks
+131981250,Random distributed multiresolution representations with significance querying,2006,,Information Processing in Sensor Networks
+185857680,Efficient and fault-tolerant feature extraction in wireless sensor networks,2003,,Information Processing in Sensor Networks
+121895843,Geographic routing with limited information in sensor networks,2005,,Information Processing in Sensor Networks
+159191256,"Naps: scalable, robust topology management in wireless ad hoc networks",2004,,Information Processing in Sensor Networks
+41142326,Robust computation of aggregates in wireless sensor networks: distributed randomized algorithms and analysis,2005,,Information Processing in Sensor Networks
+372894162,Multi-hop communication is order-optimal for homogeneous sensor networks,2004,,Information Processing in Sensor Networks
+420436746,A key pre-distribution scheme using deployment knowledge for wireless sensor networks,2005,,Information Processing in Sensor Networks
+12468080,Mu It i-Hop Communication is Order-0 pti mal for Homogeneous Sensor Networks,2004,,Information Processing in Sensor Networks
+371232114,A New Intra-cluster Node Scheduling Algorithm of Clustering Data Collection Protocol in WSNs,2009,,International Conference on Electronics Computer Technology
+399440152,Future System: Using Manet in Smartphones the Idea the Motivation and the Simulation,2011,,Computational Intelligence
+37605254,Critical Link Quality for Ad-Hoc Wireless Networks,2010,,Conference on Computer Communications Workshops
+324909913,Quantitative Analysis of Partition Statistics and their Impact on Data Replication in MANETs,2007,,International Symposium on Parallel and Distributed Computing
+438900476,On the cover time of random geometric graphs,2005,,"International Colloquium on Automata, Languages and Programming"
+375077293,MANETS: High Mobility Can Make Up for Low Transmission Power,2009,,"International Colloquium on Automata, Languages and Programming"
+164747799,Synchronization of a group of mobile agents with supercritical connectivity radius and large population,2010,,Chinese Control Conference
+418516257,Convergence Analysis of Linearized Vicsek's Model,2006,,Chinese Control Conference
+130852569,Attitude synchronization of multiple rigid bodies in SE(3) over proximity networks,2016,,Chinese Control Conference
+301735050,On Connectivity and Capacity of Wireless Mesh Networks,2007,,International Conference on Communications
+260426517,Connectivity of Wireless Sensor Networks with Unreliable Links,2007,,International Conference on Communications
+26922011,An exploration of geographic routing with k-hop based searching in wireless sensor networks,2008,,International Conference on Communications
+32347150,K-connectivity of cognitive radio networks,2012,,International Conference on Communications
+321458967,On the Connectivity of Large-Scale Hybrid Wireless Networks,2010,,International Conference on Communications
+344003713,Localized routing for wireless ad hoc networks,2003,,International Conference on Communications
+121079405,Network connectivity with heterogeneous mobility,2012,,International Conference on Communications
+344711800,Partial Connectivity of Multi-hop Two-Dimensional Finite Hybrid Wireless Networks,2010,,International Conference on Communications
+488448279,Capacity vs. delivery delay in MANETs with power control and f-cast relay,2012,,International Conference on Communications
+33964643,On the connectivity properties of wireless multi-hop networks,2008,,International Conference on Communications
+374020020,Properties of 1-D Infrastructure-Based Wireless Multi-Hop Networks,2010,,International Conference on Communications
+220900743,Connectivity of Finite Wireless Networks with Random Communication Range Nodes,2009,,International Conference on Communications
+112688817,On the connectivity of large multi-channel cognitive radio networks,2012,,International Conference on Communications
+101450936,Impact of Region-Based Faults on the Connectivity of Wireless Networks in Log-Normal Shadow Fading Model,2011,,International Conference on Communications
+140862047,Designing Securely Connected Wireless Sensor Networks in the Presence of Unreliable Links,2011,,International Conference on Communications
+192448146,Lifetime Optimization for Wireless Sensor Networks Using the Nonlinear Battery Current Effect,2009,,International Conference on Communications
+11959215,On the Devolution of Large-Scale Sensor Networks in the Presence of Random Failures,2008,,International Conference on Communications
+305364187,Robust wireless ad hoc networks,2003,,International Conference on Communications
+423011151,The Impacts of Physical Layer Parameters on the Connectivity of Ad-Hoc Networks,2006,,International Conference on Communications
+20628743,Improving the Connectivity of Heterogeneous Multi-Hop Wireless Networks,2011,,International Conference on Communications
+85542423,Exposure-Path Prevention in Directional Sensor Networks Using Sector Model Based Percolation,2009,,International Conference on Communications
+70352292,On the Connectivity and Average Delay of Mobile Ad Hoc Networks,2006,,International Conference on Communications
+358767841,Expander Graph based Key Distribution Mechanisms in Wireless Sensor Networks,2006,,International Conference on Communications
+427090537,Very sharp transitions in one-dimensional MANETs,2006,,International Conference on Communications
+64882936,Homogeneous vs heterogeneous clustered sensor networks: a comparative study,2004,,International Conference on Communications
+1831371,Minimizing energy and maximizing network lifetime multicasting in wireless ad hoc networks,2005,,International Conference on Communications
+453907326,Multihop network capacity estimation,2004,,International Conference on Communications
+185556040,Connectivity and Coverage in Finite TETRA System,2010,,International Conference on Pervasive Computing
+35280395,On Exploring the Secure Connectivity of Wireless Ad Hoc Networks,2013,,International Conference on Pervasive Computing
+262434191,On the connectivity of bluetooth-based ad hoc networks,2007,,European Conference on Parallel Processing
+109778733,Oblivious interference scheduling,2009,,Principles of Distributed Computing
+38871340,Fast flooding over Manhattan,2010,,Principles of Distributed Computing
+450278722,On connectivity properties of large-scale sensor networks,2004,,"Sensor, Mesh and Ad Hoc Communications and Networks"
+11399934,Analysis of Wireless Ad-Hoc and Sensor Networks in Finite Regime,2008,,"Sensor, Mesh and Ad Hoc Communications and Networks"
+437298609,LEARN: Localized Energy Aware Restricted Neighborhood Routing for Ad Hoc Networks,2006,,"Sensor, Mesh and Ad Hoc Communications and Networks"
+487848398,The energy-limited capacity of wireless networks,2004,,"Sensor, Mesh and Ad Hoc Communications and Networks"
+156772208,Trade-offs of source location protection in globally attacked sensor networks: A case analysis,2011,,"Sensor, Mesh and Ad Hoc Communications and Networks"
+307055523,Single-copy routing in intermittently connected mobile networks,2004,,"Sensor, Mesh and Ad Hoc Communications and Networks"
+319045888,Capacity Bounds for Large Scale Wireless Ad Hoc Networks Under Gaussian Channel Model,2009,,"Sensor, Mesh and Ad Hoc Communications and Networks"
+83713175,A scalable framework for distributed time synchronization in multi-hop sensor networks,2005,,"Sensor, Mesh and Ad Hoc Communications and Networks"
+301521071,Analysis of ad-hoc networks connectivity considering shadowing radio model,2009,,Advances in Mobile Multimedia
+117631547,Fast decentralized averaging via multi-scale gossip,2010,,Distributed Computing in Sensor Systems
+243044394,The Inter-cluster Routing Algorithm of Clustering Data Collection Protocol in WSNs,2008,,International Symposium on Computer Science and Computational Technology
+21968315,SYNC-NET: distributed time synchronization in clustered sensor networks,2008,,Communications and Mobile Computing
+323635992,Placing and maintaining a core node in wirelessad hoc networks,2010,,Communications and Mobile Computing
+108289906,Local vs. Global Scalability in Ad Hoc and Sensor Networks,2009,,Scalable Information Systems
+95681206,Software acceleration of floating-point multiplication using runtime code generation �?Student paper,2013,,International Conference on Energy Aware Computing
+152857318,Directional versus omnidirectional antennas for energy consumption and k -connectivity of networks of sensors,2004,,International Conference on Principles of Distributed Systems
+135405372,Maximizing the number of broadcast operations in static random geometric ad-hoc networks,2007,,International Conference on Principles of Distributed Systems
+38939466,Gradational power control in multi-channel multi-radio wireless ad hoc networks,2010,,IEEE International Conference on Pervasive Computing and Communications
+96430125,The quality of source location protection in globally attacked sensor networks,2011,,IEEE International Conference on Pervasive Computing and Communications
+282884478,Percolation in multi-channel secondary cognitive radio networks under the SINR model,2014,,IEEE International Symposium on Dynamic Spectrum Access Networks
+62793889,Making MANET Energy Efficient,2011,,Global Mobile Congress
+205467909,Data dissemination in low duty-cycle multi-channel multi-hop wireless sensor networks,2010,,International Conference on Computer Engineering and Technology
+357685718,"Location, location, location: Border effects in interference limited ad hoc networks",2015,,"Modeling and Optimization in Mobile, Ad-Hoc and Wireless Networks"
+83009783,On range matrices and wireless networks in d dimensions,2005,,"Modeling and Optimization in Mobile, Ad-Hoc and Wireless Networks"
+370634840,Effect of limited topology knowledge on opportunistic forwarding in ad hoc wireless networks,2010,,"Modeling and Optimization in Mobile, Ad-Hoc and Wireless Networks"
+6525399,Modeling Search Costs in Wireless Sensor Networks,2007,,"Modeling and Optimization in Mobile, Ad-Hoc and Wireless Networks"
+425865422,Finite random geometric graphs by circular and square coverage,2009,,"Modeling and Optimization in Mobile, Ad-Hoc and Wireless Networks"
+456352008,Percolation on the information theoretic secure SINR graph: Upper and lower bounds,2014,,"Modeling and Optimization in Mobile, Ad-Hoc and Wireless Networks"
+470246179,Dual Radio Networks: Capacity and Connectivity,2007,,"Modeling and Optimization in Mobile, Ad-Hoc and Wireless Networks"
+172174969,Distributed Symmetric Function Computation in Noisy Wireless Sensor Networks with Binary Data,2006,,"Modeling and Optimization in Mobile, Ad-Hoc and Wireless Networks"
+485786212,Analysis of Finite Unreliable Sensor Grids,2006,,"Modeling and Optimization in Mobile, Ad-Hoc and Wireless Networks"
+79743729,Distributed topology control of wireless networks,2005,,"Modeling and Optimization in Mobile, Ad-Hoc and Wireless Networks"
+108433038,Contention-free MAC protocols for wireless sensor networks,2004,,International Conference on Distributed Computing
+382979680,Distributed Energy-conserving Routing Protocols for Sensor Networks,2002,,Hawaii International Conference on System Sciences
+401588683,Distributed energy-conserving routing protocols,2003,,Hawaii International Conference on System Sciences
+398212343,Randomized Initialization of a Wireless Multihop Network,2005,,Hawaii International Conference on System Sciences
+320743674,On selection of optimal transmission power for ad hoc networks,2003,,Hawaii International Conference on System Sciences
+100398622,Maximizing battery life routing in wireless ad hoc networks,2004,,Hawaii International Conference on System Sciences
+93547982,Effective Integration of Reliable Routing Mechanism and Energy Efficient Node Placement Technique for Low Power IoT Networks,2017,,"IEEE International Conference on High Performance Computing, Data, and Analytics"
+304126725,Regional gossip routing for wireless ad hoc networks,2003,,Local Computer Networks
+173250244,Connectivity Analysis Under Shadowing in Wireless Networks with Data Correlation Topology Control,2009,,International Symposium on Wireless Pervasive Computing
+11886604,Improvement of Connectivity in Mobile Ad Hoc Networks by Adding Static Nodes Based on a Realistic Mobility Model,2009,,International Conference on Machine Vision
+305416215,A distributed data gathering algorithm for wireless sensor networks with uniform architecture,2006,,"Performance Evaluation of Wireless Ad Hoc, Sensor, and Ubiquitous Networks"
+24460021,Notice of Retraction The Non-uniform Property of Energy Consumption and its Solution to the Wireless Sensor Network,2010,,International Workshop on Education Technology and Computer Science
+435586765,Connectivity dynamics for vehicular ad-hoc networks in signalized road systems,2009,,International Teletraffic Congress
+399662220,Asymptotic connectivity of low duty-cycled wireless sensor networks,2005,,Military Communications Conference
+113831911,SER-based connectivity of fading ad-hoc networks,2005,,Military Communications Conference
+487002850,Augmenting ad hoc networks for data aggregation and dissemination,2009,,Military Communications Conference
+261622842,Maximizing sensor network lifetime: analysis and design guidelines,2004,,Military Communications Conference
+114571166,Finding the number of clusters minimizing energy consumption of wireless sensor networks,2006,,International Conference on Computational Science and Its Applications
+75081068,Content delivery with spatial caching scheme in mobile wireless networks,2006,,International Conference on Computational Science and Its Applications
+289541368,Analysis for Power Control and Security Architecture for Wireless Ad-Hoc Network,2010,,International Conference on Contemporary Computing
+383225214,Network capacity of wireless ad hoc networks with delay constraint,2005,,Mobile Ad-hoc and Sensor Networks
+33432670,On the Spectral Characteristics of Ad Hoc Networks and their Mobility Properties,2011,,Mobile Ad-hoc and Sensor Networks
+468652968,A Delay-Constrained and Maximum Lifetime Data Gathering Algorithm for Wireless Sensor Networks,2009,,Mobile Ad-hoc and Sensor Networks
+87751559,Scheduling Wireless Links with Successive Interference Cancellation,2012,,International Conference on Computer Communications and Networks
+127409400,A modified random way-point model equalized for the node crowding effect,2005,,International Conference on Computer Communications and Networks
+299691998,On the Connectivity of Finite Wireless Networks with Multiple Base Stations,2008,,International Conference on Computer Communications and Networks
+320849592,Delay and Capacity Optimization in Multi-radio Multi-channel Wireless Mesh Networks,2008,,"International Performance, Computing, and Communications Conference"
+427427694,New tight upper bounds on the capacity for general deterministic dissemination in wireless ad hoc networks,2015,,"International Performance, Computing, and Communications Conference"
+448202907,Improving connectivity of wireless ad hoc networks,2005,,International Conference on Mobile and Ubiquitous Systems: Networking and Services
+416641370,Capacity of Cache Enabled Content Distribution Wireless Ad Hoc Networks,2014,,Mobile Adhoc and Sensor Systems
+265948016,Broadcast capacity for wireless ad hoc networks,2008,,Mobile Adhoc and Sensor Systems
+187652539,Critical Power for Vanishing of Isolated Nodes in Wireless Networks with Log-Normal Shadowing,2013,,Mobile Adhoc and Sensor Systems
+114821504,On Connectivity in a General Random Intersection Graph.,2016,,Analytic Algorithmics and Combinatorics
+88427527,On connectivity in ad hoc networks under jamming using directional antennas and mobility,2004,,Wired/Wireless Internet Communications
+442020217,Distributed Power Control Algorithm with Multi-QoS Constraints for Wireless Sensor Networks,2008,,"International Conference on Networking, Sensing and Control"
+74775929,Racetrack: an approximation algorithm for the mobile sink routing problem,2010,,"Ad-Hoc, Mobile and Wireless Networks"
+16904216,GAMesh: Automatic Placement of Wireless Mesh Nodes Via Genetic Algorithms,2008,,Network-Based Information Systems
+44055763,Optimal Transmission Range in Sleeping Wireless Networks,2017,,Network-Based Information Systems
+425166699,The Problem of Joint Scheduling and Power Assignment in Wireless Sensor Networks,2013,,Advanced Information Networking and Applications
+13907751,A reward based method to wireless sensor network clustering,2009,,International Conference on Application of Information and Communication Technologies
+394052366,Lifetime optimization using variable battery capacities and nonuniform density deployment in wireless sensor networks,2007,,International Symposium on Computer and Information Sciences
+293074327,Connectivity of Random High Dimensional Geometric Graphs,2013,,"International Workshop and International Workshop on Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques"
+119487024,Throughput Analysis of One-Hop-Relay Random Underwater Network with Mobile Nodes,2015,,International Conference on UnderWater Networks and Systems
+325446328,On the connectivity of wireless networks with multiple directional antennas,2012,,International Conference on Networks
+396631499,The HMM-based Modeling for the Energy Level Prediction in Wireless Sensor Networks,2007,,Conference on Industrial Electronics and Applications
+413321272,Simulationsbasierte Konnektivitätsanalyse von gleich- und normalverteilten drahtlosen Sensornetzen,2003,,Kommunikation in Verteilten Systemen
+212484624,Multimedia Contents Caching Scheme in Mobile Ad-Hoc Network,2014,,Multimedia and Ubiquitous Engineering
+113564617,Multimedia Caching Strategy Based on Popularity in Mobile Ad-Hoc Network,2015,,Multimedia and Ubiquitous Engineering
+67578009,The Complexity of Connectivity in Wireless Networks,2006,,IEEE International Conference Computer and Communications
+256784524,Fault-Tolerance in Sensor Networks: A New Evaluation Metric,2006,,IEEE International Conference Computer and Communications
+193652389,Reliable Broadcast in Wireless Networks with Probabilistic Failures,2007,,IEEE International Conference Computer and Communications
+106050984,Relay Placement for Higher Order Connectivity in Wireless Sensor Networks,2006,,IEEE International Conference Computer and Communications
+469519044,Connectivity and Capacity of Multi-Channel Wireless Networks with Channel Switching Constraints,2007,,IEEE International Conference Computer and Communications
+23223349,Broadcasting in Sensor Networks: The Role of Local Information,2006,,IEEE International Conference Computer and Communications
+8723729,Collaboration Improves the Connectivity of Wireless Networks,2006,,IEEE International Conference Computer and Communications
+256847654,Node isolation probability for heterogeneous overlaid wireless networks,2016,,IEEE International Conference Computer and Communications
+395377617,Sensor networks: towards a theory of computation and communication of functions of measurements to a fusion center,2004,,International Zurich Seminar on Digital Communications
+342189550,COMMIT: a sender-centric truthful and energy-efficient routing protocol for ad hoc networks with selfish nodes,2005,,International Parallel and Distributed Processing Symposium
+147330774,Dynamic adaptive redundancy for quality-of-service control in wireless sensor networks,2009,,International Parallel and Distributed Processing Symposium
+72000984,Unit disk graph and physical interference model: Putting pieces together,2009,,International Parallel and Distributed Processing Symposium
+46160929,Power-aware localized routing in wireless networks,2000,,International Parallel and Distributed Processing Symposium
+250082582,Connectivity of wireless multihop networks in a shadow fading environment,2003,,Modeling Analysis and Simulation of Wireless and Mobile Systems
+343411250,A statistical analysis of the long-run node spatial distribution in mobile ad hoc networks,2002,,Modeling Analysis and Simulation of Wireless and Mobile Systems
+291822755,Minimum-energy broadcast in random-grid ad-hoc networks: approximation and distributed algorithms,2008,,Modeling Analysis and Simulation of Wireless and Mobile Systems
+45568304,The power of choice in random walks: an empirical study,2006,,Modeling Analysis and Simulation of Wireless and Mobile Systems
+407616852,Topology control with better radio models: implications for energy and multi-hop interference,2005,,Modeling Analysis and Simulation of Wireless and Mobile Systems
+454869674,Supple: a flexible probabilistic data dissemination protocol for wireless sensor networks,2010,,Modeling Analysis and Simulation of Wireless and Mobile Systems
+58056471,Three-dimensional greedy routing in large-scale random wireless sensor networks,2013,,Ad Hoc Networks
+319742101,A density-driven publish subscribe service for mobile ad-hoc networks,2013,,Ad Hoc Networks
+495472726,"Unreliable sensor grids: coverage, connectivity and diameter",2005,,Ad Hoc Networks
+488048578,Geometric connectivity of vehicular ad hoc networks: analytical characterization,2007,,Ad Hoc Networks
+103092903,Analytical and simulative performance evaluation of cluster-based multihop ad hoc networks,2003,,Ad Hoc Networks
+306570930,Aging analysis in large-scale wireless sensor networks,2008,,Ad Hoc Networks
+41598602,"Design guidelines for wireless sensor networks: communication, clustering and aggregation",2004,,Ad Hoc Networks
+440581410,Connectivity of Wireless Sensor Networks with Constant Density,2004,,Ad Hoc Networks
+168864852,On-line disjoint path routing for network capacity maximization in energy-constrained ad hoc networks,2007,,Ad Hoc Networks
+470331265,Efficient route discovery in hybrid networks,2009,,Ad Hoc Networks
+289449437,Connectivity for multiple multicast trees in ad hoc networks,2004,,Ad Hoc Networks
+20039570,Local connectivity for heterogeneous overlaid wireless networks,2017,,Ad Hoc Networks
+55272977,Approximate Conditional Distributions of Distances between Nodes in a Two-Dimensional Sensor Network,2009,,Analytical and Stochastic Modeling Techniques and Applications
+66299919,Computationally efficient scheduling with the physical interference model for throughput improvement in wireless mesh networks,2006,,ACM/IEEE International Conference on Mobile Computing and Networking
+407355464,Throughput scalability of wireless hybrid networks over a random geometric graph,2005,,ACM/IEEE International Conference on Mobile Computing and Networking
+22931638,Online power-aware routing in wireless Ad-hoc networks,2001,,ACM/IEEE International Conference on Mobile Computing and Networking
+173796011,On the interdependence of routing and data compression in multi-hop sensor networks,2002,,ACM/IEEE International Conference on Mobile Computing and Networking
+267171949,Fundamental relationship between NodeDensity and delay in wireless ad hoc networks with unreliable links,2011,,ACM/IEEE International Conference on Mobile Computing and Networking
+242722419,Throughput capacity of random ad hoc networks with infrastructure support,2003,,ACM/IEEE International Conference on Mobile Computing and Networking
+419210915,On k-coverage in a mostly sleeping sensor network,2004,,ACM/IEEE International Conference on Mobile Computing and Networking
+281065594,Reliable density estimates for coverage and connectivity in thin strips of finite length,2007,,ACM/IEEE International Conference on Mobile Computing and Networking
+137934279,Reactive routing overhead in networks with unreliable nodes,2003,,ACM/IEEE International Conference on Mobile Computing and Networking
+89876035,Multicast capacity for large scale wireless ad hoc networks,2007,,ACM/IEEE International Conference on Mobile Computing and Networking
+154412587,On the critical phase transition time of wireless multi-hop networks with random failures,2008,,ACM/IEEE International Conference on Mobile Computing and Networking
+302528018,Mobility increases the connectivity of K-hop clustered wireless networks,2009,,ACM/IEEE International Conference on Mobile Computing and Networking
+1686056,Investigating upper bounds on network lifetime extension for cell-based energy conservation techniques in stationary ad hoc networks,2002,,ACM/IEEE International Conference on Mobile Computing and Networking
+138142940,Capacity of Content-Centric Hybrid Wireless Networks,2017,,International Conference on Machine Learning
+480311476,Location-unaware sensing range assignment in sensor networks,2007,,Next Generation Internet
+109129956,The state of the art in cross-layer design for wireless sensor networks,2005,,Next Generation Internet
+497221045,Fast message dissemination in random geometric ad-hoc radio networks,2007,,International Symposium on Algorithms and Computation
+202386251,RAPID: Reliable Probabilistic Dissemination in Wireless Ad-Hoc Networks,2007,,Symposium on Reliable Distributed Systems
+120484650,Region-based connectivity - a new paradigm for design of fault-tolerant networks,2009,,High Performance Switching and Routing
+292401083,Network localization by Shadow Edges,2013,,European Control Conference
+284105033,On the Role of Mobility and Network Coding on Multi-message Gossip in Random Geometric Graph,2016,,Dependable Autonomic and Secure Computing
+418011489,On the critical total power for asymptotic k-connectivity in wireless networks,2005,,International Conference on Computer Communications
+39572793,Max-flow min-cut theorem and faster algorithms in a circular disk failure model,2014,,International Conference on Computer Communications
+426844354,On the Connectivity Analysis over Large-Scale Hybrid Wireless Networks,2010,,International Conference on Computer Communications
+482224335,Information Propagation Speed in Mobile and Delay Tolerant Networks,2009,,International Conference on Computer Communications
+165036719,Connectivity of large-scale Cognitive Radio Ad Hoc Networks,2012,,International Conference on Computer Communications
+481798790,On the Absence of Isolated Nodes in Wireless Ad-Hoc Networks with Unreliable Links - a Curious Gap,2010,,International Conference on Computer Communications
+339581904,"Multicast capacity, delay and delay jitter in intermittently connected mobile networks",2012,,International Conference on Computer Communications
+370149613,Optimal density estimation for exposure-path prevention in wireless sensor networks using percolation theory,2012,,International Conference on Computer Communications
+382646283,"Unreliable sensor grids: coverage, connectivity and diameter",2003,,International Conference on Computer Communications
+178850335,Information theoretic bounds on the throughput scaling of wireless relay networks,2005,,International Conference on Computer Communications
+306264391,Limit Theorems for Degree of Coverage and Lifetime in Large Sensor Networks,2008,,International Conference on Computer Communications
+203858238,Beyond Trilateration: On the Localizability of Wireless Ad-Hoc Networks,2009,,International Conference on Computer Communications
+304152696,On the asymptotic connectivity of random networks under the random connection model,2011,,International Conference on Computer Communications
+120258829,Spatio-temporal sampling rates and energy efficiency in wireless sensor networks,2004,,International Conference on Computer Communications
+181536661,Random mobility and the spread of infection,2011,,International Conference on Computer Communications
+415889732,Measuring performance of ad hoc networks using timescales for information flow,2003,,International Conference on Computer Communications
+82568038,Impact of interferences on connectivity in ad hoc networks,2003,,International Conference on Computer Communications
+157105771,Optimal Geographic Routing for Wireless Networks with Near-Arbitrary Holes and Traffic,2008,,International Conference on Computer Communications
+129661624,Exploiting data diversity and multiuser diversity in noncooperative mobile infostation networks,2003,,International Conference on Computer Communications
+119050922,On the Construction of a Maximum-Lifetime Data Gathering Tree in Sensor Networks: NP-Completeness and Approximation Algorithm,2008,,International Conference on Computer Communications
+58857904,General capacity scaling of wireless networks,2011,,International Conference on Computer Communications
+17151729,Bi-Criteria Approximation Algorithms for Power-Efficient and Low-Interference Topology Control in Unreliable Ad Hoc Networks,2009,,International Conference on Computer Communications
+473903597,Secure capacity of multi-hop wireless networks with random key pre-distribution,2008,,International Conference on Computer Communications
+35662452,Exact throughput capacity under power control in mobile ad hoc networks,2012,,International Conference on Computer Communications
+49098300,Connectivity in ad-hoc and hybrid networks,2002,,International Conference on Computer Communications
+224480798,Connectivity vs capacity in dense ad hoc networks,2004,,International Conference on Computer Communications
+4339088,A case for variable-range transmission power control in wireless multihop networks,2004,,International Conference on Computer Communications
+442569482,Fast and Distributed Computation of Schedules in Wireless Networks,2008,,International Conference on Computer Communications
+109488078,On the Properties of Giant Component in Wireless Multi-Hop Networks,2009,,International Conference on Computer Communications
+476262016,Toward simple criteria to establish capacity scaling laws for wireless networks,2012,,International Conference on Computer Communications
+67129251,Time and energy complexity of distributed computation in wireless sensor networks,2005,,International Conference on Computer Communications
+400491247,Connectivity and Latency in Large-Scale Wireless Networks with Unreliable Links,2008,,International Conference on Computer Communications
+18565512,Dynamic power allocation and routing for time varying wireless networks,2003,,International Conference on Computer Communications
+332574161,Information delivery in large wireless networks with minimum energy expense,2011,,International Conference on Computer Communications
+447587648,An energy efficient hierarchical clustering algorithm for wireless sensor networks,2003,,International Conference on Computer Communications
+475292216,Distributed processing techniques for beamforming in wireless sensor networks,2009,,"International Conference on Signals, Circuits and Systems"
+68435669,Throughput capacity of wireless networks with social features,2013,,International Conference on Wireless Communications and Signal Processing
+499725823,Practical node deployment for unique localization in large scale wireless sensor networks,2010,,International Conference on Wireless Communications and Signal Processing
+200140791,The application of compressed sensing in wireless sensor network,2009,,International Conference on Wireless Communications and Signal Processing
+119768253,Minimum Node Degree and Connectivity of Two-dimensional MANETs under Random Waypoint Mobility Model,2010,,Computer and Information Technology
+596333,MERA: A Multi-clustered Energy Efficient Routing Algorithm in WSN,2015,,Computer and Information Technology
+134453495,Performance evaluation of distance-hop proportionality on geometric graph models of dense sensor networks,2008,,Performance Evaluation Methodolgies and Tools
+26061190,Optimal transmission radii and packet size for Wireless Sensor Networks based on bi-level programming model,2010,,International Conference on Intelligent Computing
+193608839,Geometric graphs with randomly deleted edges - connectivity and routing protocols,2011,,Mathematical Foundations of Computer Science
+340804924,Secure distributed demand projection in micro-grids,2015,,Global Information Infrastructure and Networking Symposium
+384899164,Tight Bound for the Mean Node Degree in Ad Hoc Networks with pportunistic Communications,2007,,"Wireless and Mobile Computing, Networking and Communications"
+153291223,A distributed data management scheme for industrial IoT environments,2017,,"Wireless and Mobile Computing, Networking and Communications"
+220844354,A Practical Method to Form Energy Efficient Connected -Coverage in Wireless Sensor Networks,2006,,International Conference on Distributed Computing Systems Workshops
+39109053,Optimal transmission radius for flooding in large scale sensor networks,2003,,International Conference on Distributed Computing Systems Workshops
+32440118,Clusterhead controlled token for virtual base station on-demand in MANETs,2003,,International Conference on Distributed Computing Systems Workshops
+491784109,Efficient localized routing for wireless ad hoc networks,2003,,International Conference on Distributed Computing Systems Workshops
+33449212,"The (k,l) Coredian Tree for Ad Hoc Networks",2008,,International Conference on Distributed Computing Systems Workshops
+383264834,The optimal transmitting power in randomly deployed heterogeneous Wireless Sensor Networks for predetermined average node degree,2013,,International Conference on Wireless Communications and Mobile Computing
+280754788,Results on coverage for finite wireless networks,2007,,International Conference on Wireless Communications and Mobile Computing
+298473995,A power adjusting algorithm on mobility control in mobile ad hoc networks,2011,,Network and Parallel Computing
+321811317,Identifying nearest neighbor nodes and connectivity in three-dimensional wireless sensor networks using Poisson point field,2010,,Network and Parallel Computing
+400062340,On the fundamental capacity and lifetime limits of energy-constrained wireless sensor networks,2004,,Real Time Technology and Applications Symposium
+249341545,Generating Random Graphs for Wireless Actuator Networks,2007,,"World of Wireless, Mobile and Multimedia Networks"
+369810973,Connectivity analysis of group-based cognitive radio networks,2012,,"World of Wireless, Mobile and Multimedia Networks"
+281566636,Optimal transmission range for cluster-based wireless sensor networks with mixed communication modes,2006,,"World of Wireless, Mobile and Multimedia Networks"
+105981965,Node Failure Localization via Network Tomography,2014,,Internet Measurement Conference
+201690117,Identifiability of link metrics based on end-to-end path measurements,2013,,Internet Measurement Conference
+300428885,Analysis of Connectivity for Sensor Networks Using Geometrical Probability,2004,,Embedded and Ubiquitous Computing
+30761666,Multipath unicast and multicast video communication over wireless ad hoc networks,2004,,"Broadband Communications, Networks and Systems"
+498444071,Routing in ad hoc networks - a wireless perspective,2004,,"Broadband Communications, Networks and Systems"
+410542785,Capacity and delay tradeoffs for ad-hoc mobile networks,2004,,"Broadband Communications, Networks and Systems"
+115369891,k-channel connected topology control algorithm for cognitive radio networks,2016,,Communication Systems and Networks
+272782169,Throughput and connectivity using constraint based mobility model for mobile ad hoc networks,2008,,IEEE International Multitopic Conference
+275327732,Latency-sensitive power control for wireless ad-hoc networks,2005,,International Workshop on Quality of Service
+461734300,DREAM: On the reaction delay in large scale wireless networks with mobile sensors,2010,,International Workshop on Quality of Service
+216910690,Towards an ideal network: Survivability issues in selected topologies,2009,,International Conference on Ultra Modern Telecommunications
+271766029,Congestion in randomly deployed wireless ad-hoc and sensor networks,2009,,International Conference on Ultra Modern Telecommunications
+346378859,Effect of network structure entropy to convergence rate of distributed synchronization algorithm in RGGs,2015,,"International Conference on Anti-counterfeiting, Security, and Identification"
+128726221,Sink mobility schemes for data extraction in large scale WSNs under single or zero hop data forwarding,2010,,European Wireless Conference
+476179136,Mobility and energy aware distributed clustering protocol for ad hoc sensor networks,2011,,IEEE India Conference
+483428609,Simulation studies on ZigBee communications for home automation and networking,2010,,AUTOTESTCON
+473651350,A tuple space for social networking on mobile phones,2010,,International Conference on Data Engineering
+119647191,Asymptotically optimal time synchronization in dense sensor networks,2003,,Sensor Networks and Applications
+332245653,"Adaptive, limited knowledge wireless recharging in sensor networks",2013,,Mobility Management and Wireless Access
+180581133,A new random walk for efficient data collection in sensor networks,2011,,Mobility Management and Wireless Access
+18440885,Opportunistic carrier sensing for energy-efficient information retrieval in sensor networks,2005,,"Conference on Advanced Signal Processing : Algorithms, Architectures, and Implemenations"
+338298617,Improving Delay in Ad-Hoc Mobile Networks Via Redundant Packet Transfers,2003,,Conference on Information Sciences and Systems
+449133418,An analytical model for evaluating usable throughput in ad-hoc wireless networks,2008,,Conference on Information Sciences and Systems
+148471009,Communication-Based Motion Planning,2007,,Conference on Information Sciences and Systems
+166894899,Percolation-theory based density derivations of wireless sensor network nodes for preventing exposure paths,2008,,Conference on Information Sciences and Systems
+343713449,Multiple Round Random Ball Placement: Power of Second Chance,2009,,Computing and Combinatorics Conference
+418075798,Wireless sensor network: channel propagation measurements and comparison with simulation,2007,,Annual Conference on Computers
+282558784,Optimal determination of source-destination connectivity in random graphs,2014,,Mobile Ad Hoc Networking and Computing
+358709897,Fault tolerant deployment and topology control in wireless networks,2003,,Mobile Ad Hoc Networking and Computing
+10229946,Transmission delay in large scale ad hoc cognitive radio networks,2012,,Mobile Ad Hoc Networking and Computing
+148662459,Connectivity in obstructed wireless networks: from geometry to percolation,2013,,Mobile Ad Hoc Networking and Computing
+15310271,On the minimum node degree and connectivity of a wireless multihop network,2002,,Mobile Ad Hoc Networking and Computing
+133896560,Distributed energy management algorithm for large-scale wireless sensor networks,2007,,Mobile Ad Hoc Networking and Computing
+470463892,"Capacity of multi-channel wireless networks with random (c, f) assignment",2007,,Mobile Ad Hoc Networking and Computing
+58854783,RaWMS -: random walk based lightweight membership service for wireless ad hoc network,2006,,Mobile Ad Hoc Networking and Computing
+88762161,Inducing spatial clustering in MAC contention for spread spectrum ad hoc networks,2005,,Mobile Ad Hoc Networking and Computing
+372114613,3DLS: density-driven data location service for mobile ad-hoc networks,2009,,Mobile Ad Hoc Networking and Computing
+21321213,Asymptotic critical transmission radius and critical neighbor number for k -connectivity in wireless ad hoc networks,2004,,Mobile Ad Hoc Networking and Computing
+346763852,Complexity of scheduling with analog network coding,2008,,Mobile Ad Hoc Networking and Computing
+378262073,Asynchronous wakeup for ad hoc networks,2003,,Mobile Ad Hoc Networking and Computing
+415952830,On the maximum stable throughput problem in random networks with directional antennas,2003,,Mobile Ad Hoc Networking and Computing
+161529586,Asymptotic critical transmission radius for greedy forward routing in wireless ad hoc networks,2006,,Mobile Ad Hoc Networking and Computing
+256657308,Performance analysis of mobility-assisted routing,2006,,Mobile Ad Hoc Networking and Computing
+219837481,Connectivity in cooperative wireless ad hoc networks,2008,,Mobile Ad Hoc Networking and Computing
+183856033,Low-coordination topologies for redundancy in sensor networks,2005,,Mobile Ad Hoc Networking and Computing
+414472967,The K-Neigh Protocol for Symmetric Topology Control in Ad Hoc Networks,2003,,Mobile Ad Hoc Networking and Computing
+351335658,Complexity in geometric SINR,2007,,Mobile Ad Hoc Networking and Computing
+238260190,On The Distance Distributions of The Wireless Ad Hoc Networks,2006,,Vehicular Technology Conference
+121332995,Connectivity and Bit Error Rate Analysis of Mobile Ad Hoc Wireless Networks,2006,,Vehicular Technology Conference
+220905331,On the connectivity of wireless multihop networks with homogeneous and inhomogeneous range assignment,2002,,Vehicular Technology Conference
+26940645,Hop distances in homogeneous ad hoc networks,2003,,Vehicular Technology Conference
+209802771,Time Slot Partitioning and Random Data Hopping for TDD Based Multihop Wireless Networks,2007,,Vehicular Technology Conference
+38888339,Quantitative Analysis of the VANET Connectivity: Theory and Application,2011,,Vehicular Technology Conference
+63193979,Node aging effect on connectivity of data gathering trees in sensor networks,2004,,Vehicular Technology Conference
+197915294,Multicast Capacity of Wireless Ad Hoc Networks with Hierarchical Routing,2007,,Vehicular Technology Conference
+221005169,End-to-end delay in mobile ad hoc networks with generalized transmission range and limited packet redundancy,2012,,Wireless Communications and Networking Conference
+490036189,Connectivity based on shadow fading and interference in wireless ad hoc networks,2013,,Wireless Communications and Networking Conference
+106784286,On-line disjoint path routing for network capacity maximization in ad hoc networks,2005,,Wireless Communications and Networking Conference
+99705876,Energy Savings Achievable in Connection Preserving Energy Saving Algorithms,2009,,Wireless Communications and Networking Conference
+82499921,Power efficient topology control in wireless ad hoc networks,2004,,Wireless Communications and Networking Conference
+22664872,Controlled Gossiping in Ad Hoc Networks,2010,,Wireless Communications and Networking Conference
+394561020,Asymptotic critical transmission ranges for connectivity in wireless ad hoc networks with Bernoulli nodes,2005,,Wireless Communications and Networking Conference
+235608331,Determinate bounds of design parameters for critical connectivity in wireless multi-hop line networks,2011,,Wireless Communications and Networking Conference
+119240444,Noncooperative content distribution in mobile infostation networks,2003,,Wireless Communications and Networking Conference
+468273834,Topology control for MANETs,2004,,Wireless Communications and Networking Conference
+365989708,Probabilistic broadcast for flooding in wireless mobile ad hoc networks,2003,,Wireless Communications and Networking Conference
+112493979,Minimizing communication costs in hierarchically clustered networks of wireless sensors,2003,,Wireless Communications and Networking Conference
+230661583,On the capacity of ad hoc networks with clustering,2005,,Wireless Communications and Networking Conference
+433967159,Graph Theoretic Models and Tools for the Analysis of Dynamic Wireless Multihop Networks,2009,,Wireless Communications and Networking Conference
+421674262,On the Giant Component in Wireless Multi-Hop Networks,2009,,Wireless Communications and Networking Conference
+430251461,Statistically accurate sensor networking,2002,,Wireless Communications and Networking Conference
+164783183,The Localization Problem in Networks of Uniformly Deployed Nodes,2008,,Wireless Communications and Networking Conference
+493714669,Coverage Control and Irregular Radio Propagation in Wireless Sensor Networks,2009,,Wireless Communications and Networking Conference
+474708874,Connectivity in the presence of shadowing in 802.11 ad hoc networks,2005,,Wireless Communications and Networking Conference
+115825778,Asymptotic distribution of the number of isolated nodes in wireless ad hoc networks with Bernoulli nodes,2003,,Wireless Communications and Networking Conference
+85957705,Efficient Identification of Additive Link Metrics via Network Tomography,2013,,International Conference on Distributed Computing Systems
+103633469,On energy efficiency and network connectivity of mobile ad hoc networks,2003,,International Conference on Distributed Computing Systems
+439821081,Impact of Mobility and Heterogeneity on Coverage and Energy Consumption in Wireless Sensor Networks,2011,,International Conference on Distributed Computing Systems
+373290176,Asymptotic Connectivity in Wireless Networks Using Directional Antennas,2007,,International Conference on Distributed Computing Systems
+120676433,On the Longest RNG Edge of Wireless Ad Hoc Networks,2008,,International Conference on Distributed Computing Systems
+468306719,Limiting transmit power of antennas in Heterogeneous Sensor Networks,2012,,Electro/Information Technology
+323651129,Bounds on the mixing time and partial cover of ad-hoc and sensor networks.,2005,,International Conference on Embedded Wireless Systems and Networks
+497351970,Topology Transparent Support for Sensor Networks,2004,,International Conference on Embedded Wireless Systems and Networks
+139032609,"Connectivity in multi-radio, multi-channel heterogeneous ad hoc networks",2005,,"Personal, Indoor and Mobile Radio Communications"
+112774184,Effects of topology on local throughput-capacity of ad hoc networks,2008,,"Personal, Indoor and Mobile Radio Communications"
+398255617,Optimal number of 1-hop neighbor nodes considering routing overhead in ad hoc networks,2009,,"Personal, Indoor and Mobile Radio Communications"
+359247995,Autoregressive model based data gathering algorithm for wireless sensor networks with compressive sensing,2015,,"Personal, Indoor and Mobile Radio Communications"
+182269783,Average consensus with minimum energy consumption: Optimal topology and power allocation,2010,,European Signal Processing Conference
+89092587,Connectivity in Secure Wireless Sensor Networks under Transmission Constraints (CMU-CyLab-14-003),2014,,"Allerton Conference on Communication, Control, and Computing"
+61749669,Connectivity in secure wireless sensor networks under transmission constraints,2014,,"Allerton Conference on Communication, Control, and Computing"
+89004339,The absence of isolated node in geometric random graphs,2015,,"Allerton Conference on Communication, Control, and Computing"
+48722504,On the Eschenauer-Gligor key predistribution scheme under on-off communication channels: The absence of isolated nodes,2015,,"Allerton Conference on Communication, Control, and Computing"
+251375689,Node isolation of secure wireless sensor networks under a heterogeneous channel model,2016,,"Allerton Conference on Communication, Control, and Computing"
+429065771,A new graph model with random edge values: Connectivity and diameter,2013,,"Allerton Conference on Communication, Control, and Computing"
+254557382,Impact of region-based faults on the connectivity of wireless networks,2009,,"Allerton Conference on Communication, Control, and Computing"
+66247049,Secure clock synchronization under collusion attacks,2016,,"Allerton Conference on Communication, Control, and Computing"
+386567506,On the delay performance of in-network aggregation in lossy wireless sensor networks,2008,,"Allerton Conference on Communication, Control, and Computing"
+78091791,Node isolation of secure wireless sensor networks under a heterogeneous channel model,2016,,"Allerton Conference on Communication, Control, and Computing"
+154209917,On robust k-hop clustering in ad-hoc cognitive radio networks,2016,,National Conference on Communications
+52473818,Quantifying the Trade-off Between the Level of Connectivity and Local Complexity in Random Wireless Network Topologies,2009,,Quantitative Evaluation of Systems
+446618078,Compass enhanced ORRP for wireless sensor networks,2009,,ACM workshop on Performance monitoring and measurement of heterogeneous wireless and wired networks
+100907717,C2P2: a peer-to-peer network for on-demand automobile information services,2004,,Database and Expert Systems Applications
+412493163,Spatial node distribution of manhattan path based random waypoint mobility models with applications,2009,,International Conference on Structural Information and Communication Complexity
+350127776,Transition phase of connectivity for wireless networks with growing process,2012,,Ubiquitous Computing
+180564950,Connectivity of a Gaussian network,2008,,Ubiquitous Computing
+82428232,Connectivity with static transmission range in vehicular ad hoc networks,2005,,Conference on Communication Networks and Services Research
+261644810,Taking advantage of data correlation to control the topology of wireless sensor networks,2008,,International Conference on Telecommunications
+288364175,A Deployment Tool for Public Safety Ad-hoc Networks,2006,,COMmunication System softWAre and MiddlewaRE
+121157332,Percolation processes and wireless network resilience,2008,,Information Theory and Applications
+330600931,A Model of an Amorphous Computer and Its Communication Protocol,2007,,Conference on Current Trends in Theory and Practice of Informatics
+27953099,Connectivity for the Frisbee Architecture,2006,,International Conference on Information Fusion
+83439970,A Distributed Data Gathering Algorithm for Wireless Sensor Networks with Uniform Architecture,2007,,"Parallel, Distributed and Network-Based Processing"
+443392119,The Critical Neighbourhood Range for Asymptotic Overlay Connectivity in Dense Ad Hoc Networks,2005,,Annual Mediterranean Ad Hoc Networking Workshop
+149815654,On Improving Connectivity of Static Ad-Hoc Networks by Adding Nodes,2005,,Annual Mediterranean Ad Hoc Networking Workshop
+456184335,Cluster head election with a fuzzy algorithm for wireless sensor networks,2013,,International Congress on Image and Signal Processing
+241620368,Research challenges in wireless networks: a technical overview,2002,,Wireless Personal Multimedia Communications
+331563349,Random Geometric Graphs as model of Wireless Sensor Networks,2010,,International Conference on Computer and Automation Engineering
+428551448,Throughput enhancement based on optimum transmission range in MANETs,2014,,International Conference on Ubiquitous and Future Networks
+492497426,Plane and Planarity Thresholds for Random Geometric Graphs,2015,,Algorithmic Aspects of Wireless Sensor Networks
+322696732,Connectivity of a Dense Mesh of Randomly Oriented Directional Antennas Under a Realistic Fading Model,2015,,Algorithmic Aspects of Wireless Sensor Networks
+57311556,An Early-Stopping Protocol for Computing Aggregate Functions in Sensor Networks,2009,,Pacific Rim International Symposium on Dependable Computing
+428492677,On the connectivity of cooperative and non cooperative wireless communication networks,2005,,International Workshop on Signal Processing Advances in Wireless Communications
+470522013,Probabilistic quorum systems in wireless ad hoc networks,2008,,Dependable Systems and Networks
+19426083,An evaluation of connectivity in mobile wireless ad hoc networks,2002,,Dependable Systems and Networks
+224567118,Network reliability analysis with unreliable information,2013,,Design of Reliable Communication Networks
+352958570,Improving the topological resilience of mobile ad hoc networks,2009,,Design of Reliable Communication Networks
+9715123,Capacity bounds for ad hoc and hybrid wireless networks,2004,,ACM Special Interest Group on Data Communication
+95979332,On edges and connectivity in ad hoc networks,2004,,Global Communications Conference
+326670857,Critical Density Thresholds in Distributed Wireless Networks,2003,,Global Communications Conference
+450959190,On the Information Propagation in Mobile Ad-Hoc Networks Using Epidemic Routing,2011,,Global Communications Conference
+466712737,An analysis of intrinsic properties of stochastic node placement in sensor networks,2012,,Global Communications Conference
+306629046,On the quality of wireless network connectivity,2012,,Global Communications Conference
+281061173,A capacity upper bound for large wireless networks with generally distributed nodes,2013,,Global Communications Conference
+76534967,Connectivity of Aeronautical Ad hoc Networks,2010,,Global Communications Conference
+386083587,Theoretical analysis of cooperative diversity in wireless sensor networks,2005,,Global Communications Conference
+345124757,Path Planning for Network Performance,2007,,Global Communications Conference
+431893981,Route discovery and capacity of ad hoc networks,2005,,Global Communications Conference
+26584171,Threshold effect in the throughput of large clustered ad hoc networks,2005,,Global Communications Conference
+150364388,Critical Phase of Connectivity in Wireless Network Expansion,2010,,Global Communications Conference
+67367172,Analysis of Fundamental Limits for Partial Connectivity in Wireless Networks,2009,,Global Communications Conference
+412814624,Phase Transition Properties in K-Connected Wireless Multi-Hop Networks,2008,,Global Communications Conference
+398133644,Analysis on capacity and delay for Redundant Multiple Source Routing in Mobile Ad Hoc Networks,2010,,Global Communications Conference
+234815067,Effective Radio Partitioning and Efficient Queue Management Schemes in a Wireless Mesh Network,2008,,Global Communications Conference
+144820970,WSN18-5: Asymptotic Distribution of The Number of Isolated Nodes in Wireless Ad Hoc Networks with Unreliable Nodes and Links,2006,,Global Communications Conference
+460228457,Connectivity Analysis of Clustered Ad Hoc and Mesh Networks,2007,,Global Communications Conference
+411171582,A new routing scheme based on adaptive selection of geographic directions,2012,,Global Communications Conference
+324793464,On Study of Achievable Capacity with Hybrid Relay in Cognitive Radio Networks,2009,,Global Communications Conference
+274271192,Connectivity of two-tier networks,2010,,Global Communications Conference
+57360748,Ellipse Routing: A Geographic Routing Protocol for Mobile Sensor Networks with Uncertain Positions,2008,,Global Communications Conference
+349048826,Minimum Node Degree and k-Connectivity of a Wireless Multihop Network in Bounded Area,2007,,Global Communications Conference
+17250228,Phase transition phenomena in wireless ad hoc networks,2001,,Global Communications Conference
+369544957,Distributed Null-Steering Beamforming for Wireless Sensor Networks,2009,,Global Communications Conference
+233856910,Bond-Percolation Based Optimal Density for Exposure-Path Prevention in Wireless Sensor Networks,2008,,Global Communications Conference
+198776173,WLC07-5: The Effects of Mobility on the Bit Error Rate Performance of Ad Hoc Wireless Networks,2006,,Global Communications Conference
+383262956,Evaluation of the Probability of K-Hop Connection in Homogeneous Wireless Sensor Networks,2007,,Global Communications Conference
+160894819,Accelerating Initialization for Sensor Networks,2009,,Global Communications Conference
+102239551,Influence of Node Location Distributions on the Structure of Ad Hoc and Mesh Networks,2008,,Global Communications Conference
+109895509,Asympotic capacity bounds for ad-hoc networks revisited: the directional and smart antenna cases,2003,,Global Communications Conference
+158300658,A Battery-Aware Deployment Scheme for Cooperative Wireless Sensor Networks,2009,,Global Communications Conference
+281639310,Delay and Energy Tradeoff in Multi-State Wireless Sensor Networks,2007,,Global Communications Conference
+302086833,Dynamic Connectivity of Cognitive Radio Ad-Hoc Networks with Time-Varying Spectral Activity,2010,,Global Communications Conference
+11180416,An efficient energy aware clusterhead formation infrastructure protocol for MANETs,2003,,International Symposium on Computers and Communications
+734734,Power efficient system for sensor networks,2003,,International Symposium on Computers and Communications
+193724346,A study of the VANET connectivity by percolation theory,2011,,Consumer Communications and Networking Conference
+169344136,Estimation of the optimal number of cluster-heads in sensor network,2005,,International Conference on Knowledge-Based and Intelligent Information and Engineering Systems
+45461095,Impact of Directional Antennas on Link Probability and Connectivity in Wireless Ad-Hoc Networks,2015,,Conference on the Future of the Internet
+94584771,Modeling the Critical Transmitting Range for Connectivity in Wireless Sensor Networks,2010,,International Conference on Multimedia Information Networking and Security
+446224158,On the critical communication range under node placement with vanishing densities,2007,,International Symposium on Information Theory
+114063656,On connectivity thresholds in superposition of random key graphs on random geometric graphs,2013,,International Symposium on Information Theory
+274371469,Minimum Node Degree and k-Connectivity in Wireless Networks with Unreliable Links,2014,,International Symposium on Information Theory
+297573027,Capacity Scaling of Ad Hoc Networks with Spatial Diversity,2007,,International Symposium on Information Theory
+376869629,On topological properties of wireless sensor networks under the q-composite key predistribution scheme with on/off channels,2014,,International Symposium on Information Theory
+130310758,Ad hoc wireless networks with noisy links,2003,,International Symposium on Information Theory
+157042115,Scaling Bounds for Function Computation over Large Networks,2007,,International Symposium on Information Theory
+175082932,Rate-of-decay of probability of isolation in dense sensor networks with bounding constraints,2010,,International Symposium on Information Theory
+212278374,On distributed function computation in structure-free random networks,2008,,International Symposium on Information Theory
+262510470,Sensor network devolution and breakdown in survivor connectivity,2004,,International Symposium on Information Theory
+150016081,Minimum node degree in inhomogeneous random key graphs with unreliable links,2016,,International Symposium on Information Theory
+267925464,Critical node lifetimes in random networks via the chen-stein method,2005,,International Symposium on Information Theory
+210293767,Connectivity of inhomogeneous random key graphs intersecting inhomogeneous Erdős-Rényi graphs,2017,,International Symposium on Information Theory
+411330297,On Trust Evaluation in Mobile Ad Hoc Networks,2009,,Security and Privacy in Mobile Information and Communication Systems
+426377895,Coopertive surveillance in video sensor networks,2008,,International Conference on Distributed Smart Cameras
+111915247,On the Performance of Clustered Energy-Aware Wireless Networks,2006,,"International Conference on Acoustics, Speech, and Signal Processing"
+465194429,Designing secure networks with q-composite key predistribution under different link constraints,2017,,"International Conference on Acoustics, Speech, and Signal Processing"
+296368580,Modeling interest-based social networks: Superimposing Erdős-Rényi graphs over random intersection graphs,2017,,"International Conference on Acoustics, Speech, and Signal Processing"
+279231264,On the diameter of sensor networks,2002,,IEEE Aerospace Conference
+193976667,An empirical study on the connectivity of ad hoc networks,2003,,IEEE Aerospace Conference
+422132159,Connectivity of Wireless Ad Hoc Networks: Impacts of Antenna Models,2013,,Parallel and Distributed Computing: Applications and Technologies
+111965548,Bounds on minimum number of anchors for iterative localization and its connections to bootstrap percolation,2012,,International Conference on Signal Processing
+166028784,On the impact of manufacturing process variations on the lifetime of sensor networks,2007,,International Conference on Hardware/Software Codesign and System Synthesis
+270848328,More is less: Connectivity in fractal regions,2015,,International Symposium on Wireless Communication Systems
+11958457,MOGAMESH: A multi-objective algorithm for node placement in wireless mesh networks based on genetic algorithms,2009,,International Symposium on Wireless Communication Systems
+373913647,More is less: Connectivity in fractal regions,2015,,International Symposium on Wireless Communication Systems
+392301444,Distributed k-clustering algorithms for random wireless multihop networks,2005,,International Conference on Networking
+431199598,A study of reconnecting the partitioned wireless sensor networks,2005,,International Conference on Networking
+226151447,Labeling Smart Dust,2004,,European Symposium on Algorithms
+470409706,Bootstrapping a hop-optimal network in the weak sensor model,2005,,European Symposium on Algorithms
+137471922,Region-Based multicast routing protocol with dynamic address allocation scheme in mobile ad-hoc networks,2006,,International Symposium on Parallel and Distributed Processing and Applications
+7790696,Sampling based sensor-network deployment,2004,,Intelligent Robots and Systems
+289977930,Initialization Algorithm Based on SNIR Model for Wireless Sensor Networks,2006,,"International Conference on Wireless Communications, Networking and Mobile Computing"
+230376641,REECP: A Reliable Protocol with Early-Warning Scheme in Wireless Sensor Networks,2007,,"International Conference on Wireless Communications, Networking and Mobile Computing"
+350592898,Fault Tolerant Topology Control for Clustered Wireless Sensor Networks,2008,,"International Conference on Wireless Communications, Networking and Mobile Computing"
+91143349,Computing subgraph probability of random geometric graphs: quantitative analyses of wireless ad hoc networks,2005,,Formal Techniques for (Networked and) Distributed Systems
+115193182,Wireless networks and random geometric graphs,2004,,"International Symposium on Parallel Architectures, Algorithms, and Networks"
+195027476,Connectivity of sensor networks with power control,2003,,"Asilomar Conference on Signals, Systems and Computers"
+62456972,Optimizing Multi-Copy Routing Schemes for Resource Constrained Intermittently Connected Mobile Networks,2006,,"Asilomar Conference on Signals, Systems and Computers"
+87089474,Randomized gossiping with unreliable communication: Dependent or independent node updates,2012,,Conference on Decision and Control
+304686536,Distributed Clock Synchronization over Wireless Networks: Algorithms and Analysis,2006,,Conference on Decision and Control
+466527425,Critical power for asymptotic connectivity,1998,,Conference on Decision and Control
+118714664,Agreement in presence of noise: pseudogradients on random geometric networks,2005,,Conference on Decision and Control
+451009429,Convergence of a class of multi-agent systems in probabilistic framework,2007,,Conference on Decision and Control
+307038076,Protocols for media access control and power control in wireless networks,2001,,Conference on Decision and Control
+14914882,Convergence of approximate best-response dynamics in interference games,2016,,Conference on Decision and Control
+259640513,Distributed hybrid consensus of second-order dynamics over proximity nets,2016,,Conference on Decision and Control
+230854019,From theory to practice: Fundamental properties and services of mobile ad hoc networks,2008,,
+129055260,MODELING AND ANALYSIS OF MOBILE AD HOC NETWORKS,2004,,
+246614312,Energy Ecien t Data Collection in Sensor Networks,2005,,
+180133235,Critical Transmission Range for Channel Allocation in Multi-hop Wireless Networks,2002,,
+290626686,A Taxonomy-based Approach to Design of Large-scale Sensor Networks,2008,,
+28303428,Consistency of cheeger and ratio graph cuts,2016,Journal of Machine Learning Research,
+474149227,On the Fundamentals of Stochastic Spatial Modeling and Analysis of Wireless Networks and its Impact to Channel Losses,2012,,
+186766280,The Spatial Smoothing Method of Clock Synchronization in Wireless Networks,2011,,
+364674762,Random Graph Models and the Limits of Scalability in Ad Hoc and Sensor Networks,2008,,
+469955682,Wireless Networks and the Expected Next Revolution in Information Technology,2006,,
+38706205,"Modeling, design, and analysis on the resilience of large-scale wireless multi-hop networks",2009,,
+427067075,Asymptotic properties of multi-hop wireless networks,2005,,
+352105837,Random Geometric Graphs and the Initialization Problem for Wireless Networks,2007,,
+117589088,Critical Transmission Range for Connectivity in Ad-Hoc Networks,2007,,
+93305489,On the Asymptotic Minimum Energy Required to Transport Packets in Wireless Networks,2005,,
+245731670,Dynamic power allocation and routing for satellite and wireless networks with time varying channels,2003,,
+408053210,Cross-layer Designs,2007,,
+264125514,A Lifetime-Optimizing Approach to Routing Messages in Ad-hoc Networks,2004,,
+455227290,Performance of wireless networks subject to constraints and failures,2008,,
+178610466,Comparative Methods of Channel Assignment in Multivariate Wireless Networks,2008,,
+134504586,Model and Simulation of Data Aggregation Based on Voronoi Diagram in Hierarchical Sensor Network,2012,,
+494428471,Protocols and Architecture for Wireless Ad Hoc Networks,2004,,
+223972706,"Coverage, Connectivity, and Deployment in Wireless Sensor Networks",2015,,
+159820714,"Power Control in Ad Hoc Wireless Networks: An Architectural Solution for a Melee of Multiple Agents, Cost Criteria, and Information Patterns",2003,,
+364641878,"Communication in disruption tolerant networks: Models, analyses and routing",2011,,
+249036823,Topology Control for Efficient Information Dissemination in Ad-hoc Networks,2002,,
+54295587,A Survey of Proximity Graphs in Wireless Networks,2008,Journal of Software,
+485112771,Mobility Aspects in WSN,2011,,
+396604101,Analysis Of Topological Properties Of Random Wireless Sensor Networks,2010,,
+206709624,A short survey of wireless sensor networks,2003,,
+176886651,Improving the Reliability and Performance of Real-Time Communications in Mobile Ad Hoc Networks,2009,,
+204734313,How Many Wireless Sensors are Needed to Guarantee Connectivity of A One-Dimensional Network with Random Inter-Node Spacing?,2013,,
+464678746,"Connectivity in one-dimensional geometric random graphs: Poisson approximations, zero-one laws and phase transitions",2008,,
+116038152,PERFORMANCE STUDIES OF WIRELESS MULTIHOP NETWORKS,2006,,
+426202321,Channel propagation measurement and simulation of MICAz mote,2008,WSEAS Transactions on Computers archive,
+28589612,Secure integrated routing and localization in wireless optical sensor networks,2009,,
+34606212,Low Duty-Cycled Wireless Sensor Networks: Connectivity and Opportunistic Routing,2008,,
+114697406,Statistical problems in wireless sensor networks,2009,,
+437441253,Robust and Distributed Computation of Aggregates in Wireless Sensor Networks,2004,,
+348448504,A strong zero-one law for connectivity in one-dimensional geometric random graphs with non-vanishing densities,2007,,
+397417620,Self-synchronized Cooperative Beamforming in Ad-Hoc Networks,2014,,
+140924367,Structural and Algorithmic Properties of Static and Mobile Random Geometric Graphs,2011,,
+444690383,"Manhattan Path Based RWP Mobility Models: Spatial Node Distribution, Smooth Movement, and Connectivity Properties",2009,,
+104063640,Fundamental issues in networked control systems - 1:? Information,2009,,
+261308848,On the Dimensioning of Ad Hoc Sensor Networks,2006,,
+278312627,Algorithms and LP-duality based lower bounds in ad-hoc Radio Networks,2007,,
+198653215,Computing functions over wireless networks,2009,,
+88789269,Evaluation and Optimization in Dense Wireless Networks,2012,,
+406351460,Understanding performance limits in wireless sensor networks,2005,,
+174384826,Random graph models for wireless communication networks,2010,,
+459569469,Practical implementation and performance analysis on security of sensor networks,2006,,
+83106762,Performance of Averaging Algorithms in Time-Varying Networks,2007,,
+442250705,Fighting Sinkhole Attacks in Tree-based Routing Topologies,2008,,
+282061883,Algorithmic challenges in wireless networks,2009,,
+39321419,Connectivity of Homogeneous Wireless Multi-hop Networks in Presence of Superimposed Channel Fading,2011,,
+342398493,Transmission Power Control Techniques in Ad Hoc Networks,2009,,
+181951039,Impact of Nakagami-m Fading Model on Multi-hop Mobile Ad Hoc Network,2011,International Journal of Computer Applications,
+399164772,Some Introductory Notes on Random Graphs,2015,,
+181150000,Information Propagation Speed in Mobile and Delay Tolerant Networks,2010,IEEE Transactions on Information Theory,
+460855979,On Throughput Scaling of Wireless Networks: Effect of Node Density and Propagation Model,2007,arXiv: Information Theory,
+204746068,Routing with guaranteed delivery in geometric and wireless networks,2002,,
+343673127,"Connectivity, Percolation, and Information Dissemination in Large-Scale Wireless Networks with Dynamic Links",2009,arXiv: Information Theory,
+12366334,The Costly Path from Percolation to Full Connectivity,2004,,
+438969673,Small worlds and rapid mixing with a little more randomness on random geometric graphs,2011,,
+43429885,Coverage problem of wireless sensor networks,2005,,
+476037931,Connectivity of vehicular ad hoc networks with continuous node distribution patterns,2010,,
+276969641,Cross-layer resilience based on critical points in manets,2010,,
+43815963,Probabilistic Analysis of Rule 2,2004,arXiv: Discrete Mathematics,
+139488803,Channel Assignment Using Topology Control Based on Power Control in Wireless Mesh Networks,2012,,
+462989051,Analysis of Connectedness of the Fixed Radius Random Graph Model in One-dimensional Space,2005,,
+103004246,Exploiting predictable observer mobility for power-efficient sensor network communication,2003,,
+306492091,Some Important Aspects of Source Location Protection in Globally Attacked Sensor Networks,2010,arXiv: Cryptography and Security,
+95652129,Low Latency Wireless Ad-Hoc Networking: Power and Bandwidth Challenges and a Hierarchical Solution,2006,arXiv: Information Theory,
+492918656,Critical density for exposure-path prevention in three-dimensional wireless sensor networks using percolation theory,2015,International Journal of Distributed Sensor Networks,
+222589287,Topology Construction and Maintenance in Wireless Sensor Networks,2005,,
+87045699,A curious gap in one-dimensional geometric random graphs between connectivity and the absence of isolated node.,2015,arXiv: Physics and Society,
+270629344,Interference Modeling in CSMA Multi-Hop Wireless Networks,2008,,
+247065786,"Power Control in Ad-Hoc Networks: Theory, Architecture, Algorithm and Implementation of the COMPOW Protocol",2002,,
+119334256,On Clustering in Sensor Networks,2010,,
+128649090,Designing Securely and Reliably Connected Wireless Sensor Networks.,2015,arXiv: Cryptography and Security,
+311212180,Networking Wireless Sensors,2005,,
+17416497,Containment control of general linear multi-agent systems with multiple dynamic leaders: A fast sliding mode based approach,2014,IEEE/CAA Journal of Automatica Sinica,
+96715801,Quantitative analysis of multi-hop wireless networks using a novel paradigm,2007,,
+163124800,Theoretical aspects of graph models for MANETs,2011,,
+426102591,An Improved Lower Bound to the Number of Neighbors Required for the Asymptotic Connectivity of Ad Hoc Networks,2005,arXiv: Networking and Internet Architecture,
+468848170,Distributed Construction of the Critical Geometric Graph in Dense Wireless Sensor Networks,2010,arXiv: Networking and Internet Architecture,
+453158058,Percolation Processes and Wireless Network Resilience to Degree-Dependent and Cascading Node Failures,2009,arXiv: Networking and Internet Architecture,
+62301501,Connectivity of Random 1-Dimensional Networks,2007,arXiv: Information Theory,
+152161285,Energy-Efficient Group Key Agreement for Wireless Networks,2015,IEEE Transactions on Wireless Communications,
+85795628,Toward Reliable Contention-aware Data Dissemination in Multi-hop Cognitive Radio Ad Hoc Networks,2009,arXiv: Networking and Internet Architecture,
+419454647,Intersecting random graphs and networks with multiple adjacency constraints: A simple example,2008,arXiv: Information Theory,
+494180427,CONNECTIVITY OF SOFT RANDOM GEOMETRIC GRAPHS,2016,Annals of Applied Probability,
+54584207,The Expected Size of the Rule k Dominating Set,2006,Algorithmica,
+170447699,Distributed Detection and Estimation in Wireless Sensor Networks,2014,Academic Press Library in Signal Processing,
+362071823,"Mobile Geometric Graphs, and Detection and Communication Problems in Mobile Wireless Networks",2010,arXiv: Probability,
+343493761,Routing and Search on Large Scale Networks,2010,,
+179934352,How Many Randomly Distributed Wireless Sensors Are Enough To Make a 1-Dimensional Network Connected With a Given Probability?,2007,,
+384654609,On critical density for coverage and connectivity in directional sensor network over stochastic channels using continuum percolation,2015,International Journal of Distributed Sensor Networks,
+208736992,The Capacity of Random Ad hoc Networks under a Realistic Link Layer Model,2005,arXiv: Information Theory,
+256464286,Continuum Limit of Total Variation on Point Clouds,2016,Archive for Rational Mechanics and Analysis,
+289518210,k-Connectivity in Secure Wireless Sensor Networks with Physical Link Constraints - The On/Off Channel Model,2012,arXiv: Information Theory,
+87618624,Go Heuristics for Coverage of Dense Wireless Sensor Networks,2012,arXiv: Networking and Internet Architecture,
+50281124,A variational approach to the consistency of spectral clustering,2016,Applied and Computational Harmonic Analysis,
+231343180,On Connectivity Thresholds in the Intersection of Random Key Graphs on Random Geometric Graphs,2013,arXiv: Information Theory,
+59236673,On zero-one laws for connectivity in one-dimensional geometric random graphs,2006,,
+318636837,Percolation Theory-Based Exposure-Path Prevention for 3D-Wireless Sensor Networks Coverage,2015,Ksii Transactions on Internet and Information Systems,
+403776698,Heterogeneous wireless networks: an analysis of network and service level diversity,2004,,
+371855244,A non-asymptotic approach to the analysis of communication networks: from error correcting codes to network properties,2013,,
+255300322,Convergence of a Class of Multi-Agent Systems In Probabilistic Framework,2007,Journal of Systems Science & Complexity,
+71786501,"Fundamentals of Large Sensor Networks: Connectivity, Capacity, Clocks, and Computation",2010,arXiv: Networking and Internet Architecture,
+433467296,The node distribution of the random waypoint mobility model for wireless ad hoc networks,2003,IEEE Transactions on Mobile Computing,
+7949192,Size of the giant component in a random geometric graph,2013,Annales De L Institut Henri Poincare-probabilites Et Statistiques,
+7869985,The number of neighbors needed for connectivity of wireless networks,2004,Wireless Networks,
+264979071,The Critical Grid Size and Transmission Radius for Local-Minimum-Free Grid Routing in Wireless Ad Hoc and Sensor Networks,2010,The Computer Journal,
+73635821,The Smallest Possible Interaction Radius for Synchronization of Self-Propelled Particles,2014,Siam Review,
+246885032,Connectivity in finite ad-hoc networks,2008,Science in China Series F: Information Sciences,
+416412425,Random rectangular graphs,2015,Physical Review E,
+4864743,DEEP: Density-based proactive data dissemination protocol for wireless sensor networks with uncontrolled sink mobility,2010,Computer Communications,
+470798420,Exploiting routing information in Wireless Sensor Networks localization,2013,,
+435638631,Sampling-based algorithms for optimal motion planning,2011,The International Journal of Robotics Research,
+114539269,Wireless Multi-hop Networks: Current Research and Future Challenges,2012,Journal of Communications,
+334861046,Efficient Delaunay‐based localized routing for wireless sensor networks,2007,International Journal of Communication Systems,
+159379185,Network topology models for multihop wireless networks,2012,International Scholarly Research Notices,
+275793465,"Accuracy, latency, and energy cross-optimization in wireless sensor networks through infection spreading",2011,International Journal of Communication Systems,
+455318276,Investigation of Indoor Location Sensing via RFID Reader Network Utilizing Grid Covering Algorithm,2009,Wireless Personal Communications,
+490142027,Thresholding random geometric graph properties motivated by ad hoc sensor networks,2010,Journal of Computer and System Sciences,
+114326958,Geographic Routing With Limited Information in Sensor Networks,2010,IEEE Transactions on Information Theory,
+52121472,"Covering algorithms, continuum percolation and the geometry of wireless networks",2003,Annals of Applied Probability,
+79038774,Node clustering in wireless sensor networks: recent developments and deployment challenges,2006,IEEE Network,
+276506308,Evaluation stochastique et simulation des réseaux radio,2006,,
+488742390,Research on wireless multi-hop networks: Current state and challenges,2012,arXiv: Networking and Internet Architecture,
+47959888,THE SMALLEST POSSIBLE INTERACTION RADIUS FOR FLOCK SYNCHRONIZATION,2012,Siam Journal on Control and Optimization,
+84252046,Impact of deployment size on the asymptotic capacity for wireless ad hoc networks under Gaussian channel model,2011,Wireless Networks,
+159350867,"Throughput capacity analysis of large multi-channel, multi-interface random wireless mesh networks",2013,Performance Evaluation,
+298958385,Performance and reliability of DSRC vehicular safety communication: a formal analysis,2009,Eurasip Journal on Wireless Communications and Networking,
+274262700,On the connectivity and diameter of small-world networks,2007,Advances in Applied Probability,
+328582383,Impact of energy depletion and reliability on wireless sensor network connectivity,2004,,
+489997814,Multi-Hop Routing-Based Optimization of the Number of Cluster-Heads in Wireless Sensor Networks,2011,Sensors,
+132856365,Contention-free MAC protocols for asynchronous wireless sensor networks,2008,Distributed Computing,
+138437517,Node Isolation Probability of Wireless Adhoc Networks in Nagakami Fading Channel,2010,International Journal of Computer Networks & Communications,
+273263981,Impact of interference on the wireless ad-hoc networks capacity and topology,2006,Wireless Networks,
+252178182,Energy-Efficient Sensing Coverage and Communication for Wireless Sensor Networks,2007,Journal of Systems Science & Complexity,
+304765241,"Wireless energy transfer in sensor networks with adaptive, limited knowledge protocols",2014,Computer Networks,
+259599558,Epidemic Spreading With External Agents,2014,IEEE Transactions on Information Theory,
+470814669,Asymptotic distribution of the number of isolated nodes in wireless ad hoc networks with Bernoulli nodes,2006,IEEE Transactions on Communications,
+48961486,iMST: A bandwidth-guaranteed topology control algorithm for TDMA-based ad hoc networks with sectorized antennas,2008,Computer Networks,
+396559983,Enhanced Random Walk With Choice: An Empirical Study,2014,International Journal on Applications of Graph Theory in Wireless Ad Hoc Networks and Sensor Networks,
+105157019,On the lifetime of large scale sensor networks,2006,Computer Communications,
+120461313,Distributed topology control of wireless networks,2008,Wireless Networks,
+62092252,Energy-Efficient Dynamic Spatial Resolution Control for Wireless Sensor Clusters,2009,International Journal of Distributed Sensor Networks,
+178748276,Dynamic Geometric Graph Processes: Adjacency Operator Approach,2010,Advances in Applied Clifford Algebras,
+4677481,Capacity of Large Wireless Networks with Generally Distributed Nodes,2014,IEEE Transactions on Wireless Communications,
+192395025,Max-Min Fair Link Quality in WSN Based on SINR,2014,Journal of Applied Mathematics,
+63584396,Cross-layer QoS control for video communications over wireless ad hoc networks,2005,Eurasip Journal on Wireless Communications and Networking,
+242127702,"Connectivity Probability of Wireless Ad Hoc Networks: Definition, Evaluation, Comparison",2005,Wireless Personal Communications,
+289088581,Towards a better understanding of large-scale network models,2012,IEEE ACM Transactions on Networking,
+384696419,Coverage and Energy Consumption Control in Mobile Heterogeneous Wireless Sensor Networks,2013,IEEE Transactions on Automatic Control,
+221557807,ON A NETWORK SENSING PROBLEM,2006,Journal of Interconnection Networks,
+263324152,Synchronization of multi-agent systems without connectivity assumptions,2009,Automatica,
+53795334,Analysis of connectivity for sensor networks using geometrical probability,2006,Iet Communications,
+423575525,New technological vistas for systems and control: the example of wireless networks,2001,IEEE Control Systems Magazine,
+14719017,Optimal Scheduling for Multi-Radio Multi-Channel Multi-Hop Cognitive Cellular Networks,2015,IEEE Transactions on Mobile Computing,
+62880273,Toward a theory of in-network computation in wireless sensor networks,2006,IEEE Communications Magazine,
+178355250,Theory and algorithms for hop-count-based localization with random geometric graph models of dense sensor networks,2012,ACM Transactions on Sensor Networks,
+432015022,Wireless Ad-Hoc Network: Analysis for Power Control Architecture,2010,,
+282563957,"Connectivity, coverage and power consumption in large-scale wireless sensor networks",2014,Computer Networks,
+338678678,Optimized network structure and routing metric in wireless multihop ad hoc communication,2006,Physica A-statistical Mechanics and Its Applications,
+444303547,Aggregation Capacity of Wireless Sensor Networks: Extended Network Case,2014,IEEE Transactions on Computers,
+259897307,Connectivity of wireless multihop networks in a shadow fading environment,2005,Wireless Networks,
+424508583,How is the capacity of ad hoc networks improved with directional antennas,2007,Wireless Networks,
+259406880,Topology control in wireless ad hoc and sensor networks,2005,ACM Computing Surveys,
+259349317,Robust Computation of Aggregates in Wireless Sensor Networks: Distributed Randomized Algorithms and Analysis,2006,IEEE Transactions on Parallel and Distributed Systems,
+427552290,On the Hop Count Statistics in Wireless Multihop Networks Subject to Fading,2012,IEEE Transactions on Parallel and Distributed Systems,
+202816628,Continuum Perco-lation and the Geometry of Wireless Networks,2002,,
+178383167,Distributed wireless power transfer in sensor networks with multiple Mobile Chargers,2015,Computer Networks,
+366462142,Full length article: Physical-layer distributed synchronization in wireless networks and applications,2008,Physical Communication,
+484835424,Connectivity of multihop wireless networks with log-normal shadowing,2015,Wireless Networks,
+381389351,Load Balancing Hashing in Geographic Hash Tables,2012,IEEE Transactions on Parallel and Distributed Systems,
+145380677,Topological properties of the one dimensional exponential random geometric graph,2008,Random Structures and Algorithms,
+228321332,Smooth movement and Manhattan path based Random Waypoint mobility,2011,Information Processing Letters,
+358153353,Tracking via Square Grid of RFID Reader Positioning and Diffusion Algorithm,2011,Wireless Personal Communications,
+238437310,Percolation-Based Probabilistic Reliable Dissemination for Mobile Ad Hoc Networks,2007,Journal of Software,
+43132829,"Connectivity, Coverage and Placement in Wireless Sensor Networks",2009,Sensors,
+48604518,A tractable framework for exact probability of node isolation and minimum node degree distribution in finite multihop networks,2014,IEEE Transactions on Vehicular Technology,
+355886330,Distributed Sum-Rate Maximization Over Finite Rate Coordination Links Affected by Random Failures,2013,IEEE Transactions on Signal Processing,
+156025649,Localized Algorithm to Improve Connectivity and Topological Resilience of Multi-hop Wireless Networks,2013,Journal of information and communication convergence engineering,
+349601052,Network coding relayed dynamic spectrum access,2010,,
+499066338,ON THE PROBABILITY OF THE EXISTENCE OF FIXED-SIZE COMPONENTS IN RANDOM GEOMETRIC GRAPHS,2009,Advances in Applied Probability,
+255257965,Precise Asymptotic Distribution of the Number of Isolated Nodes in Wireless Networks with Lognormal Shadowing,2014,Applied Mathematics-a Journal of Chinese Universities Series B,
+9962255,Energy consumption of multi-hop wireless networks under throughput constraints and range scaling,2010,Mobile Computing and Communications Review,
+375345058,Objects tracking in a dense reader environment utilising grids of RFID antenna positioning,2009,International Journal of Electronics,
+187130130,Multiscale Gossip for Efficient Decentralized Averaging in Wireless Packet Networks,2013,IEEE Transactions on Signal Processing,
+461581850,Two-terminal reliability of a mobile ad hoc network under the asymptotic spatial distribution of the random waypoint model,2012,Reliability Engineering & System Safety,
+477758738,Bootstrapping a hop-optimal network in the weak sensor model,2009,ACM Transactions on Algorithms,
+458910109,Looking for network functionalities�?extension by avoiding energy-compromised hotspots in wireless sensor networks,2008,Annales Des Télécommunications,
+499344827,Percolation and Connectivity in the Intrinsically Secure Communications Graph,2012,IEEE Transactions on Information Theory,
+269513975,Throughput Capacity of MANETs with Power Control and Packet Redundancy,2013,IEEE Transactions on Wireless Communications,
+204894252,Low-coordination wake-up algorithms for multiple connected-covered topologies in sensor nets,2009,International Journal of Sensor Networks,
+162403614,Fast track article: Predicting missing contacts in mobile social networks,2012,Pervasive and Mobile Computing,
+465190460,The acquaintance time of (percolated) random geometric graphs,2015,European Journal of Combinatorics,
+157630980,Impact of Nakagamim Fading Model on Multihop Mobile Ad Hoc Network,2011,International Journal of Computer Applications,
+493466619,Self-Construction of Aggregation Tree for Gathering Mobile Data in Wireless Sensor Network,2010,IEICE Transactions on Communications,
+285116312,Monotone properties of random geometric graphs have sharp thresholds,2005,Annals of Applied Probability,
+61185754,On the Universal Computing Power of Amorphous Computing Systems,2009,Theory of Computing Systems \/ Mathematical Systems Theory,
+134815348,"Problem of localisation in networks of randomly deployed nodes: asymptotic and finite analysis, and thresholds",2010,Iet Communications,
+455853667,An Exact Markov Process for Multihop Connectivity via Intervehicle Communication on Parallel Roads,2012,IEEE Transactions on Wireless Communications,
+116688827,Percolation Degree of Secondary Users in Cognitive Networks,2012,IEEE Journal on Selected Areas in Communications,
+434773604,Fast and Efficient Restricted Delaunay Triangulation in Random Geometric Graphs,2008,Internet Mathematics,
+4566805,Maximizing the Number of Broadcast Operations in Random Geometric Ad Hoc Wireless Networks,2011,IEEE Transactions on Parallel and Distributed Systems,
+100804312,Opportunistic MANETs: mobility can make up for low transmission power,2013,IEEE ACM Transactions on Networking,
+166205231,Mobility Tolerant Firework Routing for Improving Reachability in MANETs,2014,Future Internet,
+89257059,A relay node deployment method for disconnected wireless sensor networks: Applied in indoor environments,2009,Journal of Network and Computer Applications,
+477618476,Effect of redundancy on the mean time to failure of wireless sensor networks,2007,Concurrency and Computation: Practice and Experience,
+449333708,Line-of-sight networks,2009,"Combinatorics, Probability & Computing",
+277615163,Synchronization of multi-agent systems with topological interaction,2011,IFAC Proceedings Volumes,
+97173205,On Distributed Function Computation in Structure-Free Random Wireless Networks,2014,IEEE Transactions on Information Theory,
+169416406,A Computational Model of Mitigating Disease Spread in Spatial Networks,2011,International Journal of Artificial Life Research,
+111501106,EECCR: An Energy-Efficient $m$ -Coverage and $n$ -Connectivity Routing Algorithm Under Border Effects in Heterogeneous Sensor Networks,2009,IEEE Transactions on Vehicular Technology,
+169231995,Identifying Neighbor and Connectivity of Wireless Sensor Networks with Poisson Point Process,2012,Wireless Personal Communications,
+96083602,MST-based clustering topology control algorithm for wireless sensor networks,2010,Journal of Electronics (china),
+73543525,A Cooperative MIMO Framework for Wireless Sensor Networks,2014,ACM Transactions on Sensor Networks,
+31443405,A New Measure of Wireless Network Connectivity,2015,IEEE Transactions on Mobile Computing,
+227953955,"Neurons, viscose fluids, freshwater polyp hydra-and self-organizing information systems",2003,IEEE Intelligent Systems,
+274789481,On the throughput scaling of wireless relay networks,2006,IEEE Transactions on Information Theory,
+176537202,Data Capacity Improvement of Wireless Sensor Networks Using Non-Uniform Sensor Distribution,2006,International Journal of Distributed Sensor Networks,
+273119681,Inferring link metrics from end-to-end path measurements: identifiability and monitor placement,2014,IEEE ACM Transactions on Networking,
+129869077,"Asymptotic Throughput Capacity Analysis of Multi-Channel, Multi-Interface Wireless Mesh Networks",2013,Wireless Personal Communications,
+402413554,Localization and Navigation Assisted by Networked Cooperating Sensors and Robots,2005,The International Journal of Robotics Research,
+165302435,Connectivity of confined 3D networks with anisotropically radiating nodes,2014,IEEE Transactions on Wireless Communications,
+260164070,Quantitative analysis for the quality of ad hoc networks,2006,Mobile Computing and Communications Review,
+496674653,Some Fundamental Results on Complex Network Problem for Large-Scale Wireless Sensor Networks,2014,Wireless Personal Communications,
+462125626,The random waypoint mobility model with uniform node spatial distribution,2014,Wireless Networks,
+301825805,Broadcasting in sensor networks: the role of local information,2008,IEEE ACM Transactions on Networking,
+124835410,Fast flooding over Manhattan,2013,Distributed Computing,
+50535911,Maximizing network lifetime of broadcasting over wireless stationary ad hoc networks,2005,Mobile Networks and Applications,
+119081232,Full length article: A Resiliency-Connectivity metric in wireless sensor networks with key predistribution schemes and node compromise attacks,2008,Physical Communication,
+47687890,Optimal Topology Control and Power Allocation for Minimum Energy Consumption in Consensus Networks,2012,IEEE Transactions on Signal Processing,
+472949713,Random deployment of wireless sensor networks: a survey and approach,2014,International Journal of Ad Hoc and Ubiquitous Computing,
+73825390,Towards a Simple Relationship to Estimate the Capacity of Static and Mobile Wireless Networks,2013,IEEE Transactions on Wireless Communications,
+241715462,Region Coverage for Planar Sensor Network via Sensing Sectors,2008,IFAC Proceedings Volumes,
+289458341,On the connectivity threshold for general uniform metric spaces,2010,Information Processing Letters,
+455946962,Understanding Node Localizability of Wireless Ad Hoc and Sensor Networks,2012,IEEE Transactions on Mobile Computing,
+453659116,RaWMS - Random Walk Based Lightweight Membership Service for Wireless Ad Hoc Networks,2008,ACM Transactions on Computer Systems,
+137610114,Mobility-aware topology control in mobile ad hoc networks,2008,Computer Communications,
+29747006,On the Sensitivity of the Critical Transmission Range: Lessons from the Lonely Dimension,2013,Foundations and Trends in Networking,
+182650020,"Fast track article: Generating random graphs for the simulation of wireless ad hoc, actuator, sensor, and internet networks",2008,Pervasive and Mobile Computing,
+280087206,The Critical Range in Clustered Ad Hoc Networks: An Analysis for Gaussian Distributed Nodes,2015,IEEE Communications Letters,
+228226755,Dynamic power allocation and routing for time-varying wireless networks,2005,IEEE Journal on Selected Areas in Communications,
+163707424,An early-stopping protocol for computing aggregate functions in Sensor Networks,2013,Journal of Parallel and Distributed Computing,
+113529579,Asymptotic Critical Transmission Radii for Greedy Forward Routing in Wireless Ad Hoc Networks,2009,IEEE Transactions on Communications,
+269618569,Percolation Theory-Based Exposure-Path Prevention for Wireless Sensor Networks Coverage in Internet of Things,2013,IEEE Sensors Journal,
+157816860,Some properties for the largest component of random geometric graphs with applications in sensor networks,2009,Acta Mathematicae Applicatae Sinica,
+359200072,Shadowing Effects on Routing Protocol of Multihop Ad Hoc Networks,2010,"International Journal of Ad Hoc, Sensor & Ubiquitous Computing",
+348433794,Geometric connectivity of vehicular ad hoc networks: Analytical characterization,2008,Transportation Research Part C-emerging Technologies,
+441002405,Effect of Transport Models on Connectivity of Interbus Communication Networks,2011,Journal of Intelligent Transportation Systems,
+285821983,Receiver Cooperation in Topology Control for Wireless Ad-Hoc Networks,2015,IEEE Transactions on Wireless Communications,
+291513829,The Number of Isolated Nodes in a Wireless Network with a Generic Probabilistic Channel Model,2013,IEICE Transactions on Communications,
+308648148,Impact of interference on the coverage and connectivity of Ad hoc networks in a fading environment,2015,Aeu-international Journal of Electronics and Communications,
+226139279,Data-gathering wireless sensor networks: organization and capacity,2003,Computer Networks,
+90325716,Performance Characteristics of Multicast Flows on Random Trees,2004,Stochastic Models,
+41148555,Throughput capacity of ad hoc networks with route discovery,2007,Eurasip Journal on Wireless Communications and Networking,
+419429279,Infection spread in random geometric graphs,2015,Advances in Applied Probability,
+348293984,Joint problem of power optimal connectivity and coverage in wireless sensor networks,2007,Wireless Networks,
+211670645,On the throughput capacity of large wireless ad hoc networks confined to a region of fixed area,2007,Eurasip Journal on Wireless Communications and Networking,
+460247731,Connectivity of Large Wireless Networks Under A General Connection Model,2013,IEEE Transactions on Information Theory,
+46326701,More Benefits of Adding Sparse Random Links to Wireless Networks: Yet Another Case for Hybrid Networks,2012,International Journal of Distributed Sensor Networks,
+213265761,On the Connectivity of Ad Hoc Networks,2004,The Computer Journal,
+223376204,Impact of Radio Link Unreliability on the Connectivity of Wireless Sensor Networks,2007,Eurasip Journal on Wireless Communications and Networking,
+430626107,An Efficient Variable Dimension PSO Algorithm for Mobile Node Tour Planning in WSN,2015,,
+157853540,One-dimensional geometric random graphs with nonvanishing densities II: a very strong zero-one law for connectivity,2012,Queueing Systems,
+129143819,Super-exponential extinction time of the contact process on random geometric graphs,2017,"Combinatorics, Probability & Computing",
+301307299,Average Waiting Time of Clusterhead Controlled Token for Virtual Base Station On-Demand in MANETs,2005,Cluster Computing,
+182933026,The effects of the number of neighbors in multihop wireless networks,2009,International Journal of Pervasive Computing and Communications,
+196560312,A statistical analysis of the long-run node spatial distribution in mobile ad hoc networks,2004,Wireless Networks,
+231815494,Fast Message Dissemination in Random Geometric Networks,2013,Distributed Computing,
+98576870,A Secure and Power Efficient Routing Scheme for Ad Hoc Networks,2011,International Journal of Computer Applications,
+348959394,The Performance of Multimessage Algebraic Gossip in a Random Geometric Graph,2013,International Journal of Distributed Sensor Networks,
+247516170,Percolation theory based connectivity and latency analysis of cognitive radio ad hoc networks,2011,Wireless Networks,
+269396581,ASYMPTOTIC PROPERTIES OF WIRELESS MULTI-HOP NETWORK,2005,,
+188436816,Scaling laws for data-centric storage and querying in wireless sensor networks,2009,IEEE ACM Transactions on Networking,
+232840305,Information Theoretic Approach to Detecting Systematic Node Destructions in Wireless Sensor Networks,2008,IEEE Transactions on Wireless Communications,
+450686363,The k-Neighbors Approach to Interference Bounded and Symmetric Topology Control in Ad Hoc Networks,2006,IEEE Transactions on Mobile Computing,
+491795780,"Locality, scheduling, and selfishness: Algorithmic foundations of highly decentralized networks",2006,,
+391071435,"On Multiflows in Random Unit-Disk Graphs, and the Capacity of Some Wireless Networks",2005,arXiv: Information Theory,
+204087491,IDENTIFIABILITY OF LINK METRICS IN COMMUNICATION NETWORKS: THEORY AND ALGORITHM DESIGNS,2014,,
+296162997,Determination of Critical Transmission Range in Ad-Hoc Networks,1999,,
+429365243,Online Multicasting for Network Capacity Maximization in Energy-Constrained Ad Hoc Networks,2006,IEEE Transactions on Mobile Computing,
+181400279,Asymptotic connectivity properties of cooperative wireless ad hoc networks,2009,IEEE Journal on Selected Areas in Communications,
+432976130,OMAN: A Mobile Ad Hoc Network Design System,2012,IEEE Transactions on Mobile Computing,
+238476179,On the /spl theta/-coverage and connectivity of large random networks,2006,IEEE ACM Transactions on Networking,
+49013561,In-network estimation of frequency moments,2013,International Journal of Advances in Engineering Sciences and Applied Mathematics,
+873226,Distributed Algorithms for Constructing Approximate Minimum Spanning Trees in Wireless Sensor Networks,2009,IEEE Transactions on Parallel and Distributed Systems,
+190425097,Connectivity for Multiple Multicast Trees Schemes in Ad Hoc Networks,2004,,
+110862728,Dynamic Source quick Route Rebuilding Algorithm for Random-access OFDMA Adhoc Network,2012,International Journal of Computer Applications,
+76245012,Percolation in Multi-hop Wireless Networks,2003,IEEE Transactions on Information Theory,
+224395700,An analytical model of multihop connectivity of inter-vehicle communication systems,2010,IEEE Transactions on Wireless Communications,
+211056040,Sharp thresholds for relative neighborhood graphs in wireless Ad Hoc networks,2010,IEEE Transactions on Wireless Communications,
+301702134,"Threshold Functions, Node Isolation, and Emergent Lacunae in Sensor Networks",2006,IEEE Transactions on Information Theory,
+436140606,An efficient organization mechanism for spatial networks,2006,Physica A-statistical Mechanics and Its Applications,
+286836151,Cooperative multicast for maximum network lifetime,2005,IEEE Journal on Selected Areas in Communications,
+138243017,On the Complexity of Distributed Self-Configuration in Wireless Networks,2003,Telecommunication Systems,
+376757340,Collaborative Null-Steering Beamforming for Uniformly Distributed Wireless Sensor Networks,2010,IEEE Transactions on Signal Processing,
+361049508,Fundamentals of energy-constrained sensor network systems,2005,IEEE Aerospace and Electronic Systems Magazine,
+5089263,Adaptive Fault-Tolerant QoS Control Algorithms for Maximizing System Lifetime of Query-Based Wireless Sensor Networks,2011,IEEE Transactions on Dependable and Secure Computing,
+208582427,On the interdependence of routing and data compression in multi-hop sensor networks,2005,Wireless Networks,
+157389583,On k-coverage in a mostly sleeping sensor network,2008,Wireless Networks,
+75631207,On the Relevance of Node Isolation to the K-Connectivity of Wireless Optical Sensor Networks,2009,IEEE Transactions on Mobile Computing,
+484743463,A Key Management Scheme Using Deployment Knowledge for Wireless Sensor Networks,2008,IEEE Transactions on Parallel and Distributed Systems,
+303945692,Results on Finite Wireless Networks on a Line,2010,IEEE Transactions on Communications,
+343788306,On the connectivity of wireless multi-hop networks with arbitrary wireless channel models,2009,IEEE Communications Letters,
+62973467,The Impact of Channel Randomness on Coverage and Connectivity of Ad Hoc and Sensor Networks,2008,IEEE Transactions on Wireless Communications,
+324987329,Broadcast Gossip Algorithms for Consensus on Strongly Connected Digraphs,2013,IEEE Transactions on Signal Processing,
+417208412,Efficient localized topology control for wireless ad hoc networks,2004,,
+201988060,Wireless sensor networks: A survey on the state of the art and the 802.15.4 and ZigBee standards,2007,Computer Communications,
+350903395,On random points in the unit disk,2006,Random Structures and Algorithms,
+138733507,Stochastic model and connectivity dynamics for VANETs in signalized road systems,2011,IEEE ACM Transactions on Networking,
+118879721,Connectivity of Heterogeneous Wireless Networks,2011,IEEE Transactions on Information Theory,
+306051247,One-Dimensional Geometric Random Graphs With Nonvanishing Densities—Part I: A Strong Zero-One Law for Connectivity,2009,IEEE Transactions on Information Theory,
+367123376,Computing subgraph probability of random geometric graphs with applications in quantitative analysis of ad hoc networks,2009,IEEE Journal on Selected Areas in Communications,
+407968086,A MAC protocol for low-rate UWB wireless sensor networks using directional antennas,2009,Computer Networks,
+481060051,Time and Energy Complexity of Distributed Computation of a Class of Functions in Wireless Sensor Networks,2008,IEEE Transactions on Mobile Computing,
+339536831,Critical Density for Connectivity in 2D and 3D Wireless Multi-Hop Networks,2013,IEEE Transactions on Wireless Communications,
+389745111,Three power-aware routing algorithms for sensor networks,2003,Wireless Communications and Mobile Computing,
+376326239,Asymptotic connectivity in wireless ad hoc networks using directional antennas,2009,IEEE ACM Transactions on Networking,
+415641780,Spatio-temporal sampling rates and energy efficiency in wireless sensor networks,2005,IEEE ACM Transactions on Networking,
+302380460,Gossip Algorithms for Distributed Signal Processing,2010,"arXiv: Distributed, Parallel, and Cluster Computing",
+370546143,On the Longest Edge of Gabriel Graphs in Wireless Ad Hoc Networks,2007,IEEE Transactions on Parallel and Distributed Systems,
+199179121,Practical security scheme design for resource-constrained wireless networks,2009,,
+479633291,On the price of security in large-scale wireless ad hoc networks,2011,IEEE ACM Transactions on Networking,
+261727410,Distributive routing and congestion control in wireless multihop ad hoc communication networks,2004,Physica A-statistical Mechanics and Its Applications,
+146028723,Computing and communicating functions over sensor networks,2005,IEEE Journal on Selected Areas in Communications,
+181030929,Capacity of ad hoc wireless networks with infrastructure support,2005,IEEE Journal on Selected Areas in Communications,
+432141894,CRBcast: a reliable and energy-efficient broadcast scheme for wireless sensor networks using rateless codes,2008,IEEE Transactions on Wireless Communications,
+21580910,Asymptotic critical total power for k-connectivity of wireless networks,2008,IEEE ACM Transactions on Networking,
+39077149,WHOMoVeS: An optimized broadband sensor network for military vehicle tracking,2008,International Journal of Communication Systems,
+404871401,On the connectivity in finite ad hoc networks,2002,IEEE Communications Letters,
+396400025,Applications of graph-based codes in networks: analysis of capacity and design of improved algorithms,2008,,
+337510021,Reliability and route diversity in wireless networks,2008,IEEE Transactions on Wireless Communications,
+26273608,Partial Delaunay triangulation and degree limited localized Bluetooth scatternet formation,2004,IEEE Transactions on Parallel and Distributed Systems,
+377030185,Asymptotic Critical Transmission Radius for $k$ -Connectivity in Wireless Ad Hoc Networks,2010,IEEE Transactions on Information Theory,
+255642748,Energy-Efficient Localized Routing in Random Multihop Wireless Networks,2011,IEEE Transactions on Parallel and Distributed Systems,
+177829982,Multiple Tree Video Multicast Over Wireless Ad Hoc Networks,2007,IEEE Transactions on Circuits and Systems for Video Technology,
+235447421,Resilience to Degree-Dependent and Cascading Node Failures in Random Geometric Networks,2010,IEEE Transactions on Information Theory,
+62178583,Critical node lifetimes in random networks via the Chen-Stein method,2006,IEEE Transactions on Information Theory,
+45098942,Energy-Balanced Transmission Policies for Wireless Sensor Networks,2011,IEEE Transactions on Mobile Computing,
+473329110,Connectivity of cognitive radio networks: proximity vs. opportunity,2009,,
+132893149,Optimal Initialization and Gossiping Algorithms for Random Radio Networks,2007,IEEE Transactions on Parallel and Distributed Systems,
+453301933,An energy-efficient initialization algorithm for random radio networks,2006,,
+481525656,Network Connectivity with a Family of Group Mobility Models,2012,IEEE Transactions on Mobile Computing,
+219582842,An Uniform Cluster-Based Routing Protocol for Wireless Sensor Networks,2012,Advanced Materials Research,
+397530112,A Unified Analytic Framework Based on Minimum Scan Statistics for Wireless Ad Hoc and Sensor Networks,2009,IEEE Transactions on Parallel and Distributed Systems,
+119426160,Efficient routing in intermittently connected mobile networks: the multiple-copy case,2008,IEEE ACM Transactions on Networking,
+72085272,The Capacity of Wireless Ad Hoc Networks Using Directional Antennas,2011,IEEE Transactions on Mobile Computing,
+385378481,Distributed Beamforming for Wireless Sensor Networks With Improved Graph Connectivity and Energy Efficiency,2010,IEEE Transactions on Signal Processing,
+182419813,On the Phase Transition Width of K-Connectivity in Wireless Multihop Networks,2009,IEEE Transactions on Mobile Computing,
+126579362,On the asymptotic minimum transporting energy and its implication on the wireless network capacity,2008,IEEE ACM Transactions on Networking,
+154905331,On Reliable Dissemination in Wireless Ad Hoc Networks,2011,IEEE Transactions on Dependable and Secure Computing,
+124534146,The COMMIT Protocol for Truthful and Cost-Efficient Routing in Ad Hoc Networks with Selfish Nodes,2008,IEEE Transactions on Mobile Computing,
+380846124,Multicast capacity of wireless ad hoc networks,2009,IEEE ACM Transactions on Networking,
+403807005,On the delay performance of in-network aggregation in lossy wireless sensor networks,2014,IEEE ACM Transactions on Networking,
+78222948,REACA: An Efficient Protocol Architecture for Large Scale Sensor Networks (Corrected)*,2007,IEEE Transactions on Wireless Communications,
+247598593,An Overview and Some Challenges in Cyber-Physical Systems,2013,Journal of the Indian Institute of Science,
+345860904,On the Properties of One-Dimensional Infrastructure-Based Wireless Multi-Hop Networks,2012,IEEE Transactions on Wireless Communications,
+16711992,On the Capacity of Ad Hoc Networks Under Random Packet Losses,2009,IEEE Transactions on Information Theory,
+301778816,The critical transmitting range for connectivity in mobile ad hoc networks,2005,IEEE Transactions on Mobile Computing,
+260361615,Cooperative multihop broadcast for wireless networks,2004,IEEE Journal on Selected Areas in Communications,
+22153527,A very strong zero-one law for connectivity in one-dimensional geometric random graphs,2007,IEEE Communications Letters,
+438420345,The capacity of wireless networks,2000,IEEE Transactions on Information Theory,
+486438774,The critical transmitting range for connectivity in sparse wireless ad hoc networks,2003,IEEE Transactions on Mobile Computing,
+196042466,On a random directed spanning tree,2004,Advances in Applied Probability,
+354300232,The impact of traffic patterns on the overhead of reactive routing protocols,2005,IEEE Journal on Selected Areas in Communications,
+212907317,Design and Development of a Secured Routing Scheme for Mobile Adhoc Network,2011,International Journal of Computer Applications,
+467906514,On the Giant Component of Wireless Multihop Networks in the Presence of Shadowing,2009,IEEE Transactions on Vehicular Technology,
+287872057,Optimizing information querying and dissemination in wireless networks,2011,,
+349003721,Hierarchical routing over dynamic wireless networks,2015,Random Structures and Algorithms,
+340333299,Efficiency of Wireless Networks: Approximation Algorithms for the Physical Interference Model,2010,Foundations and Trends in Networking,
+134604682,Quantized incremental algorithms for distributed optimization,2005,IEEE Journal on Selected Areas in Communications,
+64519455,Variable-Range Transmission Power Control in Wireless Ad Hoc Networks,2007,IEEE Transactions on Mobile Computing,
+241577358,Analysis and design of wireless systems with interface and provider diversity: competition and cooperation,2005,,
+141061320,The Cover Time of Random Walks on Graphs,2012,arXiv: Probability,
+86393083,Existence of Data and Multiuser Diversities in Noncooperative Mobile Infostation Networks,2009,IEEE Transactions on Mobile Computing,
+53824257,Beyond trilateration: on the localizability of wireless ad hoc networks,2010,IEEE ACM Transactions on Networking,
+43225439,Probabilistic analysis of power assignments,2017,Random Structures and Algorithms,
+9107739,On the scalability of cooperative time synchronization in pulse-connected networks,2006,IEEE Transactions on Information Theory,
+485510498,Coverage in wireless ad hoc sensor networks,2003,IEEE Transactions on Computers,
+301915408,Randomly Duty-cycled Wireless Sensor Networks: Dynamics of Coverage,2006,IEEE Transactions on Wireless Communications,
+81768926,Stochastic geometry and random graphs for the analysis and design of wireless networks,2009,IEEE Journal on Selected Areas in Communications,
+262918397,End-to-end delay in wireless random networks,2010,IEEE Communications Letters,
+219109940,Modeling connectivity of inter-vehicle communication networks along discrete traffic streams,2010,,
+437943831,Connectivity of Ad Hoc Networks with Link Asymmetries Induced by Shadowing,2007,IEEE Communications Letters,
+388406027,Probabilistic quorum systems in wireless Ad Hoc networks,2010,ACM Transactions on Computer Systems,
+481270762,Energy-Aware Adaptive Routing for Large-Scale Ad Hoc Networks: Protocol and Performance Analysis,2007,IEEE Transactions on Mobile Computing,
+394538800,Impact of interferences on connectivity in ad hoc networks,2005,IEEE ACM Transactions on Networking,
+151951230,Purposeful mobility for relaying and surveillance in mobile ad hoc sensor networks,2004,IEEE Transactions on Mobile Computing,
+156907967,Impact of Link Unreliability and Asymmetry on the Quality of Connectivity in Large-scale Sensor Networks,2008,Sensors,
+194318082,"Complexity of Data Collection, Aggregation, and Selection for Wireless Sensor Networks",2011,IEEE Transactions on Computers,
+250236267,Power Control for Distributed MAC Protocols in Wireless Ad Hoc Networks,2008,IEEE Transactions on Mobile Computing,
+212267250,A Distributed Amplify-and-Forward Beamforming Technique in Wireless Sensor Networks,2011,IEEE Transactions on Signal Processing,
+259914320,Instantaneous Connectivity of One-Dimensional Intervehicle Communication Networks for General Traffic Conditions,2009,,
+1203858,THROUGHPUT STABILITY AND FLOWS IN LARGE-SCALE RANDOM NETWORKS,2005,,
+447640346,Exact probability of connectivity one-dimensional ad hoc wireless networks,2006,IEEE Communications Letters,
+223870872,Principles and protocols for power control in wireless ad hoc networks,2005,IEEE Journal on Selected Areas in Communications,
+384375029,Local Greedy Approximation for Scheduling in Multihop Wireless Networks,2012,IEEE Transactions on Mobile Computing,
+315522948,Cops and robbers on geometric graphs,2012,"Combinatorics, Probability & Computing",
+90814936,REACA: An Efficient Protocol Architecture for Large Scale Sensor Networks,2007,IEEE Transactions on Wireless Communications,
+265535870,Capacity bounds for small-world and dual radio networks,2007,,
+107781704,On the fundamental performance limits of peer-to-peer data replication in wireless ad hoc networks,2007,IEEE Journal on Selected Areas in Communications,
+373024130,Capacity and delay of hybrid wireless broadband access networks,2009,IEEE Journal on Selected Areas in Communications,
+280592245,Spatial correlation-based collaborative medium access control in wireless sensor networks,2006,IEEE ACM Transactions on Networking,
+213091699,Expected Routing Overhead for Location Service in MANETs under Flat Geographic Routing,2011,IEEE Transactions on Mobile Computing,
+41974801,Low latency wireless ad hoc networking: power and bandwidth challenges and a solution,2008,IEEE ACM Transactions on Networking,
+64833958,Convergence Speed of the Consensus Algorithm With Interference and Sparse Long-Range Connectivity,2011,IEEE Journal of Selected Topics in Signal Processing,
+371124275,Analysis of Distributed Random Grouping for Aggregate Computation on Wireless Sensor Networks with Randomly Changing Graphs,2008,IEEE Transactions on Parallel and Distributed Systems,
+491037503,"HEED: a hybrid, energy-efficient, distributed clustering approach for ad hoc sensor networks",2004,IEEE Transactions on Mobile Computing,
+457220437,On the cover time and mixing time of random geometric graphs,2007,Theoretical Computer Science,
+84767099,Connectivity threshold of Bluetooth graphs,2014,Random Structures and Algorithms,
+214614973,Random coverage with guaranteed connectivity: joint scheduling for wireless sensor networks,2006,IEEE Transactions on Parallel and Distributed Systems,
+81307421,Cyber–Physical Systems: A Perspective at the Centennial,2012,Proceedings of the IEEE,
+474040442,Constructing maximum-lifetime data gathering forests in sensor networks,2010,IEEE ACM Transactions on Networking,
+358785902,Agreement over noisy networks,2010,Iet Control Theory and Applications,
+85924366,Connectivity analysis of wireless sensor networks with regular topologies in the presence of channel fading,2009,IEEE Transactions on Wireless Communications,
+314158084,"Capacity of clustered ad hoc networks: how large is ""Large""?",2006,IEEE Transactions on Communications,
+63674770,On the Connectivity of Circularly Distributed Nodes in Ad Hoc Wireless Networks,2008,IEEE Communications Letters,
+348098414,A Study of the Relationship between Mobility Model of Ad hoc Network and Its Connectivity,2014,Journal of Computers,
+450833195,Topological properties of random wireless networks,2006,Sadhana-academy Proceedings in Engineering Sciences,
+320928659,Sensitivity of critical transmission ranges to node placement distributions,2009,IEEE Journal on Selected Areas in Communications,
+146010589,Asymptotically optimal trade-off between local and global connectivity in wireless networks,2011,Performance Evaluation,
+35171177,Large Connectivity for Dynamic Random Geometric Graphs,2009,IEEE Transactions on Mobile Computing,
+97933064,A Lower Bound on the Capacity of Wireless Erasure Networks,2011,IEEE Transactions on Information Theory,
+17738287,A Location-free Algorithm of Energy-Efficient Connected Coverage for High Density Wireless Sensor Networks,2007,Discrete Event Dynamic Systems,
+305288490,Network Devolution and the Growth of Sensory Lacunae in Sensor Networks,2004,,
+370416709,Fault tolerant deployment and topology control in wireless ad hoc networks,2004,Wireless Communications and Mobile Computing,
+174074813,Performance of the Eschenauer–Gligor Key Distribution Scheme Under an ON/OFF Channel,2012,IEEE Transactions on Information Theory,
+440546139,Scaling laws for ad hoc wireless networks: an information theoretic approach,2006,Foundations and Trends in Networking,
+72972175,Capacity of Hybrid Wireless Networks with Directional Antenna and Delay Constraint,2010,IEEE Transactions on Communications,
+411427185,Extremal properties of three-dimensional sensor networks with applications,2004,IEEE Transactions on Mobile Computing,
+275377249,Vehicle-to-vehicle connectivity on two parallel roadways with a general headway distribution,2013,Transportation Research Part C-emerging Technologies,
+169786182,A sinkhole resilient protocol for wireless sensor networks: Performance and security analysis,2012,Computer Communications,
+317607399,Distributed Symmetric Function Computation in Noisy Wireless Sensor Networks,2007,IEEE Transactions on Information Theory,
+355975549,Capacity and delay tradeoffs for ad hoc mobile networks,2005,IEEE Transactions on Information Theory,
+176368385,A Coverage Inference Protocol for Wireless Sensor Networks,2010,IEEE Transactions on Mobile Computing,
+308944065,Random Graph Model for Opportunistic Sensor Networks Based on Divided Area,2013,,
+497947618,Dependable Communication Protocols in Ad-Hoc Networks,2008,,
+263371844,Energy Aware Routing Protocol in Wireless Sensor Networks,2006,,
+499118638,One Dominant Graph Topology for Heterogeneous Wireless Sensor Networks,2014,,
+262174896,Connectivity Properties for Topology Design in Sparse Multi-hop Wireless Networks,2008,,
+5696284,Capacity Scaling and Optimal Operation of Wireless Networks,2008,,
+104600488,The Example of Wireless Networks,2001,,
+495479663,""" A QOS -AWARE REACTIVE APPROACH FOR QUERY PROCESSING IN WIRELESS SENSOR NETWORK""",2013,,
+79608931,Decentralized Resource Allocation in Femtocell Networks Based on Game Theory and Markov Modeling,2011,,
+108075830,Three Stochastic Models On Discrete Structures,2013,,
+3975619,"Contact prediction, routing and fast information spreading in social networks",2012,,
+329797600,Distributed processing techniques for beamfonning in wireless sensor networks (Invited Paper),2009,,
+494732763,SIMULCASTING USING SLOTTED ALOHA IN AD-HOC NETWORKS,2006,,
+278626931,Bio-Inspired Dynamic Radio Access in Cognitive Networks based on Social Foraging Swarms,2012,,
+424814974,Distributed Inference using Bounded Transmissions,2013,,
+130305595,FUNDAMENTAL NETWORK BEHAVIOR OF MOBILE AD HOC NETWORKS,2004,,
+397097849,Realistic Modeling of Wireless Communication Graphs for the Design of E-cient Sensor Network Routing Protocols,2006,,
+381891054,Stochastic Analysis of Mobile Ad-hoc Networks,2013,,
+65134975,Design and Analysis of Adaptive Fault Tolerant QoS Control Algorithms for Query Processing in Wireless Sensor Networks,2008,,
+86968674,Connectivity for line-of-sight networks in higher dimensions,2013,Discrete Mathematics & Theoretical Computer Science,
+75221918,Design and Development of a Secured Routing Scheme for Mobile Adhoc (MANET) and Wireless Networks,2013,,
+89070343,On Edges and Connectivity in Ad Hoc Networks,2004,,
+493626658,"Fundamentals of Large Sensor Networks: Connectivity, Capacity, Clocks, and Computation This tutorial paper, designed for both researchers and practitioners, provides useful references and covers fundamental research on connectivity, capacity, clocks, and function computation for wireless networks.",2010,,
+46748175,"Gossip Algorithms for Distributed Signal Processing Gossiping allows sensors in a network to ignore routing and just exchange data with their nearest neighbors; this paper explores the effects of gossiping on convergence rates, quantization, and channel coding, and surveys recent results.",2010,,
+498072852,An analysis of cooperation in ad hoc networks focusing on energy consumption,2005,,
+188007550,On Connectivity and Capacity of Wireless Mesh,2007,,
+317300586,A Density-Driven Publish Subscribe Service for Mobile Ad-Hoc Networks,2011,,
+455128346,FUNDAMENTAL PERFORMANCE LIMITS OF WIRELESS SENSOR NETWORKS,2004,,
+33515478,Demand-Assignment Mechanisms in GEO Satellite Systems and Resource-Optimized Algorithms for Multicast Applications in Wired and Wireless Networks,2004,,
+177862962,A dissertation submitted in partial satisfaction of the requirements for the degree Doctor of Philosophy in Computer Science,2003,,
+317516524,Zero-One Laws for Connectivity in Inhomogeneous Random Key Graphs,2016,IEEE Transactions on Information Theory,
+333026252,Applications of Computational Geometry in Wireless Networks,2004,,
+164120625,Information Spreading in Dynamic Networks: An Analytical Approach,2011,,
+247698578,Consensus dynamics on random rectangular graphs,2016,Physica D: Nonlinear Phenomena,
+203641090,Function computation in wireless sensor networks,2008,,
+439062436,Parameter assignment for improved connectivity and security in randomly deployed wireless sensor networks via hybrid omni/uni-directional antennas,2009,,
+299806520,Scheduling and Power Assignments in the Physical Model,2011,,
+477325488,Localized topology control in wireless networks,2005,,
+174448517,UPPER AND LOWER BOUNDS IN RADIO NETWORKS,2007,,
+61282793,Issues and Challenges in Node Connectivity in Mobile Ad Hoc Networks: A Holistic Review,2016,Wireless Engineering and Technology,
+481154596,New SpiroPlanck Heuristics for High Energy Physics Networking and Future Internet Testbeds,2012,arXiv: Networking and Internet Architecture,
+324154730,"Inhomogeneous random graphs, isolated vertices, and Poisson approximation",2018,Journal of Applied Probability,
+37452878,Cooperative Communications in Mobile Ad-Hoc Networks: Rethinking the Link Abstraction,2006,,
+22927354,"Optimization, control, and game theoretical problems in consensus protocols",2014,,
+79268385,Exact throughput capacity studies for mobile ad hoc networks,2014,,
+471923711,An Introduction to Wireless Sensor Networks,2005,,
+110768068,ICP: Instantaneous clustering protocol for wireless sensor networks,2016,Computer Networks,
+376775402,New perspective on sampling-based motion planning via random geometric graphs:,2018,The International Journal of Robotics Research,
+100440770,CHAPTER 19: Information Spreading in Dynamic Networks: An Analytical Approach,2010,,
+18811121,A NEW RANDOM GRAPH MODEL WITH SELF-OPTIMIZING NODES: CONNECTIVITY AND DIAMETER,2015,Internet Mathematics,
+396176417,"Aggregation, dissemination and filtering : controlling complex information flows in networks",2013,,
+135512898,On the design and evaluation of self-adaptive network architectures and routing protocols for mobility support,2012,,
+312564326,Analytical modeling of delay-tolerant data dissemination in vehicular networks,2010,,
+319939639,Randomized Gossip Algorithm with Unreliable Communication,2012,arXiv: Information Theory,
+250015905,An Adaptive Data Gathering Scheme for Multi-Hop Wireless Sensor Networks Based on Compressed Sensing and Network Coding,2016,Sensors,
+406127392,ZONEPOW: A NOVEL APPROACH TO POWER CONTROL IN AD-HOC NETWORKS,2003,,
+345177630,Network Connectivity With Inhomogeneous Correlated Mobility,2016,IEEE Transactions on Wireless Communications,
+446153079,Connectivity and Coverage in Hybrid Wireless Sensor Networks using Dynamic Random Geometric Graph Model,2011,International Journal on Applications of Graph Theory in Wireless Ad Hoc Networks and Sensor Networks,
+92161294,Capacity of Wireless Networks: Protocol and Physical Models,2009,,
+42645204,Introduction to Random Graphs,2016,,
+160829305,and Faster Algorithms in a Circular Disk Failure Model,2013,,
+472493989,Understanding Node Localizability of Wireless Ad Hoc and Sensor Networks,2012,,
+456353308,ResearchArticle On the Throughput Capacity of Large Wireless Ad Hoc Networks Confined to a Region of Fixed Area,2007,Eurasip Journal on Wireless Communications and Networking,
+479115268,Scheduling in wireless networks with oblivious power assignments,2011,,
+321071442,Instantaneous multihop connectivity of one-dimensional vehicular ad hoc networks with general distributions of communication nodes,2016,Transportation Research Part B-methodological,
+348210964,Synchronization of a Group of Mobile Agents With Variable Speeds Over Proximity Nets,2016,"IEEE Transactions on Systems, Man, and Cybernetics",
+271056027,Random geometric graphs: an algorithmic perspective,2006,,
+392972029,Failure Localization Capability: Theorem Proof and Evaluation,2015,,
+134524706,Stochastic Geometry and Telecommunications Networks,2009,,
+66887029,"Wireless Mesh Networks - Efficient Link Scheduling, Channel Assignment and Network Planning Strategies",2012,,
+399144939,HABILITATION ` A DIRIGER DES RECHERCHES,2005,,
+411948576,Computational complexity and scheduling algorithms for wireless networks,2009,,
+162622884,TPC and Non-TPC Based Topology Control Approaches for QoS Improvement in MR-WMN,2010,,
+121638561,Asymptotic Distribution of Isolated Nodes in Secure Wireless Sensor Networks under Transmission Constraints,2016,Discrete Dynamics in Nature and Society,
+159785092,Applications of Random Graphs to Design and Analysis of LDPC Codes and Sensor Networks,2005,,
+493511765,Distributed sampled-data control of nonholonomic multi-robot systems with proximity networks �?2017,Automatica,,
+219871672,Are We Connected? Optimal Determination of Source–Destination Connectivity in Random Networks,2017,IEEE ACM Transactions on Networking,
+374609552,Distributed Inference over Multiple-Access Channels with Wireless Sensor Networks,2010,,
+232796258,On Resilience and Connectivity of Secure Wireless Sensor Networks Under Node Capture Attacks,2017,IEEE Transactions on Information Forensics and Security,
+256376542,VD-PSO: An efficient mobile sink routing algorithm in wireless sensor networks,2017,Peer-to-peer Networking and Applications,
+421480953,Distributed Coordination Protocols for Wireless Charging in Sensor Networks,2016,,
+472909333,Stretch and Diameter in Random Geometric Graphs,2018,Algorithmica,
+391250597,ERROR CONTROL SCHEMES AND DIRECTIONAL ANTENNAS IN WIRELESS NETWORKS,2005,,
+273504314,Multi-Channel Distributed DSA Networks: Connectivity and Rendezvous Tradeoffs,2017,IEEE Transactions on Cognitive Communications and Networking,
+144869700,Efficient Routing for Safety Applications in Vehicular Networks,2009,,
+475646446,Toward Optimal Distributed Node Scheduling in a Multihop Wireless Network Through Local Voting,2018,IEEE Transactions on Wireless Communications,
+375612006,Connectivity of Large Wireless Networks in the Presence of Interference,2017,,
+392297049,Giant Component in Large Wireless Networks,2017,,
+469160225,Large Network Models and Their Implications,2017,,
+122686121,Phase Transitions in Large Networks,2017,,
+432208606,Connectivity of Large Wireless Networks: Sufficient and Necessary Conditions,2017,,
+183241345,On k-channel connectivity in cognitive radio networks through channel assignment,2017,Aeu-international Journal of Electronics and Communications,
+117236113,Unbalanced Expander Based Compressive Data Gathering in Clustered Wireless Sensor Networks,2017,IEEE Access,
+492935760,Symmetric motifs in random geometric graphs,2018,Journal of Complex Networks,
+81350070,A Multi-clustering Approach to Achieve Energy Efficiency Using Mobile Sink in WSN,2017,,
+445144360,Message Forwarding and Scheduling in Delay Tolerant Networks,2012,,
+430262880,Data Gathering in Radio Networks,2009,,
+418832408,Probabilistic Key Predistribution in Mobile Networks Resilient to Node-Capture Attacks,2017,IEEE Transactions on Information Theory,
+432148935,Random networks for communication,2007,,
+332541657,Theoretical stopping criteria guided Greedy Algorithm for Compressive Cooperative Spectrum Sensing,2017,Computer Communications,
+227442824,One Dimensional Vehicular Ad-hoc Network Connectivity Analysis Under Fading Conditions,2017,Procedia Computer Science,
+278490967,Isolation and Connectivity in Random Geometric Graphs with Self-similar Intensity Measures,2018,Journal of Statistical Physics,
+173759123,On the minimum number of neighbors needed for consensus of flocks,2017,Control Theory and Technology,
+29137768,Distributed Algorithm for Robust and Interference Free Topology in Cognitive Radio Networks,2017,,
+184304221,Impact of directional antennas on routing and neighbor discovery in wireless ad-hoc networks,2017,,
+209608356,"Underwater Optical Wireless Communications, Networking, and Localization: A Survey",2018,arXiv: Networking and Internet Architecture,
+89422604,Probabilistic Middleware Services in Wireless Mobile Ad-Hoc Networks,2009,,
+326759784,On Rumour Propagation Among Sceptics,2019,Journal of Statistical Physics,
+124898264,Multiclustered Energy-Efficient Routing Algorithm with Mobile Sink Node Moving in Clockwise Direction,2018,,
+153037677,Approximating the largest connected topology in cognitive radio networks,2018,Computer Networks,
+191185224,The Critical Neighbourhood Range for Asymptotic Overlay Connectivity in Ad Hoc Networks,2006,Ad Hoc & Sensor Wireless Networks,
+407619703,Communication assisted Localization and Navigation for Networked Robots,2005,,
+129716392,Connectivity of inhomogeneous random K-out graphs,2018,arXiv: Combinatorics,
+415028593,Second-order consensus protocols based on transformed d-path Laplacians,2019,Applied Mathematics and Computation,
+441679223,Optimal Transmission Radius for Flooding in Large Scale Sensor Networks,2005,Cluster Computing,
+426775018,Wireless Networking,2008,,
+275170256,Wireless Network Reliability Analysis for Arbitrary Network Topologies.,2019,arXiv: Information Theory,
+184578539,MANETS: High mobility can make up for low transmission power,2009,arXiv: Discrete Mathematics,
+209962537,"The Problem of Localization in Networks of Randomly Deployed Nodes: Asymptotic and Finite Analysis, and Thresholds",2007,arXiv: Discrete Mathematics,
+179844454,Network Localization by Shadow Edges,2012,arXiv: Systems and Control,
+400344202,New perspective on sampling-based motion planning via random geometric graphs,2016,arXiv: Robotics,
+364169446,Connectivity of Large Wireless Networks under A Generic Connection Model,2012,arXiv: Networking and Internet Architecture,
+498625023,On Distributed Function Computation in Structure-Free Random Networks,2008,arXiv: Information Theory,
+189720361,Plane and Planarity Thresholds for Random Geometric Graphs,2018,arXiv: Discrete Mathematics,
+251404625,Percolation and Connectivity in the Intrinsically Secure Communications Graph,2010,arXiv: Information Theory,
+96318052,Fast Flooding over Manhattan,2010,"arXiv: Distributed, Parallel, and Cluster Computing",
+207927858,Broadcast Gossip Algorithms for Consensus on Strongly Connected Digraphs,2012,arXiv: Systems and Control,
+233956541,"Inhomogeneous random graphs, isolated vertices, and Poisson approximation",2015,arXiv: Probability,
+116127290,On the Scalability of Cooperative Time Synchronization in Pulse-Connected Networks,2005,arXiv: Information Theory,
+40545709,Connectivity threshold for Bluetooth graphs,2011,arXiv: Probability,
+319728615,Enhanced Random Walk with Choice: An Empirical Study,2010,arXiv: Data Structures and Algorithms,
+38668070,On the topological Properties of the One Dimensional Exponential Random Geometric Graph,2006,arXiv: Probability,
+126742139,Research on Wireless Multi-hop Networks: Current State and Challenges,2011,arXiv: Networking and Internet Architecture,
+414226145,"Mobile Geometric Graphs: Detection, Coverage and Percolation",2010,arXiv: Probability,
+449784378,Multiscale Gossip for Efficient Decentralized Averaging in Wireless Packet Networks,2010,"arXiv: Distributed, Parallel, and Cluster Computing",
+451622855,On connectivity in a general random intersection graph,2015,arXiv: Discrete Mathematics,
+478872898,Probabilistic Analysis of Power Assignments,2014,arXiv: Data Structures and Algorithms,
+70491910,A Tractable Framework for Exact Probability of Node Isolation and Minimum Node Degree Distribution in Finite Multi-hop Networks,2012,arXiv: Information Theory,
+316174039,Connectivity threshold of Bluetooth graphs,2014,Random Structures and Algorithms,
+12184539,New perspective on sampling-based motion planning via random geometric graphs:,2018,The International Journal of Robotics Research,
+276072223,Super-exponential extinction time of the contact process on random geometric graphs,2017,"Combinatorics, Probability & Computing",
+318482917,A variational approach to the consistency of spectral clustering,2016,Applied and Computational Harmonic Analysis,
+295197719,Enhanced Random Walk With Choice: An Empirical Study,2014,International Journal on Applications of Graph Theory in Wireless Ad Hoc Networks and Sensor Networks,
+487282011,Connectivity of Wireless Sensor Networks Secured by Heterogeneous Key Predistribution Under an On/Off Channel Model,2019,IEEE Transactions on Control of Network Systems,
+80658795,"Inhomogeneous random graphs, isolated vertices, and Poisson approximation",2018,Journal of Applied Probability,
+203984169,Consistency of cheeger and ratio graph cuts,2016,Journal of Machine Learning Research,
+380710868,Asynchronous Network Formation in Unknown Unbounded Environments,2019,arXiv: Robotics,
+80779139,Collective Behaviors Through Social Interactions in Bird Flocks,2019,IEEE Circuits and Systems Magazine,
+64899754,Secure Connectivity of Heterogeneous Wireless Sensor Networks Under a Heterogeneous On-Off Channel Model.,2019,arXiv: Signal Processing,
+209902365,Active learning in the geometric block model,2019,arXiv: Social and Information Networks,
+412632720,Flocking with General Local Interaction and Large Population,2019,Journal of Systems Science & Complexity,
+82630675,Energy Management Techniques for WSNs (1): Duty-Cycling Approach,2020,,
+154429673,On the Communication Latency of Wireless Decentralized Learning,2020,arXiv: Information Theory,
+436446628,An optimal selection for ensembles of influential projects,2020,Annals of Operations Research,
+402522745,On the Performance Analysis of Epidemic Routing in Non-Sparse Delay Tolerant Networks,2020,arXiv: Networking and Internet Architecture,
+62270017,Critical Power for Asymptotic Connectivity in Wireless Networks,1999,,
