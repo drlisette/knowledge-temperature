@@ -1,0 +1,1547 @@
+id,title,year,journal_name,conf_name
+23590592,Exposure in wireless sensor networks,2001,,ACM/IEEE International Conference on Mobile Computing and Networking
+229288872,Localized algorithms in wireless ad-hoc networks: location discovery and sensor exposure,2001,,Mobile Ad Hoc Networking and Computing
+252528843,Using Geospatial Information in Sensor Networks,2001,Center for Embedded Network Sensing,
+312500894,Dynamic fine-grained localization in Ad-Hoc networks of sensors,2001,,ACM/IEEE International Conference on Mobile Computing and Networking
+339386592,Density Adaptive Algorithms for Beacon Placement in Wireless Sensor Networks,2001,,International Conference on Distributed Computing Systems
+344180001,Coverage problems in wireless ad-hoc sensor networks,2001,,International Conference on Computer Communications
+493440689,Using Geospatial Information in Sensor Networks,2001,,ACM/IEEE International Conference on Mobile Computing and Networking
+15843361,Residual Energy Scans for Monitoring Wireless Sensor Networks,2002,,Wireless Communications and Networking Conference
+29344127,"System-architectures for sensor networks issues, alternatives, and directions",2002,,International Conference on Computer Design
+74143921,A directionality based location discovery scheme for wireless sensor networks,2002,,International Workshop on Wireless Sensor Networks and Applications
+103699473,"A scalable, distributed algorithm for efficient task allocation",2002,,Adaptive Agents and Multi-Agents Systems
+119039261,Coverage in wireless ad-hoc sensor networks,2002,,International Conference on Communications
+136886481,Peer Reviewed Title: Residual Energy Scans for Monitoring Wireless Sensor Networks Author:,2002,,
+138216268,Miniaturised modular wireless sensor networks,2002,,
+142710301,Energy-efficient computing for wildlife tracking: design tradeoffs and early experiences with ZebraNet,2002,,Architectural Support for Programming Languages and Operating Systems
+143247581,Exposure in wireless sensor networks: theory and practical solutions,2002,Wireless Networks,
+154536158,Tracking and imaging humans on heterogeneous infrared sensor arrays for tactical applications,2002,,
+208583726,Survey on Sensor Networks,2002,,
+241620368,Research challenges in wireless networks: a technical overview,2002,,Wireless Personal Multimedia Communications
+242439550,A Mobile-Agent Approach for Location Tracking in a Wireless Sensor Network,2002,,
+278420423,Energy-Efficient Topology Control for Wireless Ad Hoc Sensor Networks,2002,,International Conference on Parallel and Distributed Systems
+311610700,Application-layer multicasting with Delaunay triangulation overlays,2002,IEEE Journal on Selected Areas in Communications,
+343411250,A statistical analysis of the long-run node spatial distribution in mobile ad hoc networks,2002,,Modeling Analysis and Simulation of Wireless and Mobile Systems
+348025898,Estimating the Benefit of Location-Awareness for Mobile Data Management Mechanisms,2002,,International Conference on Pervasive Computing
+365453755,Cell-based positioning method for wireless networks,2002,,International Conference on Parallel and Distributed Systems
+373218734,Sensor placement for grid coverage under imprecise detections,2002,,International Conference on Information Fusion
+405781605,Energy-Efficient Data Multicast in Multi-Hop Wireless Networks,2002,Center for Embedded Network Sensing,
+408152775,"Scalable, Ad Hoc Deployable, RF-Based Localization",2002,,
+425663115,Location errors in wireless embedded sensor networks,2002,Mobile Computing and Communications Review,
+439381611,"Location errors in wireless embedded sensor networks: sources, models, and effects on applications",2002,Mobile Computing and Communications Review,
+483153650,Residual energy scan for monitoring sensor networks,2002,,Wireless Communications and Networking Conference
+1163065,Sensing field: coverage characterization in distributed sensor networks,2003,,"International Conference on Acoustics, Speech, and Signal Processing"
+11755432,Topology-aware placement and role assignment for energy-efficient information gathering in sensor networks,2003,,International Symposium on Computers and Communications
+25177454,The coverage problem in a wireless sensor network,2003,,Sensor Networks and Applications
+35907311,Topology control for wireless sensor networks,2003,,ACM/IEEE International Conference on Mobile Computing and Networking
+46456102,Sensor deployment and target localization based on virtual forces,2003,,International Conference on Computer Communications
+61909285,A bidding protocol for deploying mobile sensors,2003,,International Conference on Network Protocols
+62840616,BeanWatcher: A Tool to Generate Multimedia Monitoring Applications for Wireless Sensor Networks,2003,Lecture Notes in Computer Science,
+65174728,A distributed self spreading algorithm for mobile wireless sensor networks,2003,,Wireless Communications and Networking Conference
+68683820,Minimal and maximal exposure path algorithms for wireless embedded sensor networks,2003,,International Conference on Embedded Networked Sensor Systems
+75261935,Coverage-aware self-scheduling in sensor networks,2003,,
+75583273,Integrated coverage and connectivity configuration in wireless sensor networks,2003,,International Conference on Embedded Networked Sensor Systems
+80367649,Multi-agent simulations (MAS) for assessing massive sensor coverage and deployment,2003,,
+100010609,Exposure of variable speed targets through a sensor field,2003,,International Conference on Information Fusion
+112686404,"Ad hoc sensor networks, constraint programming and distributed agreement",2003,,International Conference on Information Technology: Research and Education
+113272246,A distributed algorithm for waking-up in heterogeneous sensor networks,2003,,Information Processing in Sensor Networks
+130626267,QoS control for sensor networks,2003,,International Conference on Communications
+137805113,A cell-based location-sensing method for wireless networks,2003,Wireless Communications and Mobile Computing,
+138550952,Multi-resolution state retrieval in sensor networks,2003,,
+140390286,Sensor Network Architecture,2003,,
+155547606,Robust location detection in emergency sensor networks,2003,,International Conference on Computer Communications
+159719579,Collinearity for sensor network localization,2003,,Vehicular Technology Conference
+162204617,Optimal coverage paths in ad-hoc sensor networks,2003,,International Conference on Communications
+168270639,MANNA: a management architecture for wireless sensor networks,2003,IEEE Communications Magazine,
+184551769,Role-based hierarchical self organization for wireless ad hoc sensor networks,2003,,Sensor Networks and Applications
+185067492,Sensor placement for effective coverage and surveillance in distributed sensor networks,2003,,Wireless Communications and Networking Conference
+197895631,Energy-Efficient Task Assignment Framework for Wireless Sensor Networks,2003,Center for Embedded Network Sensing,
+209922701,Sensor deployment strategy for detection of targets traversing a region,2003,Mobile Networks and Applications,
+273600668,Networked Infomechanical Systems (NIMS) for Ambient Intelligence,2003,Center for Embedded Network Sensing,
+278086424,Critical density thresholds for coverage in wireless sensor networks,2003,,Wireless Communications and Networking Conference
+297063178,Scheduling nodes in wireless sensor networks: a Voronoi approach,2003,,Local Computer Networks
+312568363,E-STROBE: an adaptive beacon activation algorithm for sensor localization,2003,,Vehicular Technology Conference
+330257769,Uncertainty-aware sensor deployment algorithms for surveillance applications,2003,,Global Communications Conference
+347529437,An energy efficient collaborative framework for event notification in wireless sensor networks,2003,,Local Computer Networks
+348311639,Region-Based Adaptation of Diffusion Protocols in MANETs,2003,,
+348729730,Service Management in Wireless Sensors Network.,2003,,Latin American Network Operations and Management Symposium
+380947345,Connected sensor cover: self-organization of sensor networks for efficient query execution,2003,,Mobile Ad Hoc Networking and Computing
+382646283,"Unreliable sensor grids: coverage, connectivity and diameter",2003,,International Conference on Computer Communications
+394978928,Location tracking in a wireless sensor network by mobile agents and its data fusion strategies,2003,,Information Processing in Sensor Networks
+409834676,On the Coverage and Detectability of Large-scale Wireless Sensor Networks,2003,,"Modeling and Optimization in Mobile, Ad-Hoc and Wireless Networks"
+434330001,Computing aggregates for monitoring wireless sensor networks,2003,,
+437351109,Using a Shortest Path Algorithm for Identifying Areas of Interest in An Area of Operations,2003,Command and Control Research Program,
+440554804,Development of distributed sensing systems of autonomous micro-modules,2003,,Electronic Components and Technology Conference
+444344294,Effects of natural propagation environments on wireless sensor network coverage area,2003,,Southeastern Symposium on System Theory
+450339020,Performance issues in sensor networking,2003,,International Teletraffic Congress
+476948841,Connectivity reliability of large scale random ad hoc networks,2003,,Military Communications Conference
+485510498,Coverage in wireless ad hoc sensor networks,2003,IEEE Transactions on Computers,
+6432332,Location Tracking in a Wireless Sensor Network by Mobile Agents and Its Data Fusion Strategies,2004,The Computer Journal,
+7790696,Sampling based sensor-network deployment,2004,,Intelligent Robots and Systems
+12043840,2-Sensor Problem,2004,Sensors,
+12370578,Self aware actuation for fault repair in sensor networks,2004,,International Conference on Robotics and Automation
+15092895,Spatio-temporal correlation: theory and applications for wireless sensor networks,2004,Computer Networks,
+16085927,Movement-assisted sensor deployment,2004,,International Conference on Computer Communications
+21673255,Impact of heterogeneous deployment on lifetime sensing coverage in sensor networks,2004,,"Sensor, Mesh and Ad Hoc Communications and Networks"
+26636803,Sensor management,2004,Wireless Sensor Network,
+39621556,Networking issues in wireless sensor networks,2004,Journal of Parallel and Distributed Computing,
+39696771,Co-Grid: an efficient coverage maintenance protocol for distributed sensor networks,2004,,Information Processing in Sensor Networks
+44629956,Network coverage using low duty-cycled sensors: random & coordinated sleep algorithms,2004,,Information Processing in Sensor Networks
+69297042,Connectivity maintenance and coverage preservation in wireless sensor networks,2004,,Canadian Conference on Electrical and Computer Engineering
+77794437,Power conservation and quality of surveillance in target tracking sensor networks,2004,,ACM/IEEE International Conference on Mobile Computing and Networking
+89666858,Optimizing location detection services in wireless sensor networks,2004,,Conference on Decision and Control
+102210605,A Secure Key Management Scheme for Sensor Networks,2004,,Americas Conference on Information Systems
+106232211,Proxy-based sensor deployment for mobile sensor networks,2004,,Mobile Adhoc and Sensor Systems
+120258829,Spatio-temporal sampling rates and energy efficiency in wireless sensor networks,2004,,International Conference on Computer Communications
+129552928,Robust location detection with sensor networks,2004,IEEE Journal on Selected Areas in Communications,
+138478812,Self-configuring localization systems: Design and Experimental Evaluation,2004,ACM Transactions in Embedded Computing Systems,
+141561598,Geographical feature sensitive sensor placement,2004,Journal of Parallel and Distributed Computing,
+148756612,GeoPeer: a location-aware peer-to-peer system,2004,,Network Computing and Applications
+152857318,Directional versus omnidirectional antennas for energy consumption and k -connectivity of networks of sensors,2004,,International Conference on Principles of Distributed Systems
+159300192,QoS support in wireless sensor networks: A survey,2004,,International Conference on Wireless Networks
+175459783,On computing mobile agent routes for data fusion in distributed sensor networks,2004,IEEE Transactions on Knowledge and Data Engineering,
+190612261,Dynamic Sensor Networks,2004,,
+196560312,A statistical analysis of the long-run node spatial distribution in mobile ad hoc networks,2004,Wireless Networks,
+203705705,Aspect-oriented design of sensor networks,2004,Journal of Parallel and Distributed Computing,
+226151447,Labeling Smart Dust,2004,,European Symposium on Algorithms
+226391152,Fast shared-memory algorithms for computing the minimum spanning forest of sparse graphs,2004,,International Parallel and Distributed Processing Symposium
+235742461,Sensor deployment and target localization in distributed sensor networks,2004,ACM Transactions in Embedded Computing Systems,
+241374751,Self Aware Actuation for Fault Repair in Sensor,2004,,
+241455058,Energy-Efficient Measurement of Coverage in Distributed Sensor Networks,2004,,
+245852372,Scheduling for distributed sensor networks with single sensor measurement per time step,2004,,International Conference on Robotics and Automation
+260044839,Performance Issues and Network Design for Sensor Networks,2004,IEICE Transactions on Communications,
+260733192,Distributed and dynamic voronoi overlays for coverage detection and distributed hash tables in ad-hoc networks,2004,,International Conference on Parallel and Distributed Systems
+268470241,Wireless Sensor Networks and Computational Geometry,2004,,
+287950529,Adaptive event coverage using high power mobiles over a sensor field,2004,,Vehicular Technology Conference
+312516759,Detecting unauthorized activities using a sensor network,2004,Wireless Sensor Network,
+331116992,A distributed evolutionary algorithmic approach to the coverage problem for submersible sensors,2004,,
+333083844,Coverage issue in sensor networks with adjustable ranges,2004,,International Conference on Parallel Processing
+333129652,Integrating Sensing Perspectives for Better Self Organization of Ad Hoc Wireless Sensor Networks,2004,Journal of Information Science and Engineering,
+353325473,Sensor localization with Ring Overlapping based on Comparison of Received Signal Strength Indicator,2004,,Mobile Adhoc and Sensor Systems
+374133487,The coverage problem in three-dimensional wireless sensor networks,2004,,Global Communications Conference
+376734448,Efficient communication in an ad-hoc network,2004,Journal of Algorithms,
+379074619,Peer Reviewed Title: Self Aware Actuation for Fault Repair in Sensor Networks Author:,2004,,
+379795343,STREAM: Sensor Topology Retrieval at Multiple Resolutions,2004,Telecommunication Systems,
+380106236,Vulnerability of sensor networks to unauthorized traversal and monitoring,2004,IEEE Transactions on Computers,
+382042029,Efficient Incremental Sensor Network Deployment Algorithm,2004,,
+405993393,A distributed scheme for 3D space coverage in tactical underwater sensor networks,2004,,Military Communications Conference
+406232688,On greedy geographic routing algorithms in sensing-covered networks,2004,,Mobile Ad Hoc Networking and Computing
+408439245,Optimizing Sensor Node Distribution with Genetic Algorithm in Wireless Sensor Network,2004,,International Symposium on Neural Networks
+410340127,Uncertainty-aware and coverage-oriented deployment for sensor networks,2004,Journal of Parallel and Distributed Computing,
+411427185,Extremal properties of three-dimensional sensor networks with applications,2004,IEEE Transactions on Mobile Computing,
+414135739,SELF-ORGANIZED SCHEDULING OF NODE ACTIVITY IN LARGE-SCALE SENSOR NETWORKS,2004,,
+418771286,Coverage and connectivity in networks with directional sensors,2004,,European Conference on Parallel Processing
+420817400,Sensing uncertainty reduction using low complexity actuation,2004,,Information Processing in Sensor Networks
+420849071,Variable radii connected sensor cover in sensor networks,2004,,"Sensor, Mesh and Ad Hoc Communications and Networks"
+424569489,Energy efficient organization of mobile sensor networks,2004,,International Conference on Parallel Processing
+430659233,Fault management in event-driven wireless sensor networks,2004,,Modeling Analysis and Simulation of Wireless and Mobile Systems
+433135387,Extending the lifetime of multicast trees in WANETs,2004,Journal of Information Science and Engineering,
+441830315,MINE and MILE: improving connectivity in mobile ad-hoc networks,2004,Mobile Computing and Communications Review,
+445772051,Scheduling for Distributed Sensor Networks,2004,,
+448527825,Improved Approximation Algorithms for Connected Sensor Cover,2004,,Ad Hoc Networks
+454807563,Estimating coverage holes and enhancing coverage in mixed sensor networks,2004,,Local Computer Networks
+460566272,A study of the coverage of large-scale sensor networks,2004,,Mobile Adhoc and Sensor Systems
+464937024,Multi-Agent Simulation for Assessing Massive Sensor Deployment,2004,Journal of Battlefield Technology,
+464963931,Energy-efficient topology control for wireless ad hoc sensor networks,2004,Journal of Information Science and Engineering,
+482573512,Arquiteturas para Redes de Sensores Sem Fio,2004,,
+488920344,Reducing localization errors in sensor ad hoc networks,2004,,"International Performance, Computing, and Communications Conference"
+14408216,Deployment optimization of sensornet-based stochastic location-detection systems,2005,,International Conference on Computer Communications
+17595689,Approximate coverage in wireless sensor networks,2005,,Local Computer Networks
+20900504,Maintaining Sensing Coverage and Connectivity in Large Sensor Networks.,2005,Ad Hoc & Sensor Wireless Networks,
+29352353,Coverage and connectivity of ad hoc networks presence of channel randomness,2005,,International Conference on Computer Communications
+30502323,ENERGY-EFFICIENT NODE SCHEDULING MODELS IN SENSOR NETWORKS WITH ADJUSTABLE RANGES,2005,International Journal of Foundations of Computer Science,
+33432621,Coverage and Energy Efficient Information Gathering Protocol in Wireless Sensor Networks,2005,,Parallel and Distributed Computing: Applications and Technologies
+39108010,A Joint Design Approach for Communication Schedule and Layout of Wireless Sensor Networks.,2005,,International Conference on Wireless Networks
+42951615,Maximum network lifetime in wireless sensor networks with adjustable sensing ranges,2005,,"Wireless and Mobile Computing, Networking and Communications"
+43429885,Coverage problem of wireless sensor networks,2005,,
+51335698,Analysis of target detection performance for wireless sensor networks,2005,,Distributed Computing in Sensor Systems
+70213451,The bin-covering technique for thresholding random geometric graph properties,2005,,Symposium on Discrete Algorithms
+100514178,Symbiosis: cooperative algorithms for mobile robots and a sensor network,2005,,
+102446862,Distributed Cooperative coverage Control of Sensor Networks,2005,,Conference on Decision and Control
+104500431,Energy-efficient deployment of Intelligent Mobile sensor networks,2005,,"Systems, Man and Cybernetics"
+111065918,Energy and deployment aware sensing for wireless sensor networks,2005,,"Wireless and Mobile Computing, Networking and Communications"
+115038182,Controlling sensor density using mobility,2005,,IEEE Workshop on Embedded Networked Sensors
+120885873,Efficient deployment algorithms for ensuring coverage and connectivity of wireless sensor networks,2005,,International Wireless Internet Conference
+125899349,Self-Localization Systems and Algorithms for Wireless Sensor Networks,2005,Journal of Software,
+127164489,Protecting with sensor networks: perimeters and axes,2005,,Military Communications Conference
+130769071,Mitigation and Exploitation of Multipath Fading in Wireless Sensor Networks,2005,,
+137493256,Energy efficient organization of mobile sensor networks,2005,"International Journal of Parallel, Emergent and Distributed Systems",
+139291864,Correlation based video processing in video sensor networks,2005,,International Conference on Wireless Networks
+140045669,The coverage problem for myopic sensors,2005,,International Conference on Wireless Networks
+141744775,Mobility improves coverage of sensor networks,2005,,Mobile Ad Hoc Networking and Computing
+147461590,ANALYSIS OF COVERAGE AND CONNECTIVITY IN WIRELESS AD HOC SENSOR NETWORKS,2005,,
+148836622,Distributed direction-based localization in wireless sensor networks,2005,,International Symposium on Computers and Communications
+151663358,Connectivity aware topology control in ad hoc networks using mobile routers,2005,,"International Conference on Electronics, Hardware, Wireless and Optical Communications"
+155058320,Distributed Kalman Filter with Embedded Consensus Filters,2005,,Conference on Decision and Control
+155084783,Distributed core assisted scalable data dissemination in mobile ad hoc networks,2005,,Collaborative Computing
+156017864,Fuzzy deployment for wireless sensor networks,2005,,Computational Intelligence
+156678763,Localization in Wireless Ad Hoc Networks,2005,,
+171214544,A probabilistic signal-strength-based evaluation methodology for sensor network deployment,2005,,Advanced Information Networking and Applications
+180994848,Localized Algorithm for Coverage in Wireless Sensor Networks,2005,,Parallel and Distributed Computing: Applications and Technologies
+184090090,Sensor Networks and Cooperative Control,2005,,Conference on Decision and Control
+187448953,Geographical cluster based routing in sensing-covered networks,2005,,International Conference on Distributed Computing Systems Workshops
+198559406,Coverage in Wireless Sensor Networks,2005,,
+207793929,Achieving minimum coverage breach under bandwidth constraints in wireless sensor networks,2005,,International Conference on Computer Communications
+216691474,Multiresolution storage and search in sensor networks,2005,ACM Transactions on Storage,
+219417970,RIPPLE: A Fair Power Conservation Algorithm for Wireless Sensor Networks,2005,,
+243065212,EFFICIENT OBJECT LOCALIZATION AND TRACKING WITH DISCRETE SPATIAL MAPPING,2005,,
+246766989,A distributed protocol for query execution in sensor networks,2005,,Wireless Communications and Networking Conference
+246896505,Accurate anchor-free node localization in wireless sensor networks,2005,,"International Performance, Computing, and Communications Conference"
+251060128,Sensor relocation in mobile sensor networks,2005,,International Conference on Computer Communications
+251255042,Sensor Networks and Cooperative Control,2005,European Journal of Control,
+255637822,Fault tolerant connected sensor cover with variable sensing and transmission ranges,2005,,"Sensor, Mesh and Ad Hoc Communications and Networks"
+269061500,The coverage problem in a wireless sensor network,2005,Mobile Networks and Applications,
+277678534,Fundamentals of mobile and pervasive computing,2005,,
+287931526,Algorithms for Wireless Sensor Networks,2005,International Journal of Distributed Sensor Networks,
+289737752,A range-based localization algorithm for wireless sensor networks,2005,Journal of Communications and Networks,
+290844433,Empirical analysis of the connectivity threshold of mobile agents on the grid,2005,Lecture Notes in Computer Science,
+303666062,DISTRIBUTED CONTROL OF DISTRIBUTED PARAMETER SYSTEMS USING MOBILE ACTUATOR AND SENSOR NETWORKS,2005,,
+303991449,"On fault tolerance, performance, and reliability for wireless and sensor networks",2005,,
+309001009,Hazard avoidance in wireless sensor and actor networks,2005,,"Broadband Communications, Networks and Systems"
+311212180,Networking Wireless Sensors,2005,,
+312355161,Direction-based Localization Schemes for Wireless Sensor Networks,2005,,
+313414543,Coverage and energy tradeoff in density control on sensor networks,2005,,International Conference on Parallel and Distributed Systems
+313793338,Coordinated Actuation for Sensing Uncertainty Reduction,2005,Center for Embedded Network Sensing,
+315088373,On Solving Coverage Problems in a Wireless Sensor Network Using Voronoi Diagrams,2005,,Workshop on Internet and Network Economics
+317855693,Anti-detection: how does a target traverse a sensing field,2005,,International Conference on Embedded Software and Systems
+321601725,pCover: Partial Coverage for Long-Lived Surveillance Sensor Networks,2005,,
+337273283,The Effects of Deployment Irregularity on Coverage in Wireless Sensor Networks,2005,,"International Conference on Intelligent Sensors, Sensor Networks and Information Processing"
+345760930,Wireless sensor networks: applications and challenges of ubiquitous sensing,2005,IEEE Circuits and Systems Magazine,
+348725732,Worst and best information exposure paths in wireless sensor networks,2005,,Mobile Ad-hoc and Sensor Networks
+360058950,Actuation scheduling in mobile actuator networks for spatial-temporal feedback control of a diffusion process with dynamic obstacle avoidance,2005,,International Conference on Mechatronics and Automation
+362713041,Developing energy-efficient topologies and routing for wireless sensor networks,2005,,Network and Parallel Computing
+362779921,Connectivity maintenance and coverage preservation in wireless sensor networks,2005,,Ad Hoc Networks
+365423073,Terrain-constrained mobile sensor networks,2005,,Global Communications Conference
+372559695,Reliable sensor networks for planet exploration,2005,,"International Conference on Networking, Sensing and Control"
+372772500,Scalable mobility management in wireless ad hoc sensor systems,2005,,"International Conference on Electronics, Circuits, and Systems"
+377459818,A minimum cost heterogeneous sensor network with a lifetime constraint,2005,IEEE Transactions on Mobile Computing,
+380373354,Coverage and Connectivity Issues in Wireless Sensor Networks,2005,,
+381701682,Consensus Filters for Sensor Networks and Distributed Sensor Fusion,2005,,Conference on Decision and Control
+387336400,A predictive QoS control strategy for wireless sensor networks,2005,,Mobile Adhoc and Sensor Systems
+389484404,Relay Placement in Sensor Networks,2005,,
+391548033,Evolutionary algorithm for the dynamic coverage problem applied to wireless sensor networks design,2005,,Congress on Evolutionary Computation
+393429789,Blind Swarms for Coverage in 2-D,2005,,Robotics: Science and Systems
+397410589,Sensor deployment optimization for detecting maneuvering targets,2005,,International Conference on Information Fusion
+397675670,Energy-efficient target coverage in wireless sensor networks,2005,,International Conference on Computer Communications
+398212343,Randomized Initialization of a Wireless Multihop Network,2005,,Hawaii International Conference on System Sciences
+405442542,Deployment issues in wireless sensor networks,2005,,Mobile Ad-hoc and Sensor Networks
+406351460,Understanding performance limits in wireless sensor networks,2005,,
+410066808,Coverage analysis for wireless sensor networks,2005,,Mobile Ad-hoc and Sensor Networks
+413011771,Geographic grid routing for wireless sensor networks,2005,,"International Conference on Networking, Sensing and Control"
+414604696,Integrated coverage and connectivity configuration for energy conservation in sensor networks,2005,ACM Transactions on Sensor Networks,
+415136892,Dynamic coverage in ad-hoc sensor networks,2005,Mobile Networks and Applications,
+415641780,Spatio-temporal sampling rates and energy efficiency in wireless sensor networks,2005,IEEE ACM Transactions on Networking,
+419981386,Self-organization of wireless sensor networks,2005,,
+421387354,Randomized coverage-preserving scheduling schemes for wireless sensor networks,2005,,International Conference on Networking
+424069729,Barrier coverage with wireless sensors,2005,,ACM/IEEE International Conference on Mobile Computing and Networking
+424877343,Coverage and hole-detection in sensor networks via homology,2005,,Information Processing in Sensor Networks
+426609399,Distributed sensor placement with sequential particle swarm optimization,2005,,IEEE Swarm Intelligence Symposium
+427383107,Information coverage for wireless sensor networks,2005,IEEE Communications Letters,
+429564106,An energy aware coverage-preserving scheme for wireless sensor networks,2005,,"Performance Evaluation of Wireless Ad Hoc, Sensor, and Ubiquitous Networks"
+441455065,A probabilistic signal-strength-based evaluation methodology for sensor network deployment,2005,,Ubiquitous Computing
+445010338,Coordinated sensor deployment for improving secure communications and sensing coverage,2005,,Security of ad hoc and Sensor Networks
+450237406,Empirical Analysis of the Connectivity Threshold of Mobile Agents on the Grid.,2005,,
+454897368,A key pre-distribution scheme for wireless sensor networks,2005,,Wireless Telecommunications Symposium
+454930413,"LORD: A Localized, Reactive and Distributed Protocol for Node Scheduling in Wireless Sensor Networks",2005,,"Design, Automation, and Test in Europe"
+470614671,Tightly integrating activity scheduling for wireless sensor networks,2005,,"Wireless and Mobile Computing, Networking and Communications"
+471923711,An Introduction to Wireless Sensor Networks,2005,,
+474245413,Energy-efficient sensor network design subject to complete coverage and discrimination constraints,2005,,"Sensor, Mesh and Ad Hoc Communications and Networks"
+476024195,ACOS: a precise energy-aware coverage control protocol for wireless sensor networks,2005,,Mobile Ad-hoc and Sensor Networks
+484546712,Distributed CoreAssisted Scalable DataDissemination inMobile AdHoc Networks,2005,,
+488717634,Broadcasting and Topology Control in Wireless Ad Hoc Networks.,2005,,
+492784533,On coverage problems of directional sensor networks,2005,,Mobile Ad-hoc and Sensor Networks
+495472726,"Unreliable sensor grids: coverage, connectivity and diameter",2005,,Ad Hoc Networks
+94123485,A graphical simulation system for modeling and analysis of sensor networks,2005,,International Symposium on Multimedia
+2592677,Bottleneck around Base Station in Wireless Sensor Network and its Solution,2006,,International Conference on Mobile and Ubiquitous Systems: Networking and Services
+2871418,WSN09-6: Blocking Vulnerable Paths of Wireless Sensor Networks,2006,,Global Communications Conference
+6394895,Alternance synchrone pour la conservation d'énergie dans les réseaux ad hoc,2006,,
+7141968,Self-Protection for Wireless Sensor Networks,2006,,International Conference on Distributed Computing Systems
+8561210,A Delaunay triangulation based method for wireless sensor network deployment,2006,,International Conference on Parallel and Distributed Systems
+12080504,Mutual Exclusion in Wireless Sensor and Actor Networks,2006,,"Sensor, Mesh and Ad Hoc Communications and Networks"
+14289628,Coverage Strategies in Wireless Sensor Networks,2006,International Journal of Distributed Sensor Networks,
+18623213,A Distributed QoS Control Schema for Wireless Sensor Networks,2006,,International Conference on Intelligent Computing
+22200869,Sacrificing a Little Coverage Can Substantially Increase Network Lifetime,2006,,"Sensor, Mesh and Ad Hoc Communications and Networks"
+26399126,TeenyLIME: transiently shared tuple space middleware for wireless sensor networks,2006,,Middleware for Sensor Networks
+39550622,An energy efficient 3-dimensional wireless sensor cover,2006,,Consumer Communications and Networking Conference
+43022139,Belief consensus and distributed hypothesis testing in sensor networks,2006,Lecture Notes in Control and Information Sciences,
+49881503,WSN18-6: A Unifying Architecture for Maximal Connectivity in Heterogeneous Ad Hoc Networks,2006,,Global Communications Conference
+53184626,Using Existing Infrastructure as Support for Wireless Sensor Networks,2006,,
+58849018,Swarm Intelligence for the Self-Organization of Wireless Sensor Network,2006,,IEEE International Conference on Evolutionary Computation
+59351118,Multiobjective Multistatic Sonar Sensor Placement,2006,,World Congress on Computational Intelligence
+70815402,Effective Coverage Control using Dynamic Sensor Networks,2006,,Conference on Decision and Control
+73796137,Sixth-Sense: Context Reasoning for Potential Objects Detection in Smart Sensor Rich Environment,2006,,IEEE/WIC/ACM International Conference on Intelligent Agent Technology
+75280787,Coverage In Heterogeneous Sensor Networks,2006,,"Modeling and Optimization in Mobile, Ad-Hoc and Wireless Networks"
+77291087,Deployment Strategies for Differentiated Detection in Wireless Sensor Networks,2006,,"Sensor, Mesh and Ad Hoc Communications and Networks"
+91233794,Timing Control During Data Aggregation Operations of Distributed Sensor Networks: Trade-off Between Query Accuracy and Response Delay,2006,Information Technology Journal,
+92969148,WSN04-3: On the Path Coverage by a Non Homogeneous Sensor Field,2006,,Global Communications Conference
+96548892,Energy-Efficient Data Gathering in Heterogeneous Wireless Sensor Networks,2006,,"Wireless and Mobile Computing, Networking and Communications"
+96846539,WSN04-4: A Coverage-Preserving and Hole Tolerant Based Scheme for the Irregular Sensing Range in Wireless Sensor Networks,2006,,Global Communications Conference
+98750222,An Attacking Track in Wireless Sensor Network,2006,,International Conference on Communications
+106090137,Energy-Efficient Target Coverage in Heterogeneous Wireless Sensor Networks,2006,,Mobile Adhoc and Sensor Systems
+106923653,Expected k-coverage in wireless sensor networks,2006,,Ad Hoc Networks
+116025213,Theories and Algorithms of Coverage Control for Wireless Sensor Networks,2006,Journal of Software,
+116038152,PERFORMANCE STUDIES OF WIRELESS MULTIHOP NETWORKS,2006,,
+116798047,Embedding expression: Pervasive computing architecture for art and entertainment,2006,Pervasive and Mobile Computing,
+121709299,Fast shared-memory algorithms for computing the minimum spanning forest of sparse graphs,2006,Journal of Parallel and Distributed Computing,
+122833247,Coverage and connectivity in three-dimensional networks,2006,,ACM/IEEE International Conference on Mobile Computing and Networking
+126585178,Tree-based Deployment Algorithm in Mobile Sensor Networks,2006,,
+128733718,WLC12-1: Distributed Coordinate-free Hole Detection and Recovery,2006,,Global Communications Conference
+134713096,Coordinated Sensing Coverage in Sensor Networks using Distributed Reinforcement Learning,2006,,International Conference on Networks
+144857908,"Sensor Deployment Using Interleaved Experimentation, Modeling, and Optimization",2006,Center for Embedded Network Sensing,
+146856787,Impact of Node Density and Sensing Range on Intrusion Detection in Wireless Sensor Networks,2006,,International Conference on Computer Communications and Networks
+147470247,Grid Scan: A Simple and Effective Approach for Coverage Issue in Wireless Sensor Networks,2006,,International Conference on Communications
+151784224,Maximize the coverage lifetime of sensor networks,2006,,Embedded and Ubiquitous Computing
+154772281,A Forecasting-Based Monitoring and Tomography Framework for Wireless Sensor Networks,2006,,International Conference on Communications
+160581576,Algorithm to locate points in a Delaunay triangulation,2006,,Southeastern Symposium on System Theory
+165260793,Wireless sensor networks for underwater survelliance systems,2006,,Ad Hoc Networks
+171465537,Towards wireless sensor networks with enhanced vision capabilities,2006,"Annales Umcs, Informatica",
+171574588,A study on the locality behavior of minimum spanning tree algorithms,2006,,"IEEE International Conference on High Performance Computing, Data, and Analytics"
+176762712,Coverage Aware Buffer Management and Scheduling for Wireless Sensor Networks,2006,,"Sensor, Mesh and Ad Hoc Communications and Networks"
+177953941,Connectivity in energy balanced traffic distribution,2006,,Wireless Communications and Networking Conference
+180324835,Coverage protocols for detecting fully sponsored sensors in wireless sensor networks,2006,,"Performance Evaluation of Wireless Ad Hoc, Sensor, and Ubiquitous Networks"
+180793281,Deployment of mobile robots with energy and timing constraints,2006,IEEE Transactions on Robotics,
+187805407,Coverage with Connectivity in Wireless Sensor Networks,2006,,"Broadband Communications, Networks and Systems"
+188250472,Movement-assisted sensor deployment,2006,IEEE Transactions on Mobile Computing,
+196459960,Power Conservation Approaches to the Border Coverage Problem in Wireless Sensor Networks.,2006,,International Conference on Wireless Networks
+197734791,Load balancing by distributed optimisation in ad hoc networks,2006,,Mobile Ad-hoc and Sensor Networks
+198235989,A Coverage-Based Maximum Lifetime Data Gathering Algorithm in Sensor Networks,2006,,Mobile Data Management
+214380615,Connected sensor cover: self-organization of sensor networks for efficient query execution,2006,IEEE ACM Transactions on Networking,
+214614973,Random coverage with guaranteed connectivity: joint scheduling for wireless sensor networks,2006,IEEE Transactions on Parallel and Distributed Systems,
+217053378,Survey on Coverage in Wireless Sensor Networks Deployment,2006,,
+218058669,Towards Fluent Sensor Networks: A Scalable and Robust Self-Deployment Approach,2006,,Adaptive Hardware and Systems
+219867328,Optimal Spraying Control of a Diffusion Process Using Mobile Actuator Networks with Fractional Potential Field Based Dynamic Obstacle Avoidance,2006,,"International Conference on Networking, Sensing and Control"
+220844354,A Practical Method to Form Energy Efficient Connected -Coverage in Wireless Sensor Networks,2006,,International Conference on Distributed Computing Systems Workshops
+226727549,Hazard avoidance in wireless sensor and actor networks,2006,Computer Communications,
+233058409,An energy-efficient sensing coverage protocol for surveillance and monitoring applications using wireless sensors,2006,,"International Performance, Computing, and Communications Conference"
+234166507,Energy-efficient coverage problems in wireless ad-hoc sensor networks,2006,Computer Communications,
+235325117,Distributed Coordinate-free Hole Detection and Recovery,2006,,Global Communications Conference
+239048703,Replacing Failed Sensor Nodes by Mobile Robots,2006,,International Conference on Distributed Computing Systems Workshops
+246923935,Energy-aware scheduling with quality of surveillance guarantee in wireless sensor networks,2006,,Ad Hoc Networks
+248696884,Emergency guiding and monitoring applications in indoor 3D environments by wireless sensor networks,2006,International Journal of Sensor Networks,
+250109646,Coverage and Exposure Paths in Wireless Sensor Networks,2006,Journal of Computer Science and Technology,
+252026975,Stochastic event capture using mobile sensors subject to a quality metric,2006,,ACM/IEEE International Conference on Mobile Computing and Networking
+253261288,Optimal coverage deployment for wireless sensor networks,2006,,International Conference on Advanced Communication Technology
+253523513,Interference-constrained wireless coverage in a protocol model,2006,,Modeling Analysis and Simulation of Wireless and Mobile Systems
+254068650,Router Placement in Wireless Sensor Networks,2006,,Mobile Adhoc and Sensor Systems
+255864865,Optimality measures for coverage in 3D wireless sensor networks,2006,,International Symposium on Wireless Pervasive Computing
+256590567,A method for coordinating the distributed transmission of imagery,2006,IEEE Transactions on Image Processing,
+258370715,Genetic Algorithms Applied to Organize Wireless Sensor Networks Aiming Good Coverage and Redundancy,2006,,International Conference on Communications
+258784977,A Communication Architecture for Mobile Wireless Sensor and Actor Networks,2006,,"Sensor, Mesh and Ad Hoc Communications and Networks"
+266466106,Thermal sensor allocation and placement for reconfigurable systems,2006,,International Conference on Computer Aided Design
+271964774,Analytic modeling of detection latency in mobile sensor networks,2006,,Information Processing in Sensor Networks
+273911208,Autonomic mobile sensor network with self-coordinated task allocation and execution,2006,,"Systems, Man and Cybernetics"
+274927114,Cluster Based Object Detection in Wireless Sensor Network,2006,,
+277231266,SHOT NOISE MODELS FOR THE DUAL PROBLEMS OF COOPERATIVE COVERAGE AND OUTAGE IN RANDOM NETWORKS,2006,,
+280592245,Spatial correlation-based collaborative medium access control in wireless sensor networks,2006,IEEE ACM Transactions on Networking,
+282650533,Effective Coverage Control for Mobile Sensor Networks,2006,,Conference on Decision and Control
+288556496,Coordinate-free Coverage in Sensor Networks with Controlled Boundaries via Homology,2006,The International Journal of Robotics Research,
+290494632,Node placement for optimal coverage in sensor networks,2006,,"Sensor Networks, Ubiquitous, and Trustworthy Computing"
+290901002,Maximizing Network Lifetime for Connected Target Coverage in Wireless Sensor Networks,2006,,"Wireless and Mobile Computing, Networking and Communications"
+298202815,SLEEP SCHEDULING FOR ENERGY CONSERVATION IN WIRELESS SENSOR NETWORKS WITH PARTIAL COVERAGE,2006,,
+298504483,Research on Reliability Model of Large-Scale Wireless Sensor Networks,2006,,"International Conference on Wireless Communications, Networking and Mobile Computing"
+305812394,Minimum dominating sets for solving the coverage problem in wireless sensor networks,2006,,Ubiquitous Computing Systems
+314419586,The Sectoral Sweeper Scheme for Wireless Sensor Networks: Adaptive Antenna Array Based Sensor Node Management and Location Estimation,2006,Wireless Personal Communications,
+317761033,The critical speeds and radii for coverage in sensor networks,2006,,International Conference on Intelligent Computing
+318766417,Localization Algorithm using Expected Hop Progress in Wireless Sensor Networks,2006,,Mobile Adhoc and Sensor Systems
+329444678,Decentralized energy-conserving and coverage-preserving protocols for wireless sensor networks,2006,ACM Transactions on Sensor Networks,
+333521094,Redeployment Problem for Wireless Sensor Networks,2006,,International Conference on Communication Technology
+337106868,Stochastic coverage in heterogeneous sensor networks,2006,ACM Transactions on Sensor Networks,
+338850689,Serialized optimal relay schedules in two-tiered wireless sensor networks,2006,Computer Communications,
+341048407,Scalable Self-Deployment of Mobile Sensor Networks: A Fluid Dynamics Approach,2006,,Intelligent Robots and Systems
+342470632,Geometric Chemotaxis: A Biologically-Inspired Framework for a Class of Wireless Coverage Problems.,2006,Ad Hoc & Sensor Wireless Networks,
+344340255,Sensing coverage for randomly distributed wireless sensor networks in shadowed environments,2006,,"Sensor Networks, Ubiquitous, and Trustworthy Computing"
+344874138,Distributed Kalman filtering and sensor fusion in sensor networks,2006,Lecture Notes in Control and Information Sciences,
+345654204,Doughnut Effect in Wireless Sensor Network and its Solution,2006,,"Sensor, Mesh and Ad Hoc Communications and Networks"
+349982969,Designing irregular parallel algorithms with mutual exclusion and lock-free protocols,2006,Journal of Parallel and Distributed Computing,
+350921567,Impact of Heterogeneity on Coverage and Broadcast Reachability in Wireless Sensor Networks,2006,,International Conference on Computer Communications and Networks
+352022847,Coverage and Connectivity in Three-Dimensional Networks,2006,arXiv: Networking and Internet Architecture,
+353929941,"A new scheme for mobility, sensing, and security management in wireless ad hoc sensor networks",2006,,Annual Simulation Symposium
+357111026,Geometric Approaches to Ad Hoc and Sensor Networks: Full Report of the 2006 NSF Workshop,2006,,
+359034831,WSN10-3: Maximizing Network Lifetime under QoS Constraints in Wireless Sensor Networks,2006,,Global Communications Conference
+359461502,Impact of sensing coverage on greedy geographic routing algorithms,2006,IEEE Transactions on Parallel and Distributed Systems,
+370584443,Mobile Networking Challenges,2006,,
+371113450,Self-organization strategies for dynamic context coverage in capability-constrained mobile sensor networks,2006,,"Sensor Networks, Ubiquitous, and Trustworthy Computing"
+371815516,A Dual Approach for The Worst-Case-Coverage Deployment Problem in Ad-Hoc Wireless Sensor Networks,2006,,Mobile Adhoc and Sensor Systems
+372399118,Tracking the events in the coverage of wireless sensor networks based on artificial neural-networks algorithms,2006,Frontiers of Electrical and Electronic Engineering in China,
+384554673,Optimal 3-dimensional sensor deployment strategy,2006,,Consumer Communications and Networking Conference
+393665167,On the path coverage by a non homogeneous sensor field,2006,,Global Communications Conference
+401227479,On Heterogeneous Sensor Node Placement,2006,,Military Communications Conference
+402397636,Blocking Vulnerable Paths of Wireless Sensor Networks,2006,,Global Communications Conference
+403218975,"Placement, visibility and coverage analysis of dynamic pan/tilt/zoom camera sensor networks",2006,,
+413463459,"Mobility, sensing, and security management in wireless ad hoc sensor systems",2006,Computers & Electrical Engineering,
+414871054,Probabilistic Exposure Identification for Wireless Sensor Network,2006,,
+419225092,The 3-Dimensional Wireless Sensor Network Coverage Problem,2006,,"International Conference on Networking, Sensing and Control"
+419748951,Efficient point coverage in wireless sensor networks,2006,Journal of Combinatorial Optimization,
+422392317,Latency of Event Reporting in Duty-Cycled Wireless Sensor Networks,2006,,Mobile Ad-hoc and Sensor Networks
+426949022,Experimental Evaluation of an Angle Based Indoor Localization System,2006,,"Modeling and Optimization in Mobile, Ad-Hoc and Wireless Networks"
+428971113,Energy Efficient Sensing of Non-cooperative Events in Wireless Sensor Networks,2006,,Conference on Information Sciences and Systems
+430055096,Systematic temperature sensor allocation and placement for microprocessors,2006,,Design Automation Conference
+431299369,Coverage for target localization in wireless sensor networks,2006,,Information Processing in Sensor Networks
+436044183,Routing performance and power conservation in ad hoc and sensor networks,2006,,
+438812758,Models and Algorithms for Coverage Problems in Wireless Sensor Networks,2006,,
+443249215,"Centroid Optimization Coverage and Polling the Sets of the ""Coverage"" Nodes: An Improved Coverage Scheme",2006,,"International Conference on Wireless Communications, Networking and Mobile Computing"
+446541254,Effects of Communication on Mobile Sensor Networks,2006,,Intelligent Robots and Systems
+451691312,A GA approach to the optimal placement of sensors in wireless sensor networks with obstacles and preferences,2006,,Consumer Communications and Networking Conference
+452255811,Time synchronization in wireless sensor networks,2006,,
+453139424,Multiobjective Multistatic Sonar Sensor Placement,2006,,IEEE International Conference on Evolutionary Computation
+461520909,Improving network lifetime using sensors with adjustable sensing ranges,2006,International Journal of Sensor Networks,
+465569329,An area-based collaborative sleeping protocol for wireless sensor networks,2006,,Asia-Pacific Web Conference
+465732488,A NEW SOLUTION BASED ON MONTE CARLO TO WIRELESS SENSOR NETWORK DENSITY CONTROL PROBLEM,2006,,"Sensor, Mesh and Ad Hoc Communications and Networks"
+467551782,The Challenges of Internetworking Unattended Autonomous Sensors,2006,,
+470206382,Smart Path-Finding with Local Information in a Sensory Field,2006,,Mobile Ad-hoc and Sensor Networks
+470557646,Optimisation problems based on the maximal breach path measure for wireless sensor network coverage,2006,,International Conference on Distributed Computing and Internet Technology
+473620408,A Sleep-Scheduling-Based Cross-Layer Design Approach for Application-Specific Wireless Sensor Networks,2006,,
+481952096,Efficient algorithm for placing a given number of base stations to cover a convex region,2006,Journal of Parallel and Distributed Computing,
+483820863,Distributed actuation attacks in wireless sensor networks: implications and countermeasures,2006,,
+491025289,A sensor distribution algorithm for FPGAs with minimal dynamic reconfiguration overhead,2006,,
+493545307,Geographical Cluster-Based Routing in Sensing-Covered Networks,2006,IEEE Transactions on Parallel and Distributed Systems,
+495551119,Collaborative compression and transmission of distributed sensor imagery,2006,,
+498824024,Scheduling Sensor Activity for Point Information Coverage in Wireless Sensor Networks,2006,,"Modeling and Optimization in Mobile, Ad-Hoc and Wireless Networks"
+145717408,How many sensors for an acceptable breach detection probability,2006,Computer Communications,
+661829,ENERGY EFFICIENT DATA DISSEMINATION FOR UNIFORM COVERAGE IN WIRELESS SENSOR NETWORKS,2007,Journal of Interconnection Networks,
+14090560,Decentralized scattering of wake-up times in wireless sensor networks,2007,,International Conference on Embedded Wireless Systems and Networks
+14488561,Joint Scheduling and Routing for Lifetime Elongation in Surveillance Sensor Networks,2007,,Asia-Pacific Services Computing Conference
+17170622,Maximizing Sensing Coverage in Wireless Sensor Networks Through Optimal Scattering of Wake-up Times,2007,,
+17738287,A Location-free Algorithm of Energy-Efficient Connected Coverage for High Density Wireless Sensor Networks,2007,Discrete Event Dynamic Systems,
+18081843,Prolonging Network Lifetime via Partially Controlled Node Deployment and Adaptive Data Propagation in WSN,2007,,Conference on Information Sciences and Systems
+18732334,Otherness-based information-condensation in Wireless Sensor Networks: an application study,2007,,IEEE International Conference on Information Acquisition
+19217643,Extending Sensor Networks Lifetime Through Energy Efficient Organization,2007,,"Wireless Algorithms, Systems, and Applications"
+26707713,Voronoi tessellation based rapid coverage decision algorithm for wireless sensor networks,2007,,Ubiquitous Intelligence and Computing
+29328371,Search-Oriented Deployment Strategies for Wireless Sensor Networks,2007,,International Symposium on Object/Component/Service-Oriented Real-Time Distributed Computing
+33616330,Energy-efficient coverage for target detection in wireless sensor networks,2007,,Information Processing in Sensor Networks
+38526596,An Algorithm for Target Traversing Based on Local Voronoi Diagram,2007,Journal of Software,
+39864871,Employing energy-efficient patterns for coverage problem to extend the network lifetime,2007,,International Conference on Computational Science and Its Applications
+41505351,Distributed direction-based localization in wireless sensor networks,2007,Computer Communications,
+42515643,Minimum Path Exposure and Detection Interval Setting for Target Detection Using Wireless Sensor Network,2007,International Journal of Wireless Information Networks,
+45518170,NODE ACTIVATION POLICIES FOR ENERGY-EFFICIENT COVERAGE IN RECHARGEABLE SENSOR SYSTEMS,2007,,
+48372412,Minimum Exposed Path to the Attack (MEPA) in Mobile Ad Hoc Network (MANET),2007,,International Conference on Networking
+48658817,Intruder Activity Analysis under Unreliable Sensor Networks,2007,,Conference on Automation Science and Engineering
+50022126,A Distributed Energy Efficient Query Processing in Self-Organized Wireless Sensor Networks,2007,,World Congress on Engineering
+56238246,Probabilistic detection of mobile targets in heterogeneous sensor networks,2007,,Information Processing in Sensor Networks
+62144353,Computing best coverage path in the presence of obstacles in a sensor field,2007,,Workshop on Algorithms and Data Structures
+64693423,Modeling Detection Metrics in Randomized Scheduling Algorithm in Wireless Sensor Networks,2007,,Wireless Communications and Networking Conference
+67290169,Information Coverage in Randomly Deployed Wireless Sensor Networks,2007,IEEE Transactions on Wireless Communications,
+70230621,An optimal coverage-preserving scheme for wireless sensor networks based on local information exchange,2007,Computer Communications,
+70681772,Information Coverage and Network Lifetime in Energy Constrained Wireless Sensor Networks,2007,,Local Computer Networks
+74513734,A Framework for Resilient Online Coverage in Sensor Networks,2007,,"Sensor, Mesh and Ad Hoc Communications and Networks"
+77870507,A Reactive Sensor Coverage Scheme and Resource Management Protocol,2007,,"International Conference on Intelligent Sensors, Sensor Networks and Information"
+81444846,Distributed algorithms for dynamic coverage in sensor networks,2007,,Principles of Distributed Computing
+82954689,Bidding Protocols for Deploying Mobile Sensors,2007,IEEE Transactions on Mobile Computing,
+85267483,Towards characterizing the effectiveness of random mobility against actuation attacks,2007,Computer Communications,
+88871917,Some problems of directional sensor networks,2007,International Journal of Sensor Networks,
+92025167,Analysis for Multi-Coverage Problem in Wireless Sensor Networks,2007,Journal of Software,
+100537613,A Distributed Query Protocol in Wireless Sensor Networks,2007,Wireless Personal Communications,
+100558633,"Distributed, Reliable Restoration Techniques using Wireless Sensor Devices",2007,,International Parallel and Distributed Processing Symposium
+107376454,Energy balanced sensor node organisation for maximising network lifetime,2007,,
+108259325,Asymptotic Coverage and Detection in Randomized Scheduling Algorithm in Wireless Sensor Networks,2007,,International Conference on Communications
+108597324,IMPROVEMENT OF SURVEILLANCE DETECTION WITH THE AID OF A TERRAIN-AWARE MOBILE SENSOR NETWORK,2007,,
+109113023,Sensitivity Study of Sensors' Coverage within Wireless Sensor Networks,2007,,International Conference on Computer Communications and Networks
+110854418,Barrier coverage with wireless sensors,2007,Wireless Networks,
+111593136,Configuring node status in a two-phase tightly integrated mode for wireless sensor networks,2007,,Ubiquitous Computing
+113041283,Purposeful Deployment via Self-Organizing Flocking Coalition in Sensor Networks,2007,International Journal of Computer Science & Applications,
+117193097,Minimizing Transmission Delay and Deployment Cost for Sensors Placement in Sparse Wireless Sensor Networks,2007,,Wireless Communications and Networking Conference
+118058658,Topology Control for Wireless Sensor Networks,2007,Journal of Software,
+120472764,A coverage-preserving scheme for wireless sensor network with irregular sensing range,2007,,Ad Hoc Networks
+123826551,Coverage Protocol for Wireless Sensor Networks Using Distance Estimates,2007,,"Sensor, Mesh and Ad Hoc Communications and Networks"
+127451327,Search Algorithms for Unstructured Peer-to-Peer Networks,2007,,Local Computer Networks
+131013346,A Survey of Fault Management in Wireless Sensor Networks,2007,Journal of Network and Systems Management,
+134071106,Near optimal sensor selection in the Columbia river (CORIE) observation network for data assimilation using genetic algorithms,2007,,Distributed Computing in Sensor Systems
+140571116,An Energy-Efficient Distributed Algorithm for k-Coverage Problem in Wireless Sensor Networks,2007,,
+147150270,Robust and Efficient Software Management in Sensor Networks,2007,,COMmunication System softWAre and MiddlewaRE
+152273169,Exploiting Spatial Correlation for Improving Coverage in Sensor Networks,2007,,Global Communications Conference
+153568358,Probabilistic Sensor Deployment in Wireless Sensor Network: A New Approach,2007,,International Conference on Advanced Communication Technology
+153690008,A Framework for Level-of-Detail Tracking and Surveillance in Wireless Sensor Networks,2007,,
+154927142,Profile-matching techniques for on-demand software management in sensor networks,2007,Eurasip Journal on Wireless Communications and Networking,
+156857972,"An adaptive, self-organizing, neural wireless sensor network.",2007,,
+158675305,A Voronoi Approach for Coverage Protocols in Wireless Sensor Networks,2007,,Global Communications Conference
+160448253,Evolutionary Algorithms for Combinatorial Problems in the Uncertain Environment of the Wireless Sensor Networks,2007,,
+160640645,Collaborative event detection using mobile and stationary nodes in sensor networks,2007,,Collaborative Computing
+171094289,Modeling and simulating coverage in sensor networks,2007,Computer Communications,
+179272353,Trade-offs between mobility and density for coverage in wireless sensor networks,2007,,ACM/IEEE International Conference on Mobile Computing and Networking
+180022078,Coverage Optimization based on Improved NSGA-II in Wireless Sensor Network,2007,,IEEE International Conference on Integration Technology
+181556422,Mobility-Assisted Relocation for Self-Deployment in Wireless Sensor Networks,2007,IEICE Transactions on Communications,
+187542491,Efficient available energy monitoring in wireless sensor networks,2007,International Journal of Sensor Networks,
+189404072,Event detection using sensor networks: A case for a hybrid detector,2007,,Conference on Decision and Control
+190135534,EFFICIENT K-COVERAGE ALGORITHMS FOR WIRELESS SENSOR NETWORKS AND THEIR APPLICATIONS TO EARLY DETECTION OF FOREST FIRES,2007,,
+192388958,Context-Aware Web Service Selection Based on Multi-aspects Regulating,2007,,Asia-Pacific Services Computing Conference
+194675180,K-connected target coverage problem in wireless sensor networks,2007,,Conference on Combinatorial Optimization and Applications
+198295084,Coverage breach problems in bandwidth-constrained sensor networks,2007,ACM Transactions on Sensor Networks,
+202995025,Effective Coverage Control for Mobile Sensor Networks With Guaranteed Collision Avoidance,2007,IEEE Transactions on Control Systems and Technology,
+206527172,Optimal Sensor Selection and Placement for Perimeter Defense,2007,,Conference on Automation Science and Engineering
+209088383,A lightweight scheme for node scheduling in wireless sensor networks,2007,,Ubiquitous Intelligence and Computing
+212209645,Improved approximation algorithms for connected sensor cover,2007,Wireless Networks,
+214070459,Dynamic Random Geometric Graphs,2007,,Symposium on Discrete Algorithms
+214434508,On the efficient and fast response for sensor deployment in sparse wireless sensor networks,2007,Computer Communications,
+224426246,Sensor replacement using mobile robots,2007,Computer Communications,
+226387615,On Data Fusion and Lifetime Constraints in Wireless Sensor Networks,2007,,International Conference on Communications
+231010358,Optimal Observation Scheduling for connected target coverage problem in Wireless Sensor Networks,2007,,International Conference on Communications
+231047925,Secure localization and node placement strategies for wireless networks,2007,,
+235104840,The self-protection problem in wireless sensor networks,2007,ACM Transactions on Sensor Networks,
+241278135,A pseudopolynomial time O (log n )-approximation algorithm for art gallery problems,2007,,Workshop on Algorithms and Data Structures
+243209466,Sensor coverage in wireless ad hoc sensor networks,2007,International Journal of Sensor Networks,
+252009433,Covering a line segment with variable radius discs,2007,arXiv: Discrete Mathematics,
+253474244,A Node Scheduling Scheme Based on Coverage-Preserving for Wireless Sensor Network,2007,,International Conference on Communications
+264888931,Coverage Without Location Information,2007,,International Conference on Network Protocols
+271250940,On efficient deployment of sensors on planar grid,2007,Computer Communications,
+271262817,Exploring in-situ sensing irregularity in wireless sensor networks,2007,,International Conference on Embedded Networked Sensor Systems
+280754788,Results on coverage for finite wireless networks,2007,,International Conference on Wireless Communications and Mobile Computing
+283538962,Underwater Sensor Field Design using Game Theory,2007,,Military Communications Conference
+285230240,Cover Set Problem in Directional Sensor Networks,2007,,International Conference on Future Generation Communication and Networking
+291271294,Decentralized vehicle routing in a stochastic and dynamic environment with customer impatience,2007,,International Conference on Robot Communication and Coordination
+294490706,Energy Efficient Coverage with Variable Sensing Radii in Wireless Sensor Networks,2007,,"Wireless and Mobile Computing, Networking and Communications"
+294677002,Coin: A COverage INcreasing Algorithm in Mixed Sensor Network,2007,,International Conference on Sensor Technologies and Applications
+297812221,Sensor network coverage and data aggregation problem: solutions toward the maximum lifetime,2007,,
+298549056,Almost Delaunay triangulation routing in wireless sensor networks,2007,,Computer and Information Technology
+301954826,The Design and Analysis of an Efficient Local Algorithm for Coverage and Exploration Based on Sensor Network Deployment,2007,IEEE Transactions on Robotics,
+307889223,Topology Control for Wireless Sensor Networks,2007,,Network and Parallel Computing
+321667687,Event Detection Time for Mobile Sensor Networks Using First Passage Processes,2007,,Global Communications Conference
+323139626,Flexible Energy Efficient Density Control on Wireless Sensor Networks,2007,International Journal of Distributed Sensor Networks,
+330915375,Layered Diffusion based Coverage Control in Wireless Sensor Networks,2007,,Local Computer Networks
+337361582,Dynamic Sensing Level Selection for Energy Efficiency in Wireless Sensor Networks,2007,,International Symposium on Consumer Electronics
+338173779,Efficient Self Protection Algorithms for Static Wireless Sensor Networks,2007,,Global Communications Conference
+341834293,Algorithms for the m-coverage problem and k-connected m-coverage problem in wireless sensor networks,2007,,Network and Parallel Computing
+342162750,An energy efficient and self-healing 3-dimensional sensor cover,2007,,Ubiquitous Computing
+347044690,Dynamic Random Geometric Graphs,2007,,Symposium on Discrete Algorithms
+348225919,Distributed protocols for ensuring both coverage and connectivity of a wireless sensor network,2007,ACM Transactions on Sensor Networks,
+348293984,Joint problem of power optimal connectivity and coverage in wireless sensor networks,2007,Wireless Networks,
+349361207,Network engineering using multi-objective evolutionary algorithms,2007,,
+354992588,"Information fusion for wireless sensor networks: Methods, models, and classifications",2007,ACM Computing Surveys,
+356411469,Computing best coverage path in the presence of obstacles in wireless sensor networks,2007,,
+357108966,Optimal Power management scheme for Heterogeneous Wireless Sensor Networks: Lifetime Maximization under QoS and Energy Constraints,2007,,International Conference on Networking and Services
+366200134,An Energy Efficient and Coverage Guaranteed Wireless Sensor Network,2007,,Wireless Communications and Networking Conference
+372839510,Use of entropy to control coverage and energy dissipation in wireless sensor networks,2007,,International Symposium on Computer and Information Sciences
+385063692,Bounds on coverage and target detection capabilities for models of networks of mobile sensors,2007,ACM Transactions on Sensor Networks,
+392202837,Distributed Particle Swarm Optimization and Simulated Annealing for Energy-efficient Coverage in Wireless Sensor Networks,2007,Sensors,
+395609137,Dynamic Coverage Verification in Mobile Sensor Networks Via Switched Higher Order Laplacians.,2007,,Robotics: Science and Systems
+397389009,Role-based configuration of wireless sensor networks,2007,,
+401220082,Probabilistic Coverage Preserving Protocol with Energy Efficiency in Wireless Sensor Networks,2007,,Wireless Communications and Networking Conference
+403255187,Localization using boundary sensors: An analysis based on graph theory,2007,ACM Transactions on Sensor Networks,
+412251252,Wireless Sensor Networks and Applications: a Survey,2007,,
+414459427,Resource Management in Cellular Networks,2007,,
+417861094,A FIRE MONITORING APPLICATION FOR SCATTERED WIRELESS SENSOR NETWORKS - A Peer-to-Peer Cross-layering Approach,2007,,International Conference on Wireless Information Networks and Systems
+425956920,Efficient computation of minimum exposure paths in a sensor network field,2007,,Distributed Computing in Sensor Systems
+427878672,Potential Field Based Hierarchical Structure for Mobile Sensor Network Deployment,2007,,American Control Conference
+428784473,Session Control Protocol Exploiting Controlled Mobility in Multi-Robot Sensor Networks,2007,,Local Computer Networks
+430416284,Enabling Interoperability of Heterogeneous ad hoc Networks,2007,,
+439561085,Coverage and Connectivity of Wireless Sensor Networks,2007,,
+441825245,"Sensor Relocation with Mobile Sensors: Design, Implementation, and Evaluation",2007,,Mobile Adhoc and Sensor Systems
+442954155,A Delaunay Triangulation based method for wireless sensor network deployment,2007,Computer Communications,
+446430632,Extending Ad hoc Network range using CSMA(CD) parameter optimization,2007,,
+460470830,Defending Against Barrier Intrusions with Mobile Sensors,2007,,"Wireless Algorithms, Systems, and Applications"
+461650025,A Taxonomy of Localization Schemes for Wireless Sensor Networks.,2007,,International Conference on Wireless Networks
+464387709,Localization and Coverage for High Density Sensor Networks,2007,,IEEE International Conference on Pervasive Computing and Communications
+468248155,Design Challenges for Optimizing the Performance of Energy Constrained Wireless Sensor Networks,2007,,International Conference on Signal Processing
+470884321,A Voronoi dEtection Range Adjustment (VERA) approach for energy saving of wireless sensor networks,2007,,International Conference on Parallel and Distributed Systems
+481809896,An Energy Saving and Coverage Preserving Protocol based on Function Layers For Wireless Sensor Networks,2007,,Local Computer Networks
+486550319,Continuous Data Collection in Wireless Sensor Networks,2007,,
+486584613,Coverage in sensor networks via persistent homology,2007,Algebraic & Geometric Topology,
+493081937,Coordinate-free distributed coverage verification and intruder detection in dynamic sensor networks,2007,,"Allerton Conference on Communication, Control, and Computing"
+493353922,Stochastic Event Capture Using Mobile Sensors Subject to a Quality Metric,2007,IEEE Transactions on Robotics,
+493946939,Novel Deployment Schemes for Mobile Sensor Networks,2007,Sensors,
+499224559,Locomotion trajectory with cooperative metrics in wireless sensor networks,2007,The Journal of China Universities of Posts and Telecommunications,
+67588690,Multi-Objective Evolutionary Optimizations of a Space-Based Reconfigurable Sensor Network under Hard Constraints,2007,,
+207803906,Minimum Path Exposure and Detection Interval Setting for Target Detection Using Wireless Sensor Network,2007,,International Workshop on Computer Architecture for Machine Perception
+802408,"UNA MIRADA ACERCA DEL ROL DOCENTE UNIVERSITARIO, DESDE LAS PRÁCTICAS DE LA ENSEÑANZA EN ENTORNOS NO PRESENCIALES.",2008,,
+1162079,Range Assignment Problem in Wireless Network,2008,,
+5738925,3D Coverage Analysis under Heterogeneous Deployment Strategies in Wireless Sensor Networks,2008,,International Conference on Telecommunications
+8994867,The optimum sensor redeployment scheme using the most frangible clusters set,2008,Computer Communications,
+13674904,The gene regulatory network: an application to optimal coverage in sensor networks,2008,,Genetic and Evolutionary Computation Conference
+15168115,Perimeter coverage with wireless sensor networks,2008,,Military Communications Conference
+28053630,The effects of terrain types on 3D coverage under heterogeneous deployment strategies in Wireless Sensor Networks,2008,,International Symposium on Computer and Information Sciences
+28710827,RH+: A Hybrid Localization Algorithm for Wireless Sensor Networks,2008,IEICE Transactions on Communications,
+29287534,Analysis on Probabilistic View Coverage for Image Sensing - A Geometric Approach,2008,,"International Performance, Computing, and Communications Conference"
+31132281,Collaboration framework for data compensation in sensor networks,2008,,Electro/Information Technology
+31256547,Sweep coverage with mobile sensors,2008,,International Parallel and Distributed Processing Symposium
+32669819,Maximizing Networking Lifetime in Wireless Sensor Networks with Regular Topologies,2008,,Parallel and Distributed Computing: Applications and Technologies
+35049074,Algorithms for sensor coverage and sensor localization problems in wireless sensor networks,2008,,
+37421887,Dynamic heuristic anti-monitoring path searching algorithm in sensory field,2008,,International Conference on Communication Technology
+50494671,Coverage and connectivity in three-dimensional underwater sensor networks,2008,,Communications and Mobile Computing
+54437088,Application of Insensitivity Analysis of Coverage Processes to Wireless Sensor Networks,2008,IEICE Transactions on Communications,
+54752649,The Area Coverage Problem for Dynamic Sensor Networks,2008,,
+55341260,Transmission range management for lifetime maximization in wireless sensor network,2008,,International Symposium on Performance Evaluation of Computer and Telecommunication Systems
+58439374,Dynamic Recofiguration Techniques for Wireless Sensor Networks,2008,,
+58878373,Strategies and techniques for node placement in wireless sensor networks: A survey,2008,,Ad Hoc Networks
+59679085,Implementing security in wireless sensor networks,2008,,
+64305259,EEMC: An energy-efficient multi-level clustering algorithm for large-scale wireless sensor networks,2008,Computer Networks,
+64889346,Improving Lifetime and Coverage through Mobile Beacon for High Density Sensor Networks,2008,,International Conference on Sensor Technologies and Applications
+75300624,Sacrificing a little coverage can substantially increase network lifetime,2008,,Ad Hoc Networks
+77157076,Distributed computation of a sparse cover in sensor networks without location information,2008,,Conference on Information Sciences and Systems
+80860684,Efficient Placement and Dispatch of Sensors in a Wireless Sensor Network,2008,IEEE Transactions on Mobile Computing,
+84200239,Generic 3-D Routing Protocols in Sensing-Covering Regions,2008,,"Wireless and Mobile Computing, Networking and Communications"
+84626629,Adaptive Task Selection using Threshold-based Techniques in Dynamic Sensor Networks,2008,,
+90174365,Redundant coverage for noise reduction in dynamic sensor networks,2008,WSEAS TRANSACTIONS on SYSTEMS archive,
+90604954,Intrusion Objects with Shapes under Randomized Scheduling Algorithm in Sensor Networks,2008,,International Conference on Distributed Computing Systems Workshops
+95405902,Strong barrier coverage of wireless sensor networks,2008,,Mobile Ad Hoc Networking and Computing
+97687859,Shape and size estimation using stochastically deployed networked sensors,2008,,"Systems, Man and Cybernetics"
+111464491,Localization-oriented coverage based on Bayesian estimation in camera sensor networks,2008,,"World of Wireless, Mobile and Multimedia Networks"
+114742430,The marginal utility of cooperation in sensor networks,2008,,Information Theory and Applications
+123173827,An Integrated Deployment Tool for ZigBee-Based Wireless Sensor Networks,2008,,Embedded and Ubiquitous Computing
+126218781,Location-unaware coverage in wireless sensor networks,2008,,Ad Hoc Networks
+130127468,Simple and Efficient k-Coverage Verification without Location Information,2008,,International Conference on Computer Communications
+136022510,Probabilistic model of triangulation,2008,,Solid and Physical Modeling
+139234392,Survivability modeling of wireless sensor networks,2008,,International Symposium on Wireless Communication Systems
+143215232,Mobile sensors networks under communication constraints,2008,WSEAS TRANSACTIONS on SYSTEMS archive,
+150693069,Mobile sensors networks: a distributed solution to the area coverage problem,2008,,Mediterranean Conference on Control and Automation
+152148290,Coverage Estimation in the Presence of Occlusions for Visual Sensor Networks,2008,,Distributed Computing in Sensor Systems
+157023160,Distributed coverage verification in sensor networks without location information,2008,,Conference on Decision and Control
+158932164,Lifetime maximization for connected target coverage in wireless sensor networks,2008,IEEE ACM Transactions on Networking,
+159230821,Integrated Coverage and Connectivity in Wireless Sensor Networks: A Two-Dimensional Percolation Problem,2008,IEEE Transactions on Computers,
+162423638,Cooperative structure for wireless sensor networks,2008,,International Conference on Communications
+162922829,A survey of architecture and node deployment in Wireless Sensor Network,2008,,International Conference on Applications of Digital Information and Web Technologies
+165330760,DyKCo: Dynamic k-coverage in wireless sensor networks,2008,,"Systems, Man and Cybernetics"
+166894899,Percolation-theory based density derivations of wireless sensor network nodes for preventing exposure paths,2008,,Conference on Information Sciences and Systems
+169009403,The System Development Lifecycle ? Learning from a Sensornet Review,2008,,
+176923031,Design and Implementation of a WSN-Based Intelligent Light Control System,2008,,International Conference on Distributed Computing Systems Workshops
+179253464,A self‐healing mobile wireless sensor network using predictive reasoning,2008,Sensor Review,
+179445337,An Efficient Algorithm for the Least Areas Path Problem,2008,,"International Colloquium on Computing, Communication, Control, and Management"
+181003467,Maximizing Coverage in a Connected and K-Covered Wireless Sensor Network Using Genetic Algorithms,2008,,
+185468639,A decentralized control for mobile sensor network effective coverage,2008,,World Congress on Intelligent Control and Automation
+189626257,Performance Study for Coverage Control Protocols under Ranging and Localization Errors in Large-Scale Wireless Sensor Networks,2008,,International Conference on Wireless Communications and Mobile Computing
+190884642,Adaptive task selection using threshold-based techniques in dynamic sensor networks,2008,,
+193246562,Relocating Sensor Nodes to Maximize Cumulative Connected Coverage in Wireless Sensor Networks,2008,Sensors,
+198222581,An extensible model for the deployment of non-isotropic sensors,2008,,Sensors Applications Symposium
+200977098,Three Dimensional Intrusion Objects Detection under Randomized Scheduling Algorithm in Sensor Networks,2008,,Mobile Ad-hoc and Sensor Networks
+202537759,An integrated intelligent decision support system based on sensor and computer networks,2008,,
+203245313,Path Coverage Property of Randomly Deployed Sensor Networks with Finite Communication Ranges,2008,,International Conference on Communications
+206712847,Barrier Coverage of Wireless Sensor Networks Based on Clifford Algebra,2008,,International Symposium on Computer Science and Computational Technology
+210079366,Role assignment in wireless sensor networks: energy-efficient strategies and algorithms,2008,,
+218785354,Application-aware resource management in wireless and visual sensor networks,2008,,
+224230665,A Method for Minimum Dominating Set in Wireless Sensor Networks,2008,,International Seminar on Future BioMedical Information Engineering
+226035412,Walkers on the Cycle and the Grid,2008,SIAM Journal on Discrete Mathematics,
+227429840,An Algorithm of Coverage Control for Wireless Sensor Networks in 3D Underwater Surveillance Systems,2008,,International Conference on Intelligent Computing
+241068208,Distributed Coverage Control in Sensor Network Environments with Polygonal Obstacles,2008,IFAC Proceedings Volumes,
+241715462,Region Coverage for Planar Sensor Network via Sensing Sectors,2008,IFAC Proceedings Volumes,
+241939337,Measurement noise reduction in dynamic sensor networks,2008,,International Conference on Systems
+244513402,Weaving a Proper Net to Catch Large Objects,2008,,Global Communications Conference
+248115551,A unified approach for heterogeneity and node fault robustness in dynamic sensor networks,2008,WSEAS TRANSACTIONS on COMMUNICATIONS archive,
+256704894,Sensor Deployment Strategy for Collaborative Target Detection with Guaranteed Accuracy,2008,,Mobile Ad-hoc and Sensor Networks
+256924561,A Middleware Services Simulation Platform for Wireless Sensor Networks,2008,,International Conference on Distributed Computing Systems Workshops
+259873126,Iso-Contour Queries and Gradient Descent with Guaranteed Delivery in Sensor Networks,2008,,International Conference on Computer Communications
+265761819,Analysis for Localization-Oriented Coverage in Camera Sensor Networks,2008,,Wireless Communications and Networking Conference
+268858286,An Analytical Approach to the Optimal Deployment of Wireless Sensor Networks,2008,,
+269646144,Barrier Coverage with Mobile Sensors,2008,,"International Symposium on Parallel Architectures, Algorithms, and Networks"
+273478013,Tree-based Deployment Algorithm of Mobile Sensors in Ubiquitous Sensor Network,2008,IFAC Proceedings Volumes,
+280114357,Asynchronous distributed optimization with minimal communication,2008,,Conference on Decision and Control
+282655520,Localization and coverage for high density sensor networks,2008,Computer Communications,
+284125314,Hilbert mobile beacon for localisation and coverage in sensor networks,2008,International Journal of Systems Science,
+289907541,Quality of monitoring of stochastic events by periodic & proportional-share scheduling of sensor coverage,2008,,Conference on Emerging Network Experiment and Technology
+291372534,Energy-efficient connected-coverage in wireless sensor networks,2008,International Journal of Sensor Networks,
+291965598,A new battery and redundancy aware node scheduling protocol for Wireless Sensor Networks,2008,,COMmunication System softWAre and MiddlewaRE
+295547031,Re1:iable Sensor Networks for Planet Exploration,2008,,International Conference on Networking
+298901901,Deployment of Mobile Sensor Networks with Discontinuous Dynamics,2008,IFAC Proceedings Volumes,
+303329401,"A QoS network architecture for multi-hop, multi-sink target tracking WSNs",2008,,International Conference on Conceptual Structures
+306700488,Coverage analysis for sensor networks based on Clifford algebra,2008,Science in China Series F: Information Sciences,
+315335375,Quality of Monitoring of Stochastic Events by Proportional-Share Mobile Sensor Coverage,2008,,
+315368216,Anchor-free localization in mixed wireless sensor network systems,2008,,
+319593211,Probabilistic Coverage Map for Mobile Sensor Networks,2008,,Global Communications Conference
+329701652,Distributed duty-cycle management for dependable wireless sensor networks,2008,,
+333029833,Review: Coverage and connectivity issues in wireless sensor networks: A survey,2008,Pervasive and Mobile Computing,
+338122161,Sensor Selection for Minimizing Worst-Case Prediction Error,2008,,Information Processing in Sensor Networks
+339108797,A mobile network for mobile sensors,2008,,International Conference on Information Fusion
+339124243,The Study of Coverage Problem in Wireless Sensor Network,2008,,
+347801721,Context-aware QoI computation in multi-sensor systems,2008,,Mobile Adhoc and Sensor Systems
+357694922,Distributed Coordinate-Free Hole Recovery,2008,,International Conference on Communications
+358424036,Efficient Algorithms for p-Self-Protection Problem in Static Wireless Sensor Networks,2008,IEEE Transactions on Parallel and Distributed Systems,
+363626757,A probabilistic model of k -coverage in minimum cost wireless sensor networks,2008,,Conference on Emerging Network Experiment and Technology
+373286494,Optimizing autonomous mobile sensors network using PSO algorithms,2008,,International Conference on Computer Engineering and Systems
+374074798,A new sufficient condition for 1-coverage to imply connectivity,2008,,International Conference on Digital Information Management
+385647430,Coverage in Hybrid Mobile Sensor Networks,2008,IEEE Transactions on Mobile Computing,
+395426559,Efficient Cover Set Selection in Wireless Sensor Networks,2008,Acta Automatica Sinica,
+396205747,Interference-aware topology control in wireless mesh network,2008,,"International Conference on Mobile Technology, Applications, and Systems"
+398553133,Routing in Three Dimensional Wireless Sensor Networks,2008,,Global Communications Conference
+403760997,Barrier coverage for underwater sensor networks,2008,,Military Communications Conference
+404599569,Coverage for target localization in wireless sensor networks,2008,IEEE Transactions on Wireless Communications,
+409017623,Model Based Optimization of Mobile Geosensor Networks,2008,,Agile Conference
+416719990,A Wireless Array Based Cooperative Sensing Model in Sensor Networks,2008,,Global Communications Conference
+417715235,An Efficient Approach for Point Coverage Problem of Sensor Network,2008,,International Symposium on Electronic Commerce and Security
+423018097,Barrier coverage with airdropped wireless sensors,2008,,Military Communications Conference
+426377895,Coopertive surveillance in video sensor networks,2008,,International Conference on Distributed Smart Cameras
+426984893,A heuristic approach for K-coverage extension with energy-efficient sleep scheduling in sensor networks,2008,,"Bioinspired Models of Network, Information, and Computing Systems"
+427091009,Self-Deployment by Density Control in Sensor Networks,2008,IEEE Transactions on Vehicular Technology,
+427778445,On Radio Broadcasting in Random Geometric Graphs,2008,,International Conference on Distributed Computing
+429116110,Double Barrier Coverage in Dense Sensor Networks,2008,Journal of Computer Science and Technology,
+440780829,An Enhanced Sensor Scheduling Protocol for Wireless Sensor Networks,2008,,International Conference on Distributed Computing Systems Workshops
+459100725,GML Spatial Data Query Based on Filter Encoding,2008,Computer Engineering,
+459448889,Issue and solution on coverage and performance for wireless sensor networks,2008,,Asian Internet Engineering Conference
+461424280,Designing k-coverage schedules in wireless sensor networks,2008,Journal of Combinatorial Optimization,
+461623057,Location Dependent Heuristics for Sensor Coverage Planning,2008,,
+463659396,Flock Inspired Area Coverage Using Wireless Boid-Like Sensor Agents,2008,,International Conference on Computer Modeling and Simulation
+468035525,Strategies and techniques for node placement in wireless sensor networks,2008,,Ad Hoc Networks
+469671795,Node fault robustness for heterogeneous dynamic sensor networks,2008,,"International Conference on Instrumentation, Measurement, Circuits and Systems"
+471324072,Potential Target Traversing Detection Algorithm Based on Voronoi Diagram,2008,,International Conference on Internet Computing for Science and Engineering
+480592919,Sweep line algorithm for k-coverage in wireless sensor networks,2008,,International conference on Wireless Communication and Sensor Networks
+480860438,Connected K-target coverage problem in wireless sensor networks with different observation scenarios,2008,Computer Networks,
+481522254,Device Deployment Strategies for Large-scale Wireless Sensor Networks,2008,,
+485103304,Robust Node Localization Based on Distributed Weighted-multidimensional Scaling in Wireless Sensor Networks,2008,Acta Automatica Sinica,
+485218673,Connecting trapped civilians to a wireless ad hoc network of emergency response robots,2008,,International Conference on Conceptual Structures
+485541235,Sensing Coverage for Randomly Distributed Wireless Sensor Networks in Shadowed Environments,2008,IEEE Transactions on Vehicular Technology,
+489636411,Coverage planning of Wireless Sensors for mobile target detection,2008,,Mobile Adhoc and Sensor Systems
+489682409,The Base Zone Protection Problem,2008,,
+492029052,A Distributed Area-Based Guiding Navigation Protocol for Wireless Sensor Networks,2008,,International Conference on Parallel and Distributed Systems
+493438638,Mesh-Based Coverage for Wireless Sensor Networks,2008,,Global Communications Conference
+183658530,Adaptive attenuation factor model for localization in wireless sensor networks,2008,International Journal of Pervasive Computing and Communications,
+3846957,Wireless sensor networking for intelligent transportation systems.,2009,,
+5142901,Optimal 3-Coverage with Minimum Separation Requirements for Ubiquitous Computing Environments,2009,Mobile Networks and Applications,
+17124940,Energy efficient coverage control in wireless sensor networks based on multi-objective genetic algorithm,2009,Computers & Mathematics With Applications,
+19568763,A probabilistic model for the deployment of sensors,2009,,Sensors Applications Symposium
+19589899,A Localized Algorithm for Target Monitoring in Wireless Sensor Networks,2009,,"Ad-Hoc, Mobile and Wireless Networks"
+25752757,A method of sub-optimal sensor placement: sensing coverage and data precision,2009,"International Journal of Systems, Control and Communications",
+27125817,Potential Game Model to Detect Holes in Sensor Networks,2009,,"New Technologies, Mobility and Security"
+30178964,Decentralized detection and patching of coverage holes in wireless sensor networks,2009,Proceedings of SPIE,
+30492658,Critical Density for Coverage and Connectivity in Three-Dimensional Wireless Sensor Networks Using Continuum Percolation,2009,IEEE Transactions on Parallel and Distributed Systems,
+52601795,Path coverage by a sensor field: The nonhomogeneous case,2009,ACM Transactions on Sensor Networks,
+53652997,Two and three-dimensional intrusion object detection under randomized scheduling algorithms in sensor networks,2009,Computer Networks,
+54105415,Obstacle Discovery in Distributed Active Sensor Networks,2009,,International Conference on Computer Communications
+55242745,Quality-of-Service in Wireless Sensor Networks: state-of-the-art and future directions,2009,,
+55291807,Analytic evaluation of target detection in heterogeneous wireless sensor networks,2009,ACM Transactions on Sensor Networks,
+58358900,BSCP: Buckup Scheduling Mecanism for Coverage Perserving in WSNs,2009,,International Conference on Sensor Technologies and Applications
+59591776,Towards a classification of energy aware MAC protocols for wireless sensor networks,2009,,Communications and Mobile Computing
+61415816,A Localized Coverage Preserving Protocol for Wireless Sensor Networks,2009,Sensors,
+61503021,Target Detection in Three-Dimension Sensor Networks Based on Clifford Algebra,2009,Wireless Sensor Network,
+62092252,Energy-Efficient Dynamic Spatial Resolution Control for Wireless Sensor Clusters,2009,International Journal of Distributed Sensor Networks,
+64709776,The Analysis of Breach Path Problem in Wireless Sensor Networks with Blind Area,2009,,International Symposium on Electronic Commerce and Security
+67267988,Robust Node Positioning in Wireless Sensor Networks,2009,IEICE Transactions on Communications,
+67384533,A Location-Independent Node Scheduling for Heterogeneous Wireless Sensor Networks,2009,,International Conference on Sensor Technologies and Applications
+68632574,A sensor deployment algorithm for mobile wireless sensor networks,2009,,Chinese Control and Decision Conference
+68826139,Covering of problem in wireless sensor networks,2009,,International Conference on Telecommunications
+68940128,Secure Multidimensional Queries in Tiered Sensor Networks,2009,arXiv: Networking and Internet Architecture,
+75142833,Self organization of sensor networks for energy-efficient border coverage,2009,Journal of Communications and Networks,
+78173584,Generic coverage verification without location information using dimension reduction,2009,,"Modeling and Optimization in Mobile, Ad-Hoc and Wireless Networks"
+84016805,On optimal information capture by energy-constrained mobile sensor,2009,,International Workshop on Quality of Service
+85693403,Energy-Efficient DynamicSpatial ResolutionControl for Wireless Sensor Clusters,2009,,
+87001115,On minimum cost coverage in wireless sensor networks,2009,,Conference on Information Sciences and Systems
+89497189,Complex Networks: New Models and Distributed Algorithms,2009,,
+91321322,Caminos de desviación mínima local,2009,,
+96819335,Lifetime and coverage guarantees through distributed coordinate-free sensor activation,2009,,ACM/IEEE International Conference on Mobile Computing and Networking
+103539369,Research Roadmap on Cooperating Objects,2009,,
+104365238,Energy-Efficient Sensing in Wireless Sensor Networks,2009,,
+112671499,Data fusion improves the coverage of wireless sensor networks,2009,,ACM/IEEE International Conference on Mobile Computing and Networking
+114697406,Statistical problems in wireless sensor networks,2009,,
+116765953,Controlled deployments for wireless sensor networks,2009,Iet Communications,
+117620508,Wireless Sensor Networks Testing and Validation,2009,,
+126244324,Multi-objective optimization for coverage control in wireless sensor network with adjustable sensing radius,2009,Computers & Mathematics With Applications,
+131641416,On The Optimal Placement of Multiple Visual Sensor Based Binary Particle Swarm Optimization,2009,,International Conference on Systems
+140142375,Controlling global network connectivity of robot swarms with local interactions,2009,,
+141671089,VISA: Virtual Scanning Algorithm for Dynamic Protection of Road Networks,2009,,International Conference on Computer Communications
+143292770,DVALon: una herramienta para diagramas de Voronoi y grafos de proximidad de alcance limitado,2009,,
+143588121,Cluster-based perimeter-coverage technique for heterogeneous wireless sensor networks,2009,,International Conference on Ultra Modern Telecommunications
+148692340,Load balancing in energy efficient connected coverage wireless sensor network,2009,,International Conference on Electrical Engineering and Informatics
+149280000,An intruder avoidance vulnerable path adjustment protocol for wireless mobile sensor networks,2009,,Joint Conferences on Pervasive Computing
+154642117,Challenging issues in visual sensor networks,2009,IEEE Wireless Communications,
+158596396,Three Approximation Algorithms for Energy-Efficient Query Dissemination in Sensor Database System,2009,,Database and Expert Systems Applications
+159682923,Collaborative area monitoring using wireless sensor networks with stationary and mobile nodes,2009,EURASIP Journal on Advances in Signal Processing,
+166737003,Distributed k-Coverage Verification Algorithm Based on Localized Distance Information in WSNs,2009,,"Networking, Architecture and Storages"
+169303131,Shadowing Effects and Edge Effect on Sensing Coverage for Wireless Sensor Networks,2009,,"International Conference on Wireless Communications, Networking and Mobile Computing"
+170468372,An Enhanced Coverage Control Protocol for Wireless Sensor Networks,2009,,Hawaii International Conference on System Sciences
+171844263,Coverage-Aware Sleep Scheduling for Cluster-Based Sensor Networks,2009,,Wireless Communications and Networking Conference
+172848368,Energy-Efficient Information-Driven Coverage for Physical Movement Monitoring in Body Sensor Networks,2009,IEEE Journal on Selected Areas in Communications,
+189598011,Efficient Viewpoint Selection for Urban Texture Documentation,2009,,GeoSensor Networks
+191787129,OPTIMIZATION APPROACHES TO SENSOR PLACEMENT PROBLEMS,2009,,
+195141691,A Robust Node Selection Strategy for Lifetime Extension in Wireless Sensor Networks,2009,,Mobile Ad-hoc and Sensor Networks
+198061678,Dynamic Hierarchical Sleep Scheduling for Wireless Ad-Hoc Sensor Networks,2009,Sensors,
+198971694,Fuzzy-Based Movement-Assisted Sensor Deployment Method in Wireless Sensor Networks,2009,,"Computational Intelligence, Communication Systems and Networks"
+200357899,EQOWSN: Evolutionary-based query optimization over self-organized wireless sensor networks,2009,Expert Systems With Applications,
+201435736,Hidden anchor: a lightweight approach for physical layer location privacy,2009,,"New Technologies, Mobility and Security"
+205432582,Adaptive Cluster-Based Scheduling Management for Wireless Ad-Hoc Sensor Networks,2009,,International Conference on Sensor Technologies and Applications
+206948844,Comparison of Petri Net and Finite State Machine Discrete Event Control of Distributed Surveillance Networks,2009,International Journal of Distributed Sensor Networks,
+207201028,Minimal Exposure Path Algorithms for Directional Sensor Networks,2009,,Global Communications Conference
+207662978,The approach seeking weak coverage zone in wireless sensor networks,2009,,Asia Pacific Conference on Postgraduate Research in Microelectronics and Electronics
+207794197,Adaptive Packet Prioritisation for Wireless Sensor Networks,2009,,Next Generation Internet
+212104576,Cluster head election techniques for coverage preservation in wireless sensor networks,2009,,Ad Hoc Networks
+214394632,An Optimal Sensor Network for Intrusion Detection,2009,,International Conference on Communications
+228184697,Underwater Sensor Barriers with Auction Algorithms,2009,,International Conference on Computer Communications and Networks
+228532063,Key establishment schemes against storage-bounded adversaries in wireless sensor networks,2009,IEEE Transactions on Wireless Communications,
+229815186,Partial Coverage in Homological Sensor Networks,2009,,"Wireless and Mobile Computing, Networking and Communications"
+230751936,Area coverage based domain division in wireless sensor network,2009,,Chinese Control and Decision Conference
+230868410,Approximating Barrier Resilience in Wireless Sensor Networks,2009,,Algorithmic Aspects of Wireless Sensor Networks
+246788336,"Network security: design, analysis and tradeoff evaluation",2009,,
+249144461,Research on Optimal Coverage Problem of Wireless Sensor Networks,2009,,Communications and Mobile Computing
+250514777,Energy-aware cluster based node scheduling algorithm in wireless sensor network for preserving maximum network life time,2009,,
+258203044,Variable radii connected sensor cover in sensor networks,2009,ACM Transactions on Sensor Networks,
+260819294,An evolutionary approach to underwater sensor deployment,2009,,Genetic and Evolutionary Computation Conference
+261342555,Sensor Disposition Problem in Wireless Ad-Hoc Sensor Networks,2009,,Information Security and Assurance
+262634552,Stealthy attacks and defense strategies in competing sensor networks,2009,,
+262873067,"Cross-Layer, Energy-Efficient Design for Supporting Continuous Queries in Wireless Sensor Networks: A Quorum-Based Approach",2009,Wireless Personal Communications,
+263036383,Fault tolerance measures for large-scale wireless sensor networks,2009,ACM Transactions on Autonomous and Adaptive Systems,
+264997506,Distributed coordinate-free algorithm for full sensing coverage,2009,International Journal of Sensor Networks,
+266494777,Optimal 2-Coverage of a Polygonal Region in a Sensor Network,2009,Algorithms,
+267707582,Increasing Network Lifetime by Optimum Placement of Sensors in Wireless Sensor Networks,2009,,International Conference on Computer Modelling and Simulation
+269597418,A New Approach for Sensor Scheduling in Wireless Sensor Networks Using Simulated Annealing,2009,,International Conference on Computer Sciences and Convergence Information Technology
+271728086,Optimal camera placement for total coverage,2009,,International Conference on Robotics and Automation
+273810819,Optimal Wireless Sensor Network Layout with Metaheuristics: Solving a Large Scale Instance,2009,,International Conference on Large-Scale Scientific Computing
+280706374,"YOUSSEF CHARFI, BELL CANADA",2009,,
+287162296,Research on Efficient Coverage Problem of Node in Wireless Sensor Networks,2009,,International Symposium on Electronic Commerce and Security
+289752664,On Improving the Representation of a Region Achieved by a Sensor Network,2009,arXiv: Networking and Internet Architecture,
+292167778,Data aggregation and routing in Wireless Sensor Networks: Optimal and heuristic algorithms,2009,Computer Networks,
+292621495,Constructing underwater sensor based barriers using distributed auctions,2009,,Military Communications Conference
+293674371,Measuring and guaranteeing quality of barrier coverage for general belts with wireless sensors,2009,ACM Transactions on Sensor Networks,
+300225327,Underwater sensor deployment using an evolutionary algorithm,2009,,International Conference on Wireless Communications and Mobile Computing
+303493865,Transport layer rate control protocols for wireless sensor networks: from theory to practice,2009,,
+304748928,Taming the exponential state space of the maximum lifetime sensor cover problem,2009,,"IEEE International Conference on High Performance Computing, Data, and Analytics"
+305225501,Voronoi Based Area Coverage Optimization for Directional Sensor Networks,2009,,International Symposium on Electronic Commerce and Security
+306785261,An Investigation on a Real Time System over WiFi in Educational Environment,2009,,Network and Parallel Computing
+313701860,Improving Coverage Area Quality Using Physical Topology Information in IEEE 802.16 Mesh Networks,2009,,Ubiquitous Computing Systems
+320009657,The Orphan Problem in ZigBee Wireless Networks,2009,IEEE Transactions on Mobile Computing,
+322807917,Sleep Scheduling Based on Probabilistic Detection Model for Wireless Sensor Networks,2009,,International Conference Hybrid Intelligent Systems
+324466764,Path coverage properties of randomly deployed sensors with finite data-transmission ranges,2009,Computer Networks,
+335020766,A New Distributed Algorithm for Even Coverage and Improved Lifetime in a Sensor Network,2009,,International Conference on Computer Communications
+337328776,A Density Mobility Scheme for Improving Coverage in Wireless Sensor Networks,2009,,Web Information Systems Modeling
+337345092,Performance analysis of probabilistic multi-path geographic routing in wireless sensor networks,2009,International Journal of Communication Networks and Distributed Systems,
+338497882,Research on efficient coverage problem of node in wireless sensor networks,2009,,International Conference on Intelligent Mechatronics and Automation
+340981910,Asynchronous distributed algorithms for optimal coverage control with sensor networks,2009,,Mediterranean Conference on Control and Automation
+344439432,ment and Reconfiguraation Algorithms Algorithms Algorithms,2009,,
+345230543,Delay Analysis of Large-Scale Wireless Sensor Networks,2009,,"Mobile Computing, Applications, and Services"
+363210070,Stochastic k-Coverage in Wireless Sensor Networks,2009,,"Wireless Algorithms, Systems, and Applications"
+366140417,Efficient Sensor Placement for Surveillance Problems,2009,,Distributed Computing in Sensor Systems
+373606069,A dynamic multiobjective hybrid approach for designing Wireless Sensor Networks,2009,,Congress on Evolutionary Computation
+378515593,Collaborative Pairwise Detection Schemes for Improving Coverage in WSNs,2009,,Global Communications Conference
+391389402,Irregular Sensing Range Detection Model for Coverage Based Protocols in Wireless Sensor Networks,2009,,Global Communications Conference
+391390774,Exploring Coverage within Wireless Sensor Networks through Evolutionary Computations,2009,,
+391579410,Energy-Efficient Coverage and Connectivity Maintenance for Wireless Sensor Networks,2009,Journal of Networks,
+392765085,Coverage in Wireless Sensor Networks,2009,,
+392999630,Sensor Deployment as an Optimal Control Problem,2009,,International Conference on Computer Communications and Networks
+394360407,Prostate Brachytherapy Seed Reconstruction With Gaussian Blurring and Optimal Coverage Cost,2009,IEEE Transactions on Medical Imaging,
+400778369,Energy-aware cluster based node scheduling algorithm in wireless sensor network for preserving maximum network life time,2009,,
+408003834,Dynamic clustering of distributed source coding in wireless sensor networks,2009,The Journal of China Universities of Posts and Telecommunications,
+410177193,A boundary surveillance strategy based on critical line in wireless sensor networks,2009,,International Conference on Mechatronics and Automation
+421280969,Energy-Efficient k-Coverage for Wireless Sensor Networks with Variable Sensing Radii,2009,,Global Communications Conference
+423409813,Covering a line segment with variable radius discs,2009,Computers & Operations Research,
+431416421,A Stochastic and Dynamic Vehicle Routing Problem with Time Windows and Customer Impatience,2009,Mobile Networks and Applications,
+433129262,Hidden Anchor: Providing Physical Layer Location Privacy in Hybrid Wireless Sensor Networks,2009,,"New Technologies, Mobility and Security"
+435569227,Barrier Coverage of Line-Based Deployed Wireless Sensor Networks,2009,,International Conference on Computer Communications
+443295771,The coverage problem in wireless sensor networks by holonic multi-agent approach,2009,,
+444728387,Modeling and extending lifetime of wireless sensor networks using genetic algorithm,2009,,Genetic and Evolutionary Computation Conference
+446277941,Distributed algorithms for maximizing the lifetime of wireless sensor networks,2009,,
+448894371,Traffic-Aware Relay Node Deployment for Data Collection in Wireless Sensor Networks,2009,,"Sensor, Mesh and Ad Hoc Communications and Networks"
+452721921,Surface Coverage in Wireless Sensor Networks,2009,,International Conference on Computer Communications
+452956481,An energy-efficient node-scheduling scheme for wireless sensor networks based on minimum dominating sets,2009,International Journal of Network Management,
+453897521,Improving mobile target detection on randomly deployed sensor networks,2009,International Journal of Sensor Networks,
+457323976,Integration of sensing and computing in an intelligent decision support system for homeland security defense,2009,Pervasive and Mobile Computing,
+457586400,Solving the Wake-Up Scattering Problem Optimally,2009,,International Conference on Embedded Wireless Systems and Networks
+471147684,PoPCoRN: A Power-Aware Periodic Surveillance Scheme in Convex Region using Wireless Mobile Sensor Networks,2009,"World Academy of Science, Engineering and Technology, International Journal of Electrical, Computer, Energetic, Electronic and Communication Engineering",
+471392598,An Evolutionary Approach to Underwater Sensor Deployment,2009,International Journal of Computational Intelligence Systems,
+481838872,Establishing presence within the service-oriented environment,2009,,IEEE Aerospace Conference
+490244207,Wireless sensor deployment for 3D coverage with constraints,2009,,International Conference on Networked Sensing Systems
+492409190,QoS Provision for Wireless Sensor Networks,2009,,
+494167483,Dual-band automatic gain control algorithm for chirp spread spectrum over indoor fading channels,2009,,IEEE International Conference on Network Infrastructure and Digital Content
+494724035,The robot deployment scheme for wireless sensor networks in the concave region,2009,,"International Conference on Networking, Sensing and Control"
+63058248,Design and implementation of an agent-based simulation for emergency response and crisis management,2009,,Spring Simulation Multiconference
+9855611,Location Independent Coverage Control Algorithm for Wireless Sensor Networks,2010,,"International Conference on Wireless Communications, Networking and Mobile Computing"
+10780984,Trusted sensors and remote sensing,2010,,IEEE Sensors
+20160225,A Novel Approach for Efficient k-Coverage in Wireless Sensor Networks by Using Genetic Algorithm,2010,,International Conference on Computational Intelligence and Communication Networks
+20533313,Coverage Algorithm Based on Sensor Residual Energy for Sensor Network,2010,,Asia-Pacific Services Computing Conference
+22141550,Locating Sensors for Detecting Source-to-Target Patterns of Special Nuclear Material Smuggling: A Spatial Information Theoretic Approach,2010,Sensors,
+37488117,Localized algorithm for connected set cover partitioning in wireless sensor networks,2010,,Grid Computing
+38646882,Unified role assignment framework for wireless sensor networks,2010,,
+40694973,Receiver Sensitivity in Opportunistic Cooperative Internet of Things (IoT),2010,,Ad Hoc Networks
+40941642,Location inaccuracies in WSAN placement algorithms,2010,,
+41728111,ENAMS : energy optimization algorithm for mobile wireless sensor networks using evolutionary computation and swarm intelligence,2010,,
+42165181,Collaborative Sampling in Wireless Sensor Networks,2010,,Global Communications Conference
+49511671,Use of Data Warehouse to Manage Data from Wireless Sensors Networks That Monitor Pollinators,2010,,Mobile Data Management
+51106467,Conditional Sensor Deployment Using Evolutionary Algorithms,2010,Journal of Convergence Information Technology,
+51611633,Information-driven data gathering in wireless sensor networks,2010,,
+58307096,Coverage and connected coverage problems for sensors embedded in a temperature-sensitive environment,2010,International Journal of Sensor Networks,
+74775439,An analytical framework for identifying redundant sensor nodes from a dense sensor network,2010,,Computer and Information Technology
+77039966,Wireless Sensor Networks for Water Quality Monitoring: A Case of Zambia,2010,,International Conference on Bioinformatics and Biomedical Engineering
+79209067,Efficient Coverage Maintenance Based on Probabilistic Distributed Detection,2010,IEEE Transactions on Mobile Computing,
+80611895,"Energy-Aware, Self-Deploying Approaches for Wireless Sensor Networks",2010,,Advanced Information Networking and Applications
+83068014,Simulation of worst and best-case coverage for wireless sensor network,2010,,International Conference on Information Networking
+83584022,Semantic multimodal compression for wearable sensing systems,2010,,IEEE Sensors
+89009480,Research on Wireless Sensor Networks Topology Models,2010,Journal of Software Engineering and Applications,
+92069799,An underwater sensor allocation scheme for a range dependent environment,2010,Computer Networks,
+92655099,Transmission range and density gradient management to avoid bottleneck around base station in wireless sensor network,2010,International Journal of Communication Networks and Distributed Systems,
+94773889,A cell-based sensor deployment strategy with improved coverage for mobility-assisted hybrid wireless sensor networks,2010,,Ubiquitous Computing
+107926362,Monitoring of Wireless Sensor Networks,2010,,
+108470829,Coverage control in an isotropic Gaussian mixture environment,2010,,Advances in Computing and Communications
+109449453,Receiver Sensitivity in Opportunistic Cooperative Internet of Things (IoT) - (Invited Paper).,2010,,
+110753773,Research on Wireless Sensor Middleware for Pervasive Computing,2010,,International Conference on Pervasive Computing
+111405987,Using location based social networks for quality-aware participatory data transfer,2010,,Workshop on Location-based Social Networks
+111595192,A Survey on Topology Control in Wireless Sensor Networks,2010,,International Conference on Future Networks
+113776779,Coverage and Detection of a Randomized Scheduling Algorithm in Wireless Sensor Networks,2010,IEEE Transactions on Computers,
+116348684,Sensors Deployment Enhancement by a Mobile Robot in Wireless Sensor Networks,2010,,International Conference on Networks
+116631306,Locating Sensors for Detecting Source-to-Target Patterns of Special Nuclear Material Smuggling: A Spatial Information,2010,,
+117480372,Connectivity Issue in Wireless Sensor Networks by Using Depth-First Search and Genetic Algorithm,2010,,International Conference on Computational Intelligence and Communication Networks
+123084593,Weaving a proper net to catch large objects in wireless sensor networks,2010,IEEE Transactions on Wireless Communications,
+124633408,"Lightweight mobile and wireless systems: technologies, architectures, and services",2010,Journal of Computer Networks and Communications,
+126018179,Genetic Algorithms for Maximizing the Coverage of Sensor Deployment,2010,,
+130073450,Energy-Efficient Fault Tolerant Coverage for Wireless Sensor Networks,2010,,
+130901523,Barrier coverage with sensors of limited mobility,2010,,Mobile Ad Hoc Networking and Computing
+131226105,Coverage in Wireless Sensor Networks: A Survey,2010,Network Protocols and Algorithms,
+131672570,Exploring In-Situ Sensing Irregularity in Wireless Sensor Networks,2010,IEEE Transactions on Parallel and Distributed Systems,
+132329981,Handling Mobility in Wireless Sensor and Actor Networks,2010,IEEE Transactions on Mobile Computing,
+133107047,A Study of Mobility Models in Mobile Surveillance Systems,2010,,
+140746717,Using location based social networks for quality-aware participatory data transfer,2010,International Journal of Geographical Information Science,
+143406365,Approximation algorithms for computing minimum exposure paths in a sensor field,2010,ACM Transactions on Sensor Networks,
+145883819,Quality of Service (QoS) Provisions in Wireless Sensor Networks and Related Challenges,2010,Wireless Sensor Network,
+146228886,Coverage-hole trap model in target tracking using distributed relay-robot network,2010,,ACM Symposium on Applied Computing
+153267056,Coverage-Guaranteed Sensor Node Deployment Strategies for Wireless Sensor Networks,2010,Sensors,
+154107180,Energy-Efficient Models for Coverage Problem Using Sensors with Adjustable Sensing Ranges,2010,,Wireless Communications and Networking Conference
+155941609,Voronoi-Based Approaches for Geosensor Networks Coverage Determination and Optimisation: A Survey,2010,,International Symposium on Voronoi Diagrams in Science and Engineering
+159599749,Energy Efficient Coverage Conserving Protocol for Wireless Sensor Networks,2010,,
+160641394,A review of redundancy elimination protocols for wireless sensor networks,2010,,International Conference on Computational Science and Its Applications
+163061338,Performance Analysis of RS codes for Low Power Wireless Sensor Networks,2010,,
+168108334,Research on middleware technology for pervasive computing,2010,,International Conference on Computer Application and System Modeling
+170074776,Link-Centric Probabilistic Coverage Model for Transceiver-Free Object Detection in Wireless Networks,2010,,International Conference on Distributed Computing Systems
+171870948,On multi-robot area coverage,2010,,Canadian Conference on Artificial Intelligence
+173878062,CDS-based coverage control algorithm for buoys based sensor networks,2010,,
+178450496,A boundary approximation algorithm for distributed sensor networks,2010,International Journal of Sensor Networks,
+184545370,"Cooperative control and optimization in an uncertain, asynchronous, wireless, networked world",2010,,Mediterranean Conference on Control and Automation
+188589199,HyberLoc: Providing Physical Layer Location Privacy in Hybrid Sensor Networks,2010,,International Conference on Communications
+194461119,A Fast Multigrid Algorithm for Energy Minimization under Planar Density Constraints,2010,Multiscale Modeling & Simulation,
+194884781,The Deployment Algorithm Based on Cutting a Triangle for Wireless Sensor Networks,2010,,International Conference on Information Science and Applications
+200369133,Probabilistic based k-coverage configuration in large-scale sensor networks,2010,,International Conference on Information Science and Engineering
+205135396,Analysis of the Wireless Sensor Networks efficient coverage,2010,,International Conference on Apperceiving Computing and Intelligence Analysis Proceeding
+207746373,A distributed sensor deployment algorithm of mobile sensor network,2010,,World Congress on Intelligent Control and Automation
+209600288,"Dense, low-power environmental monitoring for smart energy profiling",2010,,
+211184045,Combinatorial Optimization and Applications,2010,Theoretical Computer Science,
+215414098,Localization scheduling in wireless ad hoc networks,2010,,Local Computer Networks
+218615984,Network Coverage Control,2010,,
+224316906,Distributed scheduling for K-level probabilistic coverage and connectivity in WSNs,2010,,International Conference on Intelligent Computing
+226283419,A Reliable Energy Efficient Algorithm for Target Coverage in Wireless Sensor Networks,2010,,International Conference on Distributed Computing Systems Workshops
+234789716,Joint optimization of energy allocation and routing problems in wireless sensor networks,2010,,Communications and Mobile Computing
+234807496,Evenness Evaluation in Ad-Hoc Sensor Networks,2010,,International Conference on Networking
+239876433,EasiDesign: An Improved Ant Colony Algorithm for Sensor Deployment in Real Sensor Network System,2010,,Global Communications Conference
+242504395,A k-coverage algorithm in three dimensional wireless sensor networks,2010,,"Broadband Communications, Networks and Systems"
+243880723,Relay node placement for Wireless Sensor Networks deployed in tunnels,2010,,"Wireless and Mobile Computing, Networking and Communications"
+247445754,An energy efficient node distribution model for wireless sensor network,2010,,International Conference on Computer Application and System Modeling
+256407174,On the best interceptor placement for an optimally deployed visual sensor network,2010,,"Systems, Man and Cybernetics"
+256539387,Maximizing Lifetime Sensing Coverage in Heterogeneous Sensors Deployments,2010,IEICE Transactions on Communications,
+258066934,Quality of monitoring of stochastic events by periodic and proportional-share scheduling of sensor coverage,2010,ACM Transactions on Sensor Networks,
+259554177,A Fast Multigrid Algorithm for Energy Minimization under Planar Density Constraints,2010,Multiscale Modeling & Simulation,
+261182224,A Multiagent Geosimulation Approach for Intelligent Sensor Web Management,2010,International Journal of Distributed Sensor Networks,
+261360894,Randomized 3-D Routing in Fully- and Partially-Covered Sensor Networks,2010,Mobile Networks and Applications,
+262974189,Virtual Scanning Algorithm for Road Network Surveillance,2010,IEEE Transactions on Parallel and Distributed Systems,
+272142996,Field experiments for developing transmission control based on weather estimation in an environmental wireless sensor network,2010,,Australasian Telecommunication Networks and Applications Conference
+273360474,Efficient Energy Management to Prolong Lifetime of Wireless Sensor Network,2010,,
+278938686,Sleep-Wakeup Algorithms for Virtual Barriers of Wireless Sensor Networks in 3D Space,2010,,Mobile Ad-hoc and Sensor Networks
+281210121,Distributed Coverage in Wireless Ad Hoc and Sensor Networks by Topological Graph Approaches,2010,,International Conference on Distributed Computing Systems
+283766837,A coverage restoration scheme for wireless sensor networks within Simulated Annealing,2010,,Wireless and Optical Communications Networks
+284623193,Distributed Energy Optimization for Target Tracking in Wireless Sensor Networks,2010,IEEE Transactions on Mobile Computing,
+289848168,Distributed Gateway Placement for Cost Minimization in Wireless Mesh Networks,2010,,International Conference on Distributed Computing Systems
+293508881,HyberLoc: Providing Physical Layer Location Privacy in Hybrid Sensor Networks,2010,arXiv: Information Theory,
+299988259,DEMS: a data mining based technique to handle missing data in mobile sensor network applications,2010,,Data Management for Sensor Networks
+300313858,Selecting Member Nodes in a Chain Oriented WSN,2010,,Wireless Communications and Networking Conference
+312430149,Areas covered with Probability Bound in wireless sensor networks,2010,,International Conference on Advanced Computer Theory and Engineering
+313205897,Movement Assisted Sensor Deployment in Directional Sensor Networks,2010,,Mobile Ad-hoc and Sensor Networks
+321048970,A multi-objective evolutionary algorithm for the deployment and power assignment problem in wireless sensor networks,2010,Computer Networks,
+322347973,Classic Efficient-Energy MAC Protocols for Wireless Sensor Networks,2010,,"International Conference on Wireless Communications, Networking and Mobile Computing"
+322412208,Distributed coverage control and data collection with mobile sensor networks,2010,,Conference on Decision and Control
+323094508,Asynchronous Distributed Optimization With Event-Driven Communication,2010,IEEE Transactions on Automatic Control,
+327983731,Object oriented parallelisation of graph algorithms using parallel iterator,2010,,
+336243177,Energy-constrained mobile sensor with motion plans for monitoring stochastic events,2010,,Communications and Mobile Computing
+339623281,SUPPORTING MULTI-MISSIONS IN WIRELESS SENSOR,2010,,
+342890164,Energy-Efficient Protocol for Deterministic and Probabilistic Coverage in Sensor Networks,2010,IEEE Transactions on Parallel and Distributed Systems,
+344749991,Area coverage problems in wireless sensor networks,2010,,
+350514245,Stochastic event capture using mobile sensors under linear case,2010,,World Congress on Intelligent Control and Automation
+358579549,Preferential field coverage through detour-based mobility coordination,2010,,Annual Mediterranean Ad Hoc Networking Workshop
+366330701,The Coverage Problem in Video-Based Wireless Sensor Networks: A Survey,2010,Sensors,
+367959632,Maximum lifetime scheduling for target coverage in wireless sensor networks,2010,,International Conference on Wireless Communications and Mobile Computing
+374472559,On Optimal Information Capture by Energy-Constrained Mobile Sensors,2010,IEEE Transactions on Vehicular Technology,
+376280274,Best and worst-case coverage problems for arbitrary paths in wireless sensor networks,2010,,Mobile Adhoc and Sensor Systems
+377865193,New Optimization Models for Directional and Biological Wireless Sensor Networks,2010,,
+381849420,Routing Misbehavior Detection in MANETs Using 2ACK,2010,Journal of telecommunications and information technology,
+386115740,Secure self organization of wireless sensor network: A new approach,2010,,Communication Systems and Networks
+386911087,Path planning algorithms for robots in a data muling system,2010,,
+387527825,An Improved Coverage Scheme Based on Cellular Automata in WSN,2010,,International Conference on Networks
+389823412,QARI: Quality Aware Software Deployment for Wireless Sensor Networks,2010,,International Conference on Information Technology: New Generations
+393887074,Energy Efficient PCP protocol for k- coverage in Sensor networks,2010,,
+395389457,Mobility in mobile sensor networks: A study of sensing performance and privacy,2010,,
+396604101,Analysis Of Topological Properties Of Random Wireless Sensor Networks,2010,,
+406581572,Probabilistic Estimation of Location Error in Wireless Ad Hoc Networks,2010,,Global Communications Conference
+411917268,Find Penetration Paths,2010,,
+429512867,Sensors Network Management for Health Condition Data Coverage on Largescale Infrastructures,2010,IFAC Proceedings Volumes,
+430885578,Secure connectivity through key predistribution under jamming attacks in ad hoc and sensor networks,2010,,
+442168876,The optimization of sensor relocation in wireless mobile sensor networks,2010,Computer Communications,
+446308785,"QoS: Requirements, Design Features, and Challenges on Wireless Sensor Networks",2010,,
+452517720,Timely-efficient and reliable topologies for 3-D sensor networks,2010,,International Symposium on Computers and Communications
+454508816,Energy-efficient and coverage-specific node scheduling for wireless sensor networks,2010,,Modeling Analysis and Simulation of Wireless and Mobile Systems
+456858819,"Towards the Robotic ""Avatar"": An Extensive Survey of the Cooperation between and within Networked Mobile Sensors",2010,Future Internet,
+461545143,Surveillance with wireless sensor networks in obstruction: Breach paths as watershed contours,2010,Computer Networks,
+462312369,Self-Deployment Algorithms for Coverage Problem in a Network of Mobile Sensors with Unidentical Sensing Ranges,2010,,Global Communications Conference
+468131095,A Biologically Inspired Sensor Wakeup Control Method for Wireless Sensor Networks,2010,,"Systems, Man and Cybernetics"
+469550445,Security via Surveillance and Monitoring,2010,,
+470464921,Obstacle discovery in distributed actuator and sensor networks,2010,ACM Transactions on Sensor Networks,
+474200472,Modeling of coverage preserving algorithm using object oriented methodology with UML,2010,,International Conference & Workshop on Emerging Trends in Technology
+476881815,UREA: Uncovered Region Exploration Algorithm for reorganization of mobile sensor nodes to maximize coverage,2010,,Distributed Computing in Sensor Systems
+477153032,Detection of Packet Dropping in Wireless Sensor Networks,2010,,International Conference on Information Technology: New Generations
+481954875,Rapid self-organised initiation of ad hoc sensor networks close above the percolation threshold,2010,Physica A-statistical Mechanics and Its Applications,
+483747187,SISTEMA DE VISIÓN SINÉRGICO PARA DETECCIÓN DE MOVIMIENTO SYNERGIC VISION SYSTEM FOR MOTION DETECTION,2010,,
+488467454,Coverage and connectivity in three dimensional wireless sensor networks,2010,,
+490142027,Thresholding random geometric graph properties motivated by ad hoc sensor networks,2010,Journal of Computer and System Sciences,
+495293255,A dead-end free deployment algorithm for wireless sensor networks with obstacles,2010,,International Conference on Wireless Communications and Mobile Computing
+499770287,A Plug-n-Play wireless sensor network based on Web service for monitoring climatic parameters,2010,,"Virtual Environments, Human-Computer Interfaces and Measurement Systems"
+63014847,Dynamic Point Coverage Problem in Wireless Sensor Networks: A Cellular Learning Automata Approach,2010,Ad Hoc & Sensor Wireless Networks,
+3934180,Confidence level analysis of Sensing Spatial Coverage in Wireless Sensor Networks,2011,,IEEE Sensors
+11498720,Inkjet printing of conducting polymers,2011,,
+13750594,Research on water-saving irrigation automatic control system based on internet of things,2011,,International Conference on Electric Information and Control Engineering
+14689379,Overview of Topology Control in Wireless Sensor Networks,2011,International Journal of Advancements in Computing Technology,
+15976414,Traffic-Aware Relay Node Deployment: Maximizing Lifetime for Data Collection Wireless Sensor Networks,2011,IEEE Transactions on Parallel and Distributed Systems,
+16507908,Cartography applications for autonomous sensory agents,2011,,
+16631265,Evaluating coverage quality through best covered pathes in wireless sensor networks,2011,,International Workshop on Quality of Service
+31860424,On coverage issues in directional sensor networks: A survey,2011,,Ad Hoc Networks
+32881698,Random variation in coverage of sensor networks,2011,,
+38303674,Recovery Mechanism on Sensor Networks,2011,,
+40119311,Energy Efficient Target Coverage Issues in Wireless Sensor Network,2011,,
+41115689,Maximizing a Lifetime of Wireless Sensor Network by,2011,,
+52219183,Coverage enhanced algorithm using artificial potential force,2011,,International Conference on Intelligent Control and Information Processing
+60022328,On Periodic Node Deployment in Wireless Sensor Networks: A Statistical Analysis,2011,arXiv: Networking and Internet Architecture,
+63132571,No regret learning for sensor relocation in mobile sensor networks,2011,,international conference on Information Computing and Applications
+90564013,Hybrid-Type Target Coverage Model in Wireless Sensor Networks,2011,,
+90753804,An Effective Inter-Cell Interference Coordination Scheme for Heterogeneous Network,2011,,Vehicular Technology Conference
+93287209,An Intelligent Sensor Placement Method to Reach a High Coverage in Wireless Sensor Networks,2011,,"IEEE International Conference on High Performance Computing, Data, and Analytics"
+96319600,Chemical Sensors and Measurement,2011,,
+100907683,Sensor Deployment Through Geometric Cooperation,2011,,International Conference on Supercomputing
+101248830,ENERGY EFFICIENT COVERAGE PROBLEMS IN WIRELESS Ad Hoc SENSOR NETWORKS,2011,Advanced Computing: An International Journal,
+102187935,A Hybrid Multiobjective Evolutionary Approach for Improving the Performance of Wireless Sensor Networks,2011,IEEE Sensors Journal,
+102913675,Energy efficient adaptive sensing range for sensor network,2011,,"International Conference on Energy, Automation and Signal"
+107532997,Research on Mathematical Model in Wireless Sensor Networks,2011,International Journal of Digital Content Technology and Its Applications,
+111700528,A scheduling method based on virtual clustering and boundary energy for Wireless Sensor Networks,2011,,International Conference on Computer Research and Development
+114892978,"Networked Wireless Sensor Data Collection: Issues, Challenges, and Approaches",2011,IEEE Communications Surveys and Tutorials,
+133270851,Mayer–Vietoris sequences and coverage problems in sensor networks,2011,Japan Journal of Industrial and Applied Mathematics,
+141137214,Intelligent wakening scheme for wireless sensor networks surveillance,2011,,Conference on Computer Communications Workshops
+143844338,Collaborative Scheduling in Highly Dynamic Environments Using Error Inference,2011,,Mobile Ad-hoc and Sensor Networks
+148748513,Geometric hitting sets and their variants,2011,,
+150302009,Sweep Coverage with Mobile Sensors,2011,IEEE Transactions on Mobile Computing,
+153593717,Advanced Sensor Network Software Deployment using Application-level Quality Goals,2011,Journal of Software,
+157030317,On area coverage problems in directional sensor networks,2011,,International Conference on Information Networking
+157603978,ANALISA KARAKTERISTIK LINGKUNGAN PROPAGASIPADA DAERAH PEPOHONAN DI AREA PENS ITS,2011,,
+160575769,Medical diagnostic-based sensor selection,2011,,IEEE Sensors
+161523883,Coverage Assessment and Target Tracking in 3D Domains,2011,Sensors,
+162243616,Scalable Offline Optimization of Industrial Wireless Sensor Networks,2011,IEEE Transactions on Industrial Informatics,
+163124800,Theoretical aspects of graph models for MANETs,2011,,
+167509019,Barrier coverage in camera sensor networks,2011,,Mobile Ad Hoc Networking and Computing
+167688259,Connectivity-Based Distributed Coverage Hole Detection in Wireless Sensor Networks,2011,,Global Communications Conference
+169192956,Localization in :ireless 6ensor 1etwork by 0obile 6tations %ased on 5andom 'istribution,2011,,
+169773177,A Grid-Based Hole Detection Scheme in WSNs,2011,,Network-Based Information Systems
+170028870,Game Theory in Wireless and Communication Networks by Zhu Han,2011,,
+171944446,Spatial-Temporal Coverage Optimization in Wireless Sensor Networks,2011,IEEE Transactions on Mobile Computing,
+173472583,Restoring coverage area for WSN through simulated annealing,2011,International Journal of Pervasive Computing and Communications,
+178609580,Node Architectures and Its Deployment in Wireless Sensor Networks: A Survey,2011,,Grid Computing
+185668761,Probabilistic Dynamic Deployment of Wireless Sensor Networks by Artificial Bee Colony Algorithm,2011,Sensors,
+189404605,A combined Mamdani-Sugeno fuzzy approach for localization in wireless sensor networks,2011,,International Conference & Workshop on Emerging Trends in Technology
+189518678,Analysis of Sensors' Coverage through Application-Specific WSN Provisioning Tool,2011,International Journal of Mobile Computing and Multimedia Communications,
+191395811,A case study of participatory data transfer for urban temperature monitoring,2011,,Web and Wireless Geographical Information Systems
+195571316,DESIGN AND EVALUATION OF TWO DISTRIBUTED METHODS FOR SENSORS PLACEMENT IN WIRELESS SENSOR NETWORKS,2011,,
+198537424,Bubble Trace: Mobile Target Tracking under Insufficient Anchor Coverage,2011,,International Conference on Distributed Computing Systems
+200779762,Gallery: A Self-healing Topology Model for Pervasive Sensor Networks,2011,International Journal of Distributed and Parallel systems,
+212626590,Multi-objective evolutionary optimizations of a space-based reconfigurable sensor network under hard constraints,2011,,Soft Computing
+214881567,Coverability of Wireless Sensor Networks,2011,Tsinghua Science & Technology,
+220168263,On barrier resilience of sensor networks,2011,,Ad Hoc Networks
+220523953,Cooperative Self-Deployment Strategies in a Mobile Sensor Network with Non-Uniform Coverage Priority,2011,,Global Communications Conference
+221659649,An Energy-Efficient Dynamic Duty-Cycle and Dynamic Schedule Assignment Scheme for WSNs,2011,,Asia-Pacific Services Computing Conference
+228580829,Triangle Area Segmentation for Coverage Measurement in Wireless Sensor Networks,2011,,
+230031117,Delaunay triangulation as a new coverage measurement method in wireless sensor network,2011,Sensors,
+230630526,Lifetime and coverage guarantees through distributed coordinate-free sensor activation,2011,IEEE ACM Transactions on Networking,
+231229547,Computational geometry based distributed coverage hole detection protocol for the wireless sensor networks,2011,Journal of Network and Computer Applications,
+233759386,A genetic algorithm for a multi-objective nodes placement problem in heterogeneous network infrastructure for surveillance applications,2011,,Joint IFIP Wireless and Mobile Networking Conference
+234406203,Security primitives and protocols for ultra low power sensor systems,2011,,IEEE Sensors
+235280402,Localization and Coverage in Wireless Ad Hoc Networks,2011,,
+237055640,Coverage Enhancing Algorithms in Directional Sensor Networks with Rotatable Sensors,2011,,Asia-Pacific Services Computing Conference
+240562963,A sensor deployment approach using glowworm swarm optimization algorithm in wireless sensor networks,2011,Expert Systems With Applications,
+244248673,Research on gravitation potential filed based moving strategy for mobile node in sweep coverage of wireless sensor network,2011,,International Conference on Computer Science and Network Technology
+245708994,A Connectivity Based Localization Algorithm for Sensor Network,2011,,International Conference on Network Computing and Information Security
+247261892,On Probabilistic k‐Coverage in Pervasive Wireless Sensor Networks,2011,,
+257543866,Immune clonal selection algorithm for target coverage of wireless sensor networks,2011,"International Journal of Modelling, Identification and Control",
+259928803,Survey on the Connectivity and Coverage in Wireless Sensor Networks,2011,,"International Conference on Wireless Communications, Networking and Mobile Computing"
+275248290,Visibility-Based Coverage of Mobile Sensors in Non-convex Domains,2011,,International Symposium on Voronoi Diagrams in Science and Engineering
+275719018,Detection and Extinguishing Forest Fires using Wireless Sensor and Actor Networks,2011,International Journal of Computer Applications,
+278099496,Mobile robot deployment based on Voronoi diagram,2011,,International Service Availability Symposium
+278163018,"On Routing, Backbone Formation and Barrier Coverage in Wireless Ad Hoc and Sensor Networks",2011,,
+280067324,Data Monitoring and Gathering in Sensor Networks,2011,,
+281532426,An architecture for global ubiquitous sensing,2011,,
+291412213,Cone Tessellation Model for Three-Dimensional Networks,2011,,
+292007102,Pareto-based evolutionary computational approach for wireless sensor placement,2011,Engineering Applications of Artificial Intelligence,
+293012429,Localization-Oriented Coverage in Wireless Camera Sensor Networks,2011,IEEE Transactions on Wireless Communications,
+296244504,Devising an Optimal Scheme for Wireless Sensors for Patient Report Tracking and Monitoring in Ubiquitous Healthcare,2011,,
+296549417,Cascaded Movement Strategy for Repairing Coverage Holes in Wireless Sensor Networks,2011,,"International Conference of Information Technology, Computer Engineering and Management Sciences"
+298633512,Optimal Control-Based Strategy for Sensor Deployment,2011,,"Systems, Man and Cybernetics"
+311495537,Transient Analysis of IEEE 802.15.4 Sensor Networks,2011,IEEE Transactions on Wireless Communications,
+323406460,Improved coverage in WSNs by exploiting spatial correlation: the two sensor case,2011,EURASIP Journal on Advances in Signal Processing,
+333691207,Energy-efficient probabilistic target coverage in wireless sensor networks,2011,,International Conference on Networks
+346067157,Effective Lifetime-Aware Routing in Wireless Sensor Networks,2011,IEEE Sensors Journal,
+347330306,Probabilistic Target Coverage in Wireless Sensor Networks,2011,,"Broadband and Wireless Computing, Communication and Applications"
+354184269,XLCM: Xross-layer communication module for service differentiation in Wireless Sensor Networks,2011,,International Conference on Wireless Communications and Mobile Computing
+366217704,A nonlinear optimization approach to coverage problem in mobile sensor networks,2011,,Conference on Decision and Control
+369976603,Localization in wireless sensor network by mobile stations based on random distribution,2011,,International Conference on Software Engineering
+373720031,Analysis and a Report of Wireless Sensor Networks and Applications,2011,,
+378134108,Connected Point Coverage in Wireless Sensor Networks Using Robust Spanning Trees,2011,,International Conference on Distributed Computing Systems Workshops
+378683712,Distributed deployment algorithms for improved coverage in mobile sensor networks,2011,,International Conference on Control Applications
+382229964,Energy-efficient k-class coverage for collaborative classification in Wireless Audio Sensor Networks,2011,,"World of Wireless, Mobile and Multimedia Networks"
+382459441,Maximum lifetime coverage preserving scheduling algorithms in sensor networks,2011,Journal of Global Optimization,
+382946655,Handling Attacks on Routing Protocols in Ad hoc Networks,2011,,
+384208744,QPSO and FISH Algorithm Apply in the Wireless Sensor Network Coverage,2011,,International Conference on Distributed Computing
+384367786,Evenness Evaluation of Ad-hoc Sensor Networks in 3D Continuous Space,2011,,International Conference on Networking
+393310129,The Divide-and-Conquer Deployment Algorithm Based on Triangles for Wireless Sensor Networks,2011,IEEE Sensors Journal,
+400000861,Coverage problems in sensor networks: A survey,2011,ACM Computing Surveys,
+404814322,Area coverage enhancement schemes in directional sensor networks,2011,International Journal of Internet Protocol Technology,
+409658954,K-target coverage & connectivity in wireless sensor network considering the angle coverage,2011,,International Conference on Computer Research and Development
+419254852,Performance Analysis of Dispersed Spectrum Cognitive Radio Systems,2011,,
+419768082,Agent fitness functions for evolving coordinated sensor networks,2011,,Genetic and Evolutionary Computation Conference
+428810471,Optimised random structure vehicular sensor network,2011,Iet Intelligent Transport Systems,
+429406384,A coverage dominance approach for sensor deployment optimization,2011,,International Conference on Information Fusion
+431721629,Cross-layer analyses of QoS parameters in wireless sensor networks,2011,,International Conference on Computer Science and Information Technology
+437510986,A GIS based wireless sensor network coverage estimation and optimization: a voronoi approach,2011,,Trans. Computational Science
+438273347,Range free localization schemes for wireless sensor networks,2011,,International Conference on Software Engineering
+439421196,The K-observer problem in computer networks,2011,,"International Conference on Stabilization, Safety, and Security of Distributed Systems"
+444617556,ROC: resilient online coverage for surveillance applications,2011,IEEE ACM Transactions on Networking,
+444730183,On Energy-Efficient Trap Coverage in Wireless Sensor Networks,2011,,Real-Time Systems Symposium
+445345010,Reliable and Energy Efficient Target Coverage for Wireless Sensor Networks,2011,Tsinghua Science & Technology,
+460469164,Research of chaotic PSO coverage control algorithm based on energy balance,2011,,Robotics and Biomimetics
+462289002,Analysis of k-Coverage in Wireless Sensor Networks,2011,International Journal of Advanced Computer Science and Applications,
+463323820,Adaptive packet prioritisation for large wireless sensor networks,2011,Telecommunication Systems,
+465139670,Wi-Design: A modelling and optimization tool for wireless embedded systems in buildings,2011,,Local Computer Networks
+472075020,DAIM: A Distributed Algorithm for Isolating Malfunctioning Nodes in Wireless Sensor Networks,2011,,
+472549301,A coverage hole detection method and improvement scheme in WSNs,2011,,International Conference on Electric Information and Control Engineering
+478313699,Robust coverage under uncertainty in wireless sensor networks,2011,,International Conference on Computer Communications
+481336960,Utilização de data warehouses para gerenciar dados de redes de sensores sem fio que monitoram polinizadores.,2011,,
+484985485,Minimizing the number of sensors moved on line barriers,2011,,Wireless Communications and Networking Conference
+485729258,Reliable networks with unreliable sensors,2011,,International Conference of Distributed Computing and Networking
+492438469,Towards Reliable Mobile Ad Hoc Networks,2011,,
+494538694,Network Coverage Optimization Strategy in Wireless Sensor Networks Based on Particle Swarm Optimization,2011,,
+496929117,Optimum Sensor Nodes Deployment Using Fuzzy C-Means Algorithm,2011,,International Symposium on Computer Science and Society
+1042498,Modeling non functional requirements in designing middleware for pervasive healthcare system,2011,,Advanced Industrial Conference on Telecommunications
+44916931,Anti-Monitoring Algorithm for Mobile Object in Anisotropic Sensory Networks,2011,Journal of Software,
+307267919,Optimization Problems in Wireless Sensor Networks,2011,,"Complex, Intelligent and Software Intensive Systems"
+7676676,Generic coverage verification without location information using dimension reduction,2012,IEEE ACM Transactions on Networking,
+18230173,Achieving energy efficiency by self-adjusting sensing range and positioning in wireless sensor networks,2012,,World Congress on Information and Communication Technologies
+23423824,Strategies for Sensor Node Deployment Based on Spatial Correlation for Methane Sensor Network,2012,Journal of Networks,
+23701327,Study on Worst Case Coverage of Mobile Sensors in Hybrid Wireless Sensor Networks,2012,Applied Mechanics and Materials,
+25195222,Provable configuration planning for wireless sensor networks,2012,,Conference on Network and Service Management
+27387698,Global Optimization Approaches to Sensor Placement: Model Versions and Illustrative Results,2012,,
+37942843,Providing and finding k -road-coverage efficiently in wireless sensor networks,2012,,Communications and Mobile Computing
+40549803,Ubiquitous Sensor Networks and Its Application,2012,International Journal of Distributed Sensor Networks,
+43175598,DESIGN AND EVALUATION OF NEW INTELLIGENT SENSOR PLACEMENT ALGORITHM TO IMPROVE COVERAGE PROBLEM IN WIRELESS SENSOR NETWORKS,2012,,
+46355956,Sensors Lifetime Enhancement Techniques in Wireless Visual Sensor Networks - A Survey,2012,,
+55101820,Mobile Sensing and Actuating with Ubiquitous Computing,2012,International Journal of Distributed Sensor Networks,
+61234190,Multi-objective energy-efficient dense deployment in Wireless Sensor Networks using a hybrid problem-specific MOEA/D,2012,Applied Soft Computing,
+69061966,Nodes self-scheduling approach for maximising wireless sensor network lifetime based on remaining energy,2012,,IET wireless sensor systems
+74579915,On Breach Path Detection Reliability of Wireless Sensor Grids,2012,,International Conference on Computer Communications and Networks
+78181537,Transforming Area Coverage to Target Coverage to Maintain Coverage and Connectivity for Wireless Sensor Networks,2012,International Journal of Distributed Sensor Networks,
+81022344,Cyclic Network Automata and Cohomological Waves,2012,arXiv: Algebraic Topology,
+84147558,Approximating Barrier Resilience for Arrangements of Non-identical Disk Sensors,2012,,Algorithmic Aspects of Wireless Sensor Networks
+87452994,Frontiers of Wireless and Mobile Communications,2012,Proceedings of the IEEE,
+87618624,Go Heuristics for Coverage of Dense Wireless Sensor Networks,2012,arXiv: Networking and Internet Architecture,
+94806969,Particle Swarm Optimization Inspired Probability Algorithm for Optimal Camera Network Placement,2012,IEEE Sensors Journal,
+102105585,Minefield Mapping Using Cooperative Multirobot Systems,2012,Journal of Robotics,
+103071616,Multiple point of interest discovery and coverage with mobile wireless sensors,2012,,
+103957188,Field investigation of the radio transmission performance and distance in a environmental wireless sensor network,2012,,International Conference on Information Networking
+105830157,Distributed computation of coverage in sensor networks by homological methods,2012,"Applicable Algebra in Engineering, Communication and Computing",
+117299440,Algorithms for computing Best Coverage Path in the presence of obstacles in a sensor field,2012,Journal of Discrete Algorithms,
+125998558,A Node Localization Algorithm for Wireless Sensor Networks based on Particle Swarm Algorithm,2012,Journal of Networks,
+131661213,Interference analysis of 3G/ad hoc integrated network,2012,Iet Communications,
+131967422,"Efficient solution techniques for the integrated coverage, sink location and routing problem in wireless sensor networks",2012,Computers & Operations Research,
+138288034,A new measurement method of the node and energy distribution uniformity in the Sensor Networks,2012,,International Conference on Information Science and Digital Content Technology
+142734153,Team-theoretic approach to cooperative multirobot systems: Humanitarian demining as a case study,2012,,
+146591778,Random routing algorithm for rhombic-deployed sensor networks based on compressed sensing,2012,,"International Conference on Audio, Language and Image Processing"
+152201427,Coverage-Oriented Sensor Deployment,2012,,
+154578236,A Scalable WSN Based Data Center Monitoring Solution with Probabilistic Event Prediction,2012,,Advanced Information Networking and Applications
+154883403,A Fuzzy Logic Based Sensor Relocation Betterment for Mobile Wireless Sensor Networks,2012,,
+159751418,Towards optimal event detection and localization in acyclic flow networks,2012,,International Conference of Distributed Computing and Networking
+160599797,Nodes self-deployment for coverage maximization in mobile robot networks using an evolving neural network,2012,Computer Communications,
+162931414,Artificial bee colony algorithm for dynamic deployment of wireless sensor networks,2012,Turkish Journal of Electrical Engineering and Computer Sciences,
+168310353,Biased random algorithm for load balancing in Wireless Sensor Networks (BRALB),2012,,International Power Electronics and Motion Control Conference
+169509182,The Complexity of the Minimum Sensor Cover Problem with Unit-Disk Sensing Regions over a Connected Monitored Region,2012,International Journal of Distributed Sensor Networks,
+169603932,Finding Achievable Region among Line-segment Obstacles in the Plane,2012,arXiv: Data Structures and Algorithms,
+172887209,On Coverage of Wireless Sensor Networks for Rolling Terrains,2012,IEEE Transactions on Parallel and Distributed Systems,
+184234294,Worm propagation control based on spatial correlation in wireless sensor network,2012,,Asia-Pacific Web Conference
+184755024,Coverage Improvement for Wireless Sensor Networks using Grid Quorum based Node Mobility,2012,,
+186796369,Enabling Cyber Physical Systems with Wireless Sensor Networking Technologies,2012,International Journal of Distributed Sensor Networks,
+190353175,A Cluster Allocation and Routing Algorithm based on Node Density for Extending the Lifetime of Wireless Sensor Networks,2012,International Journal of Computer Science and Information Technology,
+198285299,Optimal surface deployment problem in wireless sensor networks,2012,,International Conference on Computer Communications
+210432672,Maximum Lifetime Scheduling in Wireless Sensor Networks,2012,,
+212321054,TARGET COVERAGE MANAGEMENT PROTOCOL FOR WIRELESS SENSOR NETWORK,2012,,
+216446647,Coverage-awareness Scheduling Protocols for Wireless Sensor Networks,2012,,
+222037454,Minimizing the Range for k-Covered Paths on Sensor Networks,2012,The Computer Journal,
+226327154,"Design Problems in Large-Scale, Time-Sensitive WSNs",2012,,
+226544622,Design of wireless sensor networks for mobile target detection,2012,IEEE ACM Transactions on Networking,
+228358159,A practical coverage algorithm for wireless sensor networks in real terrain surface,2012,International Journal of Wireless and Mobile Computing,
+229786215,An improved LEACH routing algorithm used in the remote life alerting system,2012,,International Conference on Computer Science and Education
+247904864,Transient Analysis of Mac Protocol in Sensor Networks,2012,,
+258704704,Distributed Coverage in Wireless Ad Hoc and Sensor Networks by Topological Graph Approaches,2012,IEEE Transactions on Computers,
+262202844,An Extended Virtual Force-Based Approach to Distributed Self-Deployment in Mobile Sensor Networks,2012,International Journal of Distributed Sensor Networks,
+262927628,Roadside unit deployment for information dissemination in a VANET: an evolutionary approach,2012,,Genetic and Evolutionary Computation Conference
+263482728,Coverage and connectivity guaranteed topology control algorithm for cluster‐based wireless sensor networks,2012,Wireless Communications and Mobile Computing,
+270161717,Constant-approximation for target coverage problem in wireless sensor networks,2012,,International Conference on Computer Communications
+271700418,Barrier Counting in Mixed Wireless Sensor Networks,2012,,"Modeling, Analysis, and Simulation On Computer and Telecommunication Systems"
+275893505,Suitable Node Deployment based on Geometric Patterns Considering Fault Tolerance in Wireless Sensor Networks,2012,International Journal of Computer Applications,
+279982660,Coverage estimation for crowded targets in visual sensor networks,2012,ACM Transactions on Sensor Networks,
+283821707,Comparison of Routing Protocols for Locating moving object in Large Scale Cellular Wireless Sensor Network,2012,,
+286080801,Efficient data collection from wireless nodes under the two-ring communication model,2012,The International Journal of Robotics Research,
+286554735,A Framework for Routing in Fully- and Partially-Covered Three Dimensional Wireless Sensor Networks,2012,,
+294861114,A mobility model for studying wireless communication and the complexity of problems in the model,2012,Networks,
+296690512,A Novel Area Coverage Management Scheme for Sensor Network with Mobile Sensor Nodes,2012,Indian journal of science and technology,
+297064866,Energy-efficient intrusion detection with a barrier of probabilistic sensors,2012,,International Conference on Computer Communications
+301591894,Towards distributed real-time physiological processing in mobile environments,2012,,"Personal, Indoor and Mobile Radio Communications"
+308736698,Improved Virtual Potential Field Algorithm Based on Probability Model in Three-Dimensional Directional Sensor Networks,2012,International Journal of Distributed Sensor Networks,
+310117442,DUTY-CYCLE SCHEDULING FOR INTRUDER DETECTION IN WIRELESS SENSOR NETWORKS,2012,Parallel and distributed computing and systems,
+311988559,Node Placement and Coverage in Asymmetrical Area,2012,,
+325125390,Optimal Coverage Scheme based on QPSO in Wireless Sensor Networks,2012,Journal of Networks,
+326022959,Coverage and Connectivity Preserving Routing Protocol for heterogeneous wireless sensor networks,2012,,
+331832677,An intersection-based coverage algorithm for PEGASIS architecture in Wireless sensor networks,2012,,International Conference on Machine Learning and Cybernetics
+337061432,Secluded Connectivity Problems,2012,arXiv: Data Structures and Algorithms,
+337794582,Research of coverage control algorithm in three-dimensional wireless sensor network based on energy efficiency,2012,,Chinese Control and Decision Conference
+339444330,Distributed receding horizon coverage control for multiple non-holonomic mobile robots,2012,,Programmable Devices and Embedded Systems
+344821326,Modeling and Optimizing the Coverage of Multi- Camera Systems,2012,,
+353925131,A Survey on Coverage Problems in Wireless Sensor Networks,2012,,
+357992010,Cyber Physical Systems Using Sensor Technologies,2012,International Journal of Distributed Sensor Networks,
+363092477,Self-organizing sensor networks: Coverage problem,2012,,Biennial Symposium on Communications
+365947114,Optimality of Homogeneous Sensing Range Assignment in Large-Scale Wireless Sensor Network Deployments,2012,IEEE Communications Letters,
+373928491,Node-blockage reduction and removal of hidden-terminal problem of CSMA/CA MAC protocol,2012,,International Conference on Recent Advances in Information Technology
+374230604,A Coverage Control Algorithm Based on Probability Model for Three-Dimensional Wireless Sensor Networks,2012,,International Conference on Distributed Computing
+374852104,Uninterrupted coverage of a planar region with rotating directional antennae,2012,,"Ad-Hoc, Mobile and Wireless Networks"
+395369028,Coverage and connectivity protocol for Wireless Sensor Networks,2012,,International Conference on Microelectronics
+399580841,Cluster based algorithm for volumetric coverage in wireless visual sensor network,2012,,CSI International Symposium on Artificial Intelligence and Signal Processing
+400696883,Review of Optimization Problems in Wireless Sensor Networks,2012,European Economic Review,
+406011888,Energy Efficient Hierarchical Collaboration Coverage Model in Wireless Sensor Network,2012,Journal of Software,
+409849890,An Efficient Algorithm for Boolean Operation on Circular-arc Polygons,2012,,
+410019907,UREA: an algorithm for maximisation of coverage in stochastic deployment of wireless sensor networks,2012,"International Journal of Parallel, Emergent and Distributed Systems",
+418047137,Exploiting data fusion to improve the coverage of wireless sensor networks,2012,IEEE ACM Transactions on Networking,
+419922737,"Reliable Networks With Unreliable Sensors I,II",2012,,
+421224246,Multiobjective Coverage Control Strategy for Energy-Efficient Wireless Sensor Networks,2012,International Journal of Distributed Sensor Networks,
+426587236,Efficient coverage protocol without location information,2012,International Journal of Sensor Networks,
+427397347,An approach for bounding breach path detection reliability in wireless sensor networks,2012,,Local Computer Networks
+427881245,Usage of distributed identities and Decentralized Recommendation chains in Peer to Peer Reputation Mgt.,2012,,
+433530135,Efficient Cache Discovery for Cooperative Caching in Wireless Ad Hoc Networks,2012,,International Conference on Parallel and Distributed Systems
+438532945,Artificial bee colony algorithm for dynamic deployment of wireless sensor networks,2012,,
+439320481,Dynamic Activation Policies for Event Capture with Rechargeable Sensors,2012,,International Conference on Distributed Computing Systems
+440382605,A Cluster Allocation and Routing Algorithm Based on Node Density for Extending the Lifetime of Wireless Sensor Networks,2012,,Advanced Information Networking and Applications
+442309975,Centralized Receding Horizon Coverage Control for Mobile Sensory Networks,2012,,"International Conference on Intelligent Systems, Modelling and Simulation"
+442863563,Ion-6: A Positionless Self-Deploying Method for Wireless Sensor Networks,2012,International Journal of Distributed Sensor Networks,
+452909235,Centralized and Clustered k-Coverage Protocols for Wireless Sensor Networks,2012,IEEE Transactions on Computers,
+454142352,FAULT TOLERANCE IN WIRELESS SENSOR NETWORKS USING CONSTRAINED DELAUNAY TRIANGULATION,2012,,
+462312631,Probability Model Based Coverage-Enhancing Algorithm for WSNs of Nodes' Adjustable Movement Pattern,2012,International Journal of Distributed Sensor Networks,
+463702144,Spatial Uncertainty in Mobile and Sensor Networks,2012,,
+464716497,On improving the representation of a region achieved by a sensor network,2012,,Ad Hoc Networks
+468732111,A distributed lifetime-maximizing scheme for connected target coverage in WSNs,2012,,International Conference on Computational Science and Its Applications
+472400709,The generalized k-coverage under probabilistic sensing model in sensor networks,2012,,Wireless Communications and Networking Conference
+476025936,Energy Signal Scheduling: A Simple Scheduling Mechanism for Wireless Sensor Networks,2012,,
+480015433,A Distributed Deployment Algorithm with Mobile Sensors in Wireless Sensor Network,2012,,
+487736821,A Grid-Based Hole Detection Scheme in WSNs,2012,International Journal of Distributed Systems and Technologies,
+488639071,Research on Redundant Channel Model Based on Spatial Correlation in IOT,2012,,
+490023745,A Simple Algorithm for Computing BOCP,2012,arXiv: Data Structures and Algorithms,
+490645971,Coverage Verification without Location Information,2012,IEEE Transactions on Mobile Computing,
+495636098,Coverage analysis for target localization in camera sensor networks,2012,,Communications and Mobile Computing
+9808253,"Multi-objective node deployment in WSNs: In search of an optimal trade-off among coverage, lifetime, energy consumption, and connectivity",2013,Engineering Applications of Artificial Intelligence,
+17484469,From RSSI to CSI: Indoor localization via channel response,2013,ACM Computing Surveys,
+21591918,A Mobility-Aware Node Deployment and Tree Construction Framework for ZigBee Wireless Networks,2013,IEEE Transactions on Vehicular Technology,
+31850622,Spatial Coverage Estimation and Optimization in Geosensor Networks Deployment,2013,,
+36217761,The fast scalable sensor efficiency measure in a hybrid sensor network,2013,,Ubiquitous Computing
+36774312,K-coverage in regular deterministic sensor deployments,2013,,"International Conference on Intelligent Sensors, Sensor Networks and Information Processing"
+40373490,On Target Coverage Problem of Angle Rotatable Directional Sensor Networks,2013,,Innovative Mobile and Internet Services in Ubiquitous Computing
+62472334,능동�?RFID 시스템에�?태그�?Overhearing�?제거하기 위한 에너지 절약 프로토콜,2013,,
+66896360,A Fast Fault Tolerant Partitioning Algorithm for Wireless Sensor Networks,2013,"arXiv: Distributed, Parallel, and Cluster Computing",
+67075979,A framework for managing the selection of spatiotemporally relevant information providers,2013,,Integrated Network Management
+74446403,Trapping Mobile Targets in Wireless Sensor Networks: An Energy-Efficient Perspective,2013,IEEE Transactions on Vehicular Technology,
+86116481,Geometric Problems on Coverage in Sensor Networks,2013,,
+86490767,A trust-based probabilistic coverage algorithm for wireless sensor networks,2013,Procedia Computer Science,
+97344068,Energy-Efficient Intrusion Detection with a Barrier of Probabilistic Sensors: Global and Local,2013,IEEE Transactions on Wireless Communications,
+100808764,Distributed algorithms for barrier coverage using relocatable sensors,2013,,Principles of Distributed Computing
+104535407,An analytic traffic model with adaptive QoS control in an unreliable wireless sensor network,2013,Telecommunication Systems,
+109011923,M ULTI-OBJECTIVE ENERGY EFFICIENT OPTIMIZATION ALGORITHM FOR COVERAGE CONTROL INW IRELESS SENSOR N ETWORKS,2013,,
+111217067,A priori methods for fault tolerance in wireless sensor networks,2013,,Computer and Information Technology
+114057165,A Grid Based Approach to Detect Mobile Target in Wireless Sensor Network,2013,IOSR Journal of Computer Engineering,
+117867956,A Survey on Coverage Control Technology in Wireless Sensor Network,2013,Advanced Materials Research,
+118146147,Deterministic Algorithms in Dynamic Networks: Formal Models and Metrics,2013,,
+125213596,Technical Report: A Receding Horizon Algorithm for Informative Path Planning with Temporal Logic Constraints,2013,arXiv: Robotics,
+138372943,A Survey on the Coverage of WSNs,2013,,
+138994660,Coverage Problems in Sensor Networks,2013,,
+144239929,Barrier coverage with line-based deployed mobile sensors,2013,,Ad Hoc Networks
+146788335,Nodes Self-Scheduling Approach for Maximising Wireless Sensor Network Lifetime,2013,,
+156302633,"QoS-driven design and operation of adaptive, self-organizing wireless sensor systems",2013,,Conference of the Industrial Electronics Society
+162969553,Software Maintenance of Deployed Wireless Sensor Nodes for Structural Health Monitoring Systems,2013,,
+167247700,A Fast Fault Tolerant Partitioning Algorithm for Wireless Sensor Networks,2013,,
+168729205,On Opportunistic Coverage for Urban Sensing,2013,,Mobile Adhoc and Sensor Systems
+176618262,Telehealthcare Computing and Engineering: Principles and Design,2013,,
+177131970,Multiple point of interest discovery and coverage with mobile wireless sensors,2013,,Ad Hoc Networks
+181305697,Mobility increases the surface coverage of distributed sensor networks,2013,Computer Networks,
+184787751,Asymptotic Minimum Coverage Using Macroscopic Diversity,2013,IEEE Transactions on Mobile Computing,
+191349472,Context-Adaptive Multimodal Wireless Sensor Network for Energy-Efficient Gas Monitoring,2013,IEEE Sensors Journal,
+195804847,Secluded Connectivity Problems,2013,,European Symposium on Algorithms
+198854157,Complexity of Barrier Coverage with Relocatable Sensors in the Plane,2013,,International Conference on Algorithms and Complexity
+203194721,A Fast Fault Tolerant Partitioning Algorithm for Wireless Sensor Networks,2013,"arXiv: Distributed, Parallel, and Cluster Computing",
+208968366,Dynamic Coverage of Mobile Sensor Networks,2013,IEEE Transactions on Parallel and Distributed Systems,
+221569346,Crowdsensing in vehicular sensor networks with limited channel capacity,2013,,International Conference on Communications
+228019249,Deployment and power assignment problem in Wireless Sensor Networks for intruder detection application using MEA,2013,,International Conference on Pattern Recognition
+228785240,A critical line based boundary surveillance strategy in wireless sensor networks,2013,Telecommunication Systems,
+231815494,Fast Message Dissemination in Random Geometric Networks,2013,Distributed Computing,
+238779075,A Coverage Hole Healing Strategy with Awareness of Data Delivery Time in Wireless Sensor Networks,2013,International Journal of Distributed Sensor Networks,
+253203495,A low-bandwidth camera sensor platform with applications in smart camera networks,2013,ACM Transactions on Sensor Networks,
+268175872,IMPLEMENTATION OF MOBILE TARGET DETECTION IN WIRELESS SENSOR NETWORKS,2013,,
+269618569,Percolation Theory-Based Exposure-Path Prevention for Wireless Sensor Networks Coverage in Internet of Things,2013,IEEE Sensors Journal,
+272131474,GLHOVE: A framework for uniform coverage monitoring using cluster-tree wireless sensor networks,2013,,Emerging Technologies and Factory Automation
+279983853,Algorithms for Wireless Communication and Sensor Networks,2013,,
+282561552,ADAPTIVE FUZZY LOGIC BASED QoS MANAGEMENT IN WIRELESS SENSOR NETWORK,2013,,
+291002874,Towards omnidirectional passive human detection,2013,,International Conference on Computer Communications
+294099587,Barrier coverage in wireless sensor networks: From lined-based to curve-based deployment,2013,,International Conference on Computer Communications
+302547519,Ratiometric GPS Iteration Localization Method Combined with the Angle of Arrival Measurement,2013,,
+307367278,Maximizing a Lifetime of Wireless Sensor Network by Scheduling,2013,,
+312833288,An ACO-RFD hybrid method to solve NP-complete problems,2013,Frontiers of Computer Science in China,
+315426488,On Event Detection and Localization in Acyclic Flow Networks,2013,,"Systems, Man and Cybernetics"
+317045039,Users plan optimization for participatory urban texture documentation,2013,Geoinformatica,
+342716434,Mobile Anchor Assisted Error Bounded Sensing in Sensor Networks: An Implementation Perspective,2013,,Mobile Adhoc and Sensor Systems
+348611711,Real Time Implementation of Nodes Self- Scheduling Approach for Maximizing Wireless Sensor Network Lifetime,2013,IOSR Journal of Electronics and Communication Engineering,
+354445899,"Event-driven control, communication, and optimization",2013,,Chinese Control Conference
+361496632,A Bipopulation-Based Evolutionary Algorithm for Solving Full Area Coverage Problems,2013,IEEE Sensors Journal,
+362310387,A dissertation submitted in partial satisfaction of the requirements for the degree Doctor of Philosophy in Electrical Engineering,2013,,
+362477056,Adaptive k -coverage contour evaluation and deployment in wireless sensor networks,2013,ACM Transactions on Sensor Networks,
+392129990,Point and area sweep coverage in wireless sensor networks,2013,,"Modeling and Optimization in Mobile, Ad-Hoc and Wireless Networks"
+402003759,Fast track article: Reliable networks with unreliable sensors,2013,Pervasive and Mobile Computing,
+406453105,Security in Sensor Networks,2013,,
+412135560,A NOVEL APPROACH TO MEASURING NODE AND ENERGY UNIFORMITY FOR THE OPTIMAL ASSIGNMENT OF DIRECTIONAL SENSORS,2013,,
+413713646,The Coverage Problem in Heterogeneous Wireless Sensor Network: An Improved Algorithm of Virtual Forces,2013,,
+417697104,A F AST FAULT TOLERANT PARTITIONING ALGORITHM FOR WIRELESS SENSOR,2013,,
+418931757,On energy-efficient trap coverage in wireless sensor networks,2013,ACM Transactions on Sensor Networks,
+426556675,Dynamic Coverage Problems in Sensor Networks,2013,,
+432030543,Cyclic cellular automata on networks and cohomological waves,2013,,
+435326324,A complete classification of spatial relations using the Voronoi-based nine-intersection model,2013,International Journal of Geographical Information Science,
+436165257,Application Communication Reliability of Wireless Sensor Networks Supporting K-coverage,2013,,Distributed Computing in Sensor Systems
+450352189,Modeling Coverage in Camera Networks: A Survey,2013,International Journal of Computer Vision,
+453547209,Minimum connected cover of a query region in heterogeneous wireless sensor networks,2013,Information Sciences,
+453824488,A VORONOI-BASED DEPTH-ADJUSTMENT SCHEME FOR UNDERWATER WIRELESS SENSOR NETWORKS,2013,,
+458144347,An Energy Saving Protocol to Eliminate Overhearing Problem in Active RFID System,2013,,
+458753376,Coverage algorithms for visual sensor networks,2013,ACM Transactions on Sensor Networks,
+458847421,Wireless Sensor Network Deployment,2013,,
+461358383,Finding Best and Worst k-Coverage Paths in Multihop Wireless Sensor Networks,2013,IEEE Transactions on Parallel and Distributed Systems,
+461919151,A review on Coverage factors in Wireless Sensor Networks,2013,,
+462512054,A receding horizon algorithm for informative path planning with temporal logic constraints,2013,,International Conference on Robotics and Automation
+467031809,Achieving full-view coverage in camera sensor networks,2013,ACM Transactions on Sensor Networks,
+478966626,Barrier coverage in bistatic radar sensor networks: cassini oval sensing and optimal placement,2013,,Mobile Ad Hoc Networking and Computing
+480324137,Coverage and Connectivity Issue in Wireless Sensor Networks,2013,Indonesian Journal of Electrical Engineering and Informatics,
+484972897,GRID BASED PATH PLANNING ALGORITHMS FOR EXTINGUISHING FOREST FIRES,2013,,
+485662224,COVERAGE PROBLEM IN HETEROGENEOUS WIRELESS SENSOR NETWORKS,2013,"European Scientific Journal, ESJ",
+493394961,Deterministic algorithms in dynamic networks,2013,,
+497110809,Distributed Deployment Strategies for Improved Coverage in a Network of Mobile Sensors With Prioritized Sensing Field,2013,IEEE Transactions on Industrial Informatics,
+6715126,Line sweep coverage in wireless sensor networks,2014,,Communication Systems and Networks
+9103811,Distributed Receding Horizon Coverage Control by Multiple Mobile Robots,2014,,International Conference on Robotics and Automation
+26850683,Minimal exposure path algorithms for directional sensor networks,2014,Wireless Communications and Mobile Computing,
+30853150,SQUARE GRID POINTS COVERAGED BY CONNECTED SOURCES WITH COVERAGE RADIUS OF ONE ON A TWO-DIMENSIONAL GRID,2014,International Journal of Computer Science and Information Technology,
+32232880,Energy-efficient construction algorithm for mobile mesh networks,2014,,Asia-Pacific Conference on Communications
+37696261,Visualization of dynamic fault tolerance rerouting for data traffic in wireless sensor network,2014,International Journal of Communication Systems,
+41103388,Spatiotemporal Coverage in Fusion-Based Sensor Networks,2014,,
+45747415,Temporal coverage mechanism for distinct quality of monitoring in wireless mobile sensor networks,2014,,Ad Hoc Networks
+49028476,"Controlling algorithm for energy-consumption, Radio bandwidth and signal strength deploying single fitness function to solve coverage area problems",2014,Advanced Science Letters,
+67859243,Surveillance using non-stealthy sensors: A new intruder model,2014,Security and Communication Networks,
+73631043,A Cellular Learning Automata-based Algorithm for Solving the Coverage and Connectivity Problem in Wireless Sensor Networks,2014,Ad Hoc & Sensor Wireless Networks,
+79500214,Spatial Statistical Data Fusion on Java-enabled Machines in Ubiquitous Sensor Networks,2014,,
+80484590,An Energy Efficient Barrier Coverage Algorithm for Wireless Sensor Networks,2014,Wireless Personal Communications,
+81320643,A Novel Energy-Efficient Heuristic for Target Coverage to Maximize Sensor Network Lifetime,2014,International Journal of Computer Applications,
+84201111,Escaping local optima in a class of multi-agent distributed optimization problems: A boosting function approach,2014,,Conference on Decision and Control
+84588671,An autonomous redeployment algorithm for line barrier coverage of mobile sensor networks,2014,,Ubiquitous Computing
+88059552,Barrier Coverage: Foundations and Design,2014,,
+100116984,A Novel Algorithm for Solving the Coverage Hole and the Complete Coverage Range in Wireless Sensor Networks,2014,Journal of Software,
+127335511,Restricted coverage in wireless networks,2014,,International Conference on Computer Communications
+128186111,On improving APIT algorithm for better localization in WSN,2014,Journal of AI and Data Mining,
+128668387,A novel coverage and connectivity preserving routing protocol for mission-critical wireless sensor networks,2014,Journal of Multimedia,
+136082637,Node distribution of the random direction model in a square region,2014,,International Conference on Mechatronics and Control
+146419074,Square Grid Points Coveraged by Connected Sources with Coverage Radius of One on a Two-Dimensional Grid,2014,arXiv: Computational Complexity,
+157404597,Curve-Based Deployment for Barrier Coverage in Wireless Sensor Networks,2014,IEEE Transactions on Wireless Communications,
+157654695,A Digital-Geometric Approach for Computing Area Coverage in Wireless Sensor Networks,2014,,International Conference on Distributed Computing and Internet Technology
+159581446,Maximizing network lifetime in wireless sensor networks with regular topologies,2014,The Journal of Supercomputing,
+163553131,Autonomous Mobile Mesh Networks,2014,IEEE Transactions on Mobile Computing,
+170750492,On the Maximum Directional Target Coverage Problem in Wireless Sensor Networks,2014,,Mobile Ad-hoc and Sensor Networks
+170856898,Escaping local optima in a class of multi-agent distributed optimization problems: A boosting function approach,2014,,Conference on Decision and Control
+197724313,Survey on the Characterization and Classification of Wireless Sensor Network Applications,2014,IEEE Communications Surveys and Tutorials,
+200470454,Secluded Path via Shortest Path,2014,,
+200574233,Distributed Area Coverage by Connected Set Cover Partitioning in Wireless Sensor Networks,2014,arXiv: Networking and Internet Architecture,
+203069446,Maximum WSN coverage in environments of heterogeneous path loss,2014,International Journal of Sensor Networks,
+204596127,Novel Methods for Multi-hop Sensor Positioning on the Surface of a Solar System Body,2014,Journal of Aeronautics and Aerospace Engineering,
+207411309,Approximation algorithms for sweep coverage in wireless sensor networks,2014,Journal of Parallel and Distributed Computing,
+211273161,Location error estimation in wireless ad hoc networks,2014,,Ad Hoc Networks
+211526775,"OBSERVATION, EVALUATION, AND DEVELOPMENT OF INDIVIDUAL -SENSORS IN MEDICAL APPLIANCES",2014,,
+211720202,Coordinate-Free Coverage in Sensor Networks via Homology,2014,,
+212513994,GSM TECHNOLOGY BASED WIRELESS SENSOR NETWORK FOR GAS MONITORING,2014,,
+213984669,"The event-driven paradigm for control, communication and optimization",2014,Journal of Control and Decision,
+219362684,An Energy-Efficient Approach to the Design of Two-Tier Wireless Ad Hoc and Sensor Networks,2014,,
+220786367,Surface Coverage in Sensor Networks,2014,IEEE Transactions on Parallel and Distributed Systems,
+224820029,Coverage Criterion in Sensor Networks Stable under Perturbation,2014,arXiv: Algebraic Topology,
+226306250,SQUARE GRID POINTS COVERAGED BY CONNECTED SOURCES WITH COVERAGE RADIUS OF ONE ON A TWO-DIMENSIONAL GRID,2014,International Journal of Computer Science and Information Technology,
+230555179,Dynamic Activation Policies for Event Capture in Rechargeable Sensor Network,2014,IEEE Transactions on Parallel and Distributed Systems,
+234840645,Voronoi-based coverage improvement approach for wireless directional sensor networks,2014,Journal of Network and Computer Applications,
+237673311,Coverage In Presence Of Obstacles:A Survey,2014,,
+242971812,Cluster Based and Energy Efficient Coverage Protocol for Wireless Sensor Networks,2014,International Journal of Smart Home,
+244479575,Target Coverage Management Protocol for Wireless Sensor Network,2014,,
+244548216,Omnidirectional Coverage for Device-Free Passive Human Detection,2014,IEEE Transactions on Parallel and Distributed Systems,
+248062272,Efficient Sensor Placement Optimization Using Gradient Descent and Probabilistic Coverage,2014,Sensors,
+251934530,Target Management Protocol for Wireless Sensor Network,2014,,
+253709721,Anomaly Detection in Wireless Sensor Networks in a Non-Stationary Environment,2014,IEEE Communications Surveys and Tutorials,
+271599883,Optimal Load Distribution in Wireless Sensor Networks: A Reliable Clustering Algorithm Approach,2014,,
+276016201,Cooperative Search and Rescue with Artificial Fishes Based on Fish-Swarm Algorithm for Underwater Wireless Sensor Networks,2014,The Scientific World Journal,
+278419382,Extended virtual force-based coverage scheme for heterogeneous Wireless Sensor Networks,2014,,"International Conference on Control, Automation and Systems"
+282563957,"Connectivity, coverage and power consumption in large-scale wireless sensor networks",2014,Computer Networks,
+282870920,Adaptive Multi–Robot Coverage of Curved Surfaces,2014,,Distributed Autonomous Robotic Systems
+288106344,Building Effective Scheduling Algorithms for Sensor Networks,2014,,International Conference on Information Technology: New Generations
+289663777,Sensing Coverage and Connectivity in Cognitive Radio Sensor Networks,2014,,
+290109665,Introduction to Area Coverage in Sensor Networks,2014,,
+293585168,Homology analysis of structures of high carbon bearing steel: effect of repeated quenching on prior austenite grain size,2014,Materials Research Innovations,
+301255291,Reduction of Inrush Current In The Transformer For Voltage Sag Compensation,2014,,
+302536438,A Multi-Objective Optimization Approach for Lifetime and Coverage Problem in Wireless Sensor Network,2014,,
+307258751,Distributed Optimization of Autonomous UAVs with Event-Driven Communication,2014,,
+309574987,PACKET DROP ATTACK DETECTION TECHNIQUES IN WIRELESS AD HOC NETWORKS : A REVIEW,2014,International Journal of Network Security & Its Applications,
+313821590,GENDEP: Location-Aware Key Management for General Deployment of Wireless Sensor Networks,2014,International Journal of Distributed Sensor Networks,
+316409202,Distributed Sink Tree Construction in Wireless Sensor Networks with Promiscuous Learning,2014,,Vehicular Technology Conference
+318872232,Microsensor Systems for Environmental and Biomedical Analysis,2014,,
+320373164,A Coverage Strategy Based on probability-aware Model in Wireless Sensor Networks,2014,,International Conference on Future Generation Communication and Networking
+322622959,PACKET DROP ATTACK DETECTION TECHNIQUES IN WIRELESS AD HOC NETWORKS : A REVIEW,2014,International Journal of Network Security & Its Applications,
+346621936,Charging coverage for energy replenishment in wireless sensor networks,2014,,"International Conference on Networking, Sensing and Control"
+347132038,Escaping Local Optima in a Class of Multi-Agent Distributed Optimization Problems: A Boosting Function Approach,2014,arXiv: Optimization and Control,
+348427622,Approximation algorithms for maximum target coverage in directional sensor networks,2014,,"International Conference on Networking, Sensing and Control"
+349647256,Analysis of k-coverage in Homogenous Wireless Sensor Networks,2014,International Journal of Computer Applications,
+350369502,Energy-efficient opportunistic coverage for people-centric urban sensing,2014,Wireless Networks,
+359647451,Reliability-Oriented Single-Path Routing Protocols in Wireless Sensor Networks,2014,IEEE Sensors Journal,
+364951157,Cyclic network automata and cohomological waves,2014,,Information Processing in Sensor Networks
+385538513,A Performance Comparison Study of a Coverage-Preserving Node Scheduling Scheme and Its Enhancement in Sensor Networks,2014,,Security and Privacy in Communication Networks
+390755445,Under-water sonar placement,2014,,
+394869848,BARRIER COVERAGE WITH WIRELESS SENSOR NETWORKS,2014,,
+419952309,Distributed multitarget probabilistic coverage control algorithm for wireless sensor networks,2014,Mathematical Problems in Engineering,
+443136435,Determining redundant nodes in a location unaware Wireless Sensor Network,2014,,"IEEE International Conference on Advanced Communications, Control and Computing Technologies"
+478465011,Energy-efficient border intrusion detection using wireless sensors network,2014,Eurasip Journal on Wireless Communications and Networking,
+498733214,Radio Coverage Mapping in Wireless Sensor Networks,2014,Wireless Sensor Network,
+418607,Survey on Coverage Problems in Wireless Sensor Networks,2015,Wireless Personal Communications,
+16292650,A Mobile Coverage Strategy for Sparse Overlay Network,2015,Applied Mechanics and Materials,
+19600910,Game theory for energy efficiency in Wireless Sensor Networks,2015,Journal of Network and Computer Applications,
+33472895,Coverage in wireless sensor networks: models and algorithms,2015,,
+48995349,Maximum Lifetime Scheduling for Target Coverage and Data Collection in Wireless Sensor Networks,2015,IEEE Transactions on Vehicular Technology,
+59128263,Complexity of barrier coverage with relocatable sensors in the plane,2015,Theoretical Computer Science,
+67955293,Opportunistic coverage for urban vehicular sensing,2015,Computer Communications,
+71200789,Optimal dynamic formation control of multi-agent systems in environments with obstacles,2015,,Conference on Decision and Control
+73050316,Computing an Optimal Path with the Minimum Number of Distinct Sensors,2015,,"Wireless Algorithms, Systems, and Applications"
+76572787,Energy efficient routing algorithm on the target tracking in Wireless Sensor Network,2015,,International Conference Information Processing
+100217397,Bio-Inspired Computation for Solving the Optimal Coverage Problem in Wireless Sensor Networks: A Binary Particle Swarm Optimization Approach,2015,,
+103930266,One-tier versus two-tier wireless sensor networks: coverage problem,2015,International Journal of Distributed Sensor Networks,
+104466171,Coverage and connectivity in three-dimensional networks with random node deployment,2015,,Ad Hoc Networks
+124969231,Understanding spatial and temporal coverage in participatory sensor networks,2015,,Local Computer Networks
+159202856,Mobile Sensor Networks Based on Several Algorithms,2015,,International Conference on Multimedia and Expo
+161663204,Some Aspects of Coverage Awareness in Wireless Sensor Networks,2015,Procedia Computer Science,
+165833180,Heterogeneous sensor deployment strategy based on optimal control theory,2015,,International Conference on Electrical Engineering and Information Communication Technology
+167409576,Chance-Constrained Programming Models and Approximations for General Stochastic Bottleneck Spanning Tree Problems,2015,Informs Journal on Computing,
+174468078,Intelligent Evaluation Models Based on Different Routing Protocols in Wireless Sensor Networks,2015,,
+175866699,A Distributed Secured Localization Scheme for Wireless Sensor Networks,2015,,
+194743530,Wireless Network Design and Optimization: From Social Awareness to Security,2015,,
+197347956,Application of Virtual Force Algorithm for Sensor Deployment,2015,International Journal for Scientific Research and Development,
+197706578,Bio-Inspired Computation for Solving the Optimal Coverage Problem in Wireless Sensor Networks,2015,,
+203593692,Local Voronoi Diagram based Heuristic Anti-Monitoring Method for Moving Objects Traversing through Sensory Fields,2015,,
+206248429,The 3D Deployment Multi-objective Problem in Mobile WSN: Optimizing Coverage and Localization,2015,,
+214988623,An Energy-Efficient Sensor Deployment Scheme for Wireless Sensor Networks Using Ant Colony Optimization Algorithm,2015,Wireless Personal Communications,
+237185276,On the Displacement for Covering a $d-$dimensional Cube with Randomly Placed Sensors,2015,arXiv: Data Structures and Algorithms,
+270281853,Constraint programming for wireless sensor networks,2015,Constraints - An International Journal,
+307674856,Energy efficient algorithm for swarmed sensors networks,2015,Sustainable Computing: Informatics and Systems,
+310029843,A Study on the Coverage-based Issues in Wireless Sensor Networks,2015,International Journal of Computer Applications,
+329134741,Probability Collectives with Feasibility-Based Rule II,2015,,
+333920660,A Distributed Homological Approach to Location-Independent Area Coverage in Wireless Sensor Networks,2015,Wireless Personal Communications,
+356164664,Urban Resolution: New Metric for Measuring the Quality of Urban Sensing,2015,IEEE Transactions on Mobile Computing,
+361974771,k -Perimeter Coverage Evaluation and Deployment in Wireless Sensor Networks,2015,,"Wireless Algorithms, Systems, and Applications"
+362611053,Context-Aware Local Optimization of Sensor Network Deployment,2015,Journal of Sensor and Actuator Networks,
+364008063,Application communication reliability of wireless sensor networks,2015,,IET wireless sensor systems
+365672900,On the Displacement for Covering a Square with Randomly Placed Sensors,2015,,"Ad-Hoc, Mobile and Wireless Networks"
+370933447,Mobile sensor deployment based on distributed flocking algorithm,2015,,International Conference on Signal Processing
+379196628,A genetic algorithm-based approach to optimize the coverage and the localization in the wireless audio-sensors networks,2015,,"International Symposium on Networks, Computers and Communications"
+384654609,On critical density for coverage and connectivity in directional sensor network over stochastic channels using continuum percolation,2015,International Journal of Distributed Sensor Networks,
+384884571,A Review on Sensor Network Issues and Robotics,2015,Journal of Sensors,
+393180399,Fault-tolerant coverage with maximum lifetime in wireless sensor networks,2015,,International Conference on Computer Communications
+396544939,Maintaining Intruder Detection Capability in a Rectangular Domain with Sensors,2015,,Algorithmic Aspects of Wireless Sensor Networks
+403885681,Optimal Dynamic Formation Control of Multi-Agent Systems in Environments with Obstacles,2015,arXiv: Optimization and Control,
+442412577,Reliability based optimization in hybrid wireless sensor networks,2015,,Reliability and Maintainability Symposium
+452125803,Over provisioning rate in three-dimensional wireless sensor networks for partial sensing coverage,2015,,Computational Intelligence
+462900306,Energy Balanced Redeployment Algorithm for Heterogeneous Wireless Sensor Networks,2015,Mathematical Problems in Engineering,
+465924792,Gains of Mobility for Communication and Sensing in Vehicular Sensor Networks,2015,,
+472204293,Multi-objective evolutionary routing protocol for efficient coverage in mobile sensor networks,2015,,Soft Computing
+474505000,Energy Efficient Sweep Coverage with Mobile and Static Sensors,2015,,
+477436505,Security trade-off and energy efficiency analysis in wireless sensor networks,2015,International Journal of Distributed Sensor Networks,
+479602040,Distributed Algorithm for Coverage and Connectivity in Wireless Sensor Networks,2015,,Computer Science and its Applications
+482384583,Coverage maximization with sleep scheduling for wireless sensor networks,2015,,"International Conference on Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology"
+484177784,Accelerating Minimum Spanning Forest Computations on Multicore Platforms,2015,,European Conference on Parallel Processing
+491279550,Q-Coverage Maximum Connected Set Cover (QC-MCSC) Heuristic for Connected Target Problem in Wireless Sensor Network,2015,Global journal of computer science and technology,
+7020223,Topological and combinatorial coverage hole detection in coordinate-free wireless sensor networks,2016,International Journal of Sensor Networks,
+25205201,Approximating Maximum Lifetime $k$ -Coverage Through Minimizing Weighted $k$ -Cover in Homogeneous Wireless Sensor Networks,2016,IEEE ACM Transactions on Networking,
+34831939,Sensor Deployment With Limited Communication Range in Homogeneous and Heterogeneous Wireless Sensor Networks,2016,IEEE Transactions on Wireless Communications,
+51383607,"Topology, Routing, and Modeling Tools",2016,,
+73729580,An efficient power conservation scheme in non-zero-sum duty-cycle game for wireless sensor networks,2016,International Journal of Sensor Networks,
+77448409,An efficient Minimum Spanning Tree algorithm,2016,,International Symposium on Computers and Communications
+95269511,Integrated Connectivity and Coverage Techniques for Wireless Sensor Networks,2016,,Mobility Management and Wireless Access
+100682829,Wireless sensors deployment optimization using a constrained Pareto-based multi-objective evolutionary approach,2016,Engineering Applications of Artificial Intelligence,
+103613045,A Hybrid Genetic Algorithm for the Minimum Exposure Path Problem of Wireless Sensor Networks Based on a Numerical Functional Extreme Model,2016,IEEE Transactions on Vehicular Technology,
+103810271,Sensor Deployment With Limited Communication Range in Homogeneous and Heterogeneous Wireless Sensor Networks,2016,IEEE Transactions on Wireless Communications,
+108010045,Optimal placement for barrier coverage in bistatic radar sensor networks,2016,IEEE ACM Transactions on Networking,
+144264203,A GPS-less Framework for Localization and Coverage Maintenance in Wireless Sensor Networks,2016,Ksii Transactions on Internet and Information Systems,
+154648209,Sensors Networks - Localization and Topology,2016,,International Conference on Mathematics and Computers in Sciences and in Industry
+163265479,Some Target Coverage Issues of Wireless Sensor Network,2016,Journal of data science,
+166307947,"Accurate, Dynamic, and Distributed Localization of Phenomena for Mobile Sensor Networks",2016,ACM Transactions on Sensor Networks,
+184295967,A study on Fibonacci series generation algorithms,2016,,International Conference on Advanced Computing
+192768761,An Efficient Distributed Coverage Hole Detection Protocol for Wireless Sensor Networks,2016,Sensors,
+230552413,Distributed algorithms for barrier coverage using relocatable sensors,2016,Distributed Computing,
+230767315,Relative interleavings and applications to sensor networks,2016,Japan Journal of Industrial and Applied Mathematics,
+236293089,Coverage problem in wireless sensor networks: A survey,2016,,International Conference on Signal Processing
+238961426,Heuristic algorithm for finding maximal breach path in wireless sensor network with omnidirectional sensors,2016,,IEEE Region Humanitarian Technology Conference
+282212557,Distributed Receding Horizon Coverage Control for Multiple Mobile Robots,2016,IEEE Systems Journal,
+330314158,"Theoretical Optimization of Sensing Area Shape for Target Detection, Barrier Coverage, and Path Coverage",2016,IEICE Transactions on Communications,
+349626988,Energy efficient routing algorithm on the target tracking in Wireless Sensor Network,2016,,
+350297085,Maximization of WSN Life Using Hybrid Evolutionary Programming,2016,International Journal of Wireless Information Networks,
+355342687,The Hexagonal Geometrical Structure of the N-Coverage Networks in the G2-Lie Algebra Framework,2016,Wireless Personal Communications,
+387882809,Data Aggregation over Geographical Area Coverage in Wireless Adhoc and Sensor Networks,2016,,International Conference on Advanced Computing
+417365483,Coverage and connectivity aware data gathering protocol for wireless sensor networks,2016,,International Conference on Next Generation Computing Technologies
+423341008,Conflicting goal constrained architecture of a heterogeneous mobile sensor network,2016,,"International Conference Networking, Systems and Security"
+437847951,On the displacement for covering a d-dimensional cube with randomly placed sensors,2016,,Ad Hoc Networks
+452320568,An intelligent deployment method of geo-sensor networks in 3D environment,2016,Annals of Gis: Geographic Information Sciences,
+453224570,Radio range mapping in Wireless Sensor Networks,2016,,
+457195873,Computing best coverage path with reliability in wireless sensor networks,2016,,Symposium on Colossal Data Analysis and Networking
+463515354,Corona based deployment strategies in wireless sensor network,2016,Journal of Network and Computer Applications,
+465935903,Composable Locality Optimizations for Accelerating Parallel Forest Computations,2016,,High Performance Computing and Communications
+7322126,Studying the capture of stochastic events using radar and a mobile robot,2017,International Journal of Sensor Networks,
+38173878,A Distributed Scalar Controller Selection Scheme for Redundant Data Elimination in Sensor Networks,2017,International Journal of Knowledge Discovery in Bioinformatics,
+63427685,Node placement with evolutionary algorithms for maximum coverage of heterogeneous WSNs,2017,,Signal Processing and Communications Applications Conference
+70167688,Barrier Coverage with Uniform Radii in 2D,2017,,Algorithmic Aspects of Wireless Sensor Networks
+111699431,Improving ATM coverage area using density based clustering algorithm and voronoi diagrams,2017,Information Sciences,
+119057959,Operation Research Based Techniques in Wireless Sensors Networks,2017,Communications and Network,
+120089736,Quality of Service of Routing Protocols in Wireless Sensor Networks: A Review,2017,IEEE Access,
+123783485,Visualizing Sensor Network Coverage with Location Uncertainty,2017,,IEEE Visualization
+124302754,Coverage Contribution Area Based $k$ -Coverage for Wireless Sensor Networks,2017,IEEE Transactions on Vehicular Technology,
+139248696,Finding best and worst-case coverage paths in camera sensor networks for complex regions,2017,,Ad Hoc Networks
+147059758,Mobile Search Strategies and Detection Analysis of Nuclear Radiation Sources,2017,,
+150813229,"A Survey of Multi-Objective Optimization in Wireless Sensor Networks: Metrics, Algorithms, and Open Problems",2017,IEEE Communications Surveys and Tutorials,
+219966983,Coverage in mobile wireless sensor networks (M-WSN),2017,Computer Communications,
+223452604,Pseudo geometric broadcast protocols in wireless sensor networks,2017,Computer Communications,
+242941513,Theoretical analysis of the target detection rules for the UAV-based wireless sensor networks,2017,,International Conference on Communications
+243882836,Independent robust mesh for mobile adhoc networks,2017,,
+275312023,On Full-View Area Coverage by Rotatable Cameras in Wireless Camera Sensor Networks,2017,,Advanced Information Networking and Applications
+294352240,Solving energy issues for sweep coverage in wireless sensor networks,2017,Discrete Applied Mathematics,
+314248050,3D sensing model based on ROI for camera sensor networks,2017,,Chinese Control Conference
+325126742,Re2l: An efficient output-sensitive algorithm for computing Boolean operations on circular-arc polygons and its applications,2017,Computer-aided Design,
+351497989,A submodularity-based approach for multi-agent optimal coverage problems,2017,,Conference on Decision and Control
+357291087,Coverage Hole Detection and Recovery in Wireless Sensor Networks Based on RSSI-Based Localization,2017,,Computational Science and Engineering
+385714254,Distributed model predictive coverage control for decoupled mobile robots,2017,Robotica,
+389661640,SensDeploy: efficient sensor deployment strategy for real-time localization,2017,Human-centric Computing and Information Sciences,
+414665041,A submodularity-based approach for multi-agent optimal coverage problems,2017,,Conference on Decision and Control
+424837099,Path Intrusion Detection Reliability in Wireless Sensor Networks,2017,,
+487731084,SPMI: Single Phase Multiple Initiator Protocol for Coverage in Wireless Sensor Networks,2017,Wireless Personal Communications,
+490886805,Secluded Connectivity Problems,2017,Algorithmica,
+13618251,Participant selection for t-sweep k-coverage crowd sensing tasks,2018,World Wide Web,
+94931446,Differential evolution algorithm applied to wireless sensor distribution on different geometric shapes with area and energy optimization,2018,Journal of Network and Computer Applications,
+137867572,Sensor Deployment Scheme Based on Social Spider Optimization Algorithm for Wireless Sensor Networks,2018,Neural Processing Letters,
+161560122,Connectivity and coverage based protocols for wireless sensor networks,2018,,Ad Hoc Networks
+172239252,Evaluation of Vulnerable Path: Using Heuristic Path-finding Algorithm in Physical Protection System of Nuclear Power Plant,2018,International Journal of Critical Infrastructure Protection,
+199122048,Hybrid System Modeling of Multi-Agent Coverage Problems with Energy Depletion and Repletion,2018,IFAC-PapersOnLine,
+221236387,Mobile Sensor Networks and Robotics,2018,,
+252885123,A bilevel exposure-oriented sensor location problem for border security,2018,Computers & Operations Research,
+360922565,Performance modeling and analysis of a UAV path planning and target detection in a UAV-based wireless sensor network,2018,Computer Networks,
+440584245,A decentralized K-barriers construction approach based on nearest neighbors rule for two-dimensional rectangular region,2018,Wireless Networks,
+475612706,Algorithms for Maximum Lifetime of Covering Path.,2018,,
+28606811,Exploiting submodularity to quantify near-optimality in multi-agent coverage problems,2019,Automatica,
+149667986,"WSN Strategies Based on Sensors, Deployment, Sensing Models, Coverage and Energy Efficiency: Review, Approaches and Open Issues",2019,Wireless Personal Communications,
+156977581,Cost-Efficient Node Deployment for Intrusion Detection in Underwater Sensor Networks,2019,,International Conference on Parallel and Distributed Systems
+166442392,Energy Efficient Node Deployment in Wireless Ad-hoc Sensor Networks.,2019,arXiv: Information Theory,
+185176436,Distributed Processes and Scalability in Sub-networks of Large-Scale Networks.,2019,"arXiv: Distributed, Parallel, and Cluster Computing",
+289307695,Sensing Coverage for Wireless Sensor Networks in Shadowed Rician Fading Environments,2019,Wireless Personal Communications,
+289687453,Maximizing full-view target coverage in camera sensor networks,2019,,Ad Hoc Networks
+309055877,Probabilistic coverage in directional sensor networks,2019,Wireless Networks,
+319206919,Evolutionary Optimisation of Energy-Efficient Communication in Wireless Sensor Networks,2019,International Journal of Wireless Information Networks,
+351334107,Coverage Maximization in Wireless Sensor Networks Using Minimal Exposure Path and Particle Swarm Optimization,2019,,
+413150558,The Tradeoff Between Coverage and Computation in Wireless Networks.,2019,arXiv: Information Theory,
+432851334,Connectivity Based k -Coverage Hole Detection in Wireless Sensor Networks,2019,Mobile Networks and Applications,
+445697458,Efficient approximation approaches to minimal exposure path problem in probabilistic coverage model for wireless sensor networks,2019,Applied Soft Computing,
+462912032,Investigating physical security in stealthy lattice wireless sensor networks using k-barrier coverage,2019,,Ad Hoc Networks
+288351448,Introduction to Algorithms for Wireless Sensor Networks,2020,,
+450140419,Maximizing network lifetime using coverage sets scheduling in wireless sensor networks,2020,,Ad Hoc Networks
+414570725,"Improving area coverage of wireless sensor networks via controllable mobile nodes: A greedy approach �?,2015""",Journal of Network and Computer Applications,,
+242753943,"The Coverage Configuration Protocol under AT-Dist Localization�?,2014""",Procedia Computer Science,,
+22891981,"Best and worst-case coverage problems for arbitrary paths in wireless sensor networks�?,2013""",,Ad Hoc Networks,
+219661709,"MobiBar: An autonomous deployment algorithm for barrier coverage with mobile sensors �?,2017""",,Ad Hoc Networks,
