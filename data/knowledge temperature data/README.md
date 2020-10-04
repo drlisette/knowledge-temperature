@@ -3,7 +3,8 @@ Topic citation relations are collected from academic databases including DBLP, a
 Each topic is led by an article that have had a profound influence in certain domains. We refer to these papers as pioneering papers or leading papers.
 A scientific topic includes a pioneering paper, all the articles that directly cites it and all the citations among them. 
 
-Pioneering paper information is listed below:
+# Topic Overview
+Pioneering paper information:
 leading paper | year | journal | conference series 
 --------------|------|---------|------------------
 On random graphs, I | 1959 | |  
@@ -23,8 +24,7 @@ Regulatory T Cells: Mechanisms of Differentiation and Function | 2012 | Annual R
 Efficient Estimation of Word Representations in Vector Space | 2013 |  | International Conference on Learning Representations (ICLR)
 Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling | 2014 | arXiv: Neural and Evolutionary Computing |
 
-
-Topic size overview is listed below (Topics are ordered by publishing year): 
+Topic size (ordered by publishing year of pioneering works): 
 leading paper | node num. | edge num.
 --------------|-----------|----------
 On random graphs, I | 5389 | 17098
@@ -44,15 +44,20 @@ Regulatory T Cells: Mechanisms of Differentiation and Function | 1381 | 4190
 Efficient Estimation of Word Representations in Vector Space | 8133 | 36219
 Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling | 2282 | 4675
 
-
+# Topic Group
 Among 16 topics, we identify 3 topic groups, each containing 2 or 3 topics, to conduct forest helping experiments. The topic groups and its corresponding pioneer papers are:
 * wireless network group.
-  Group is jointly led by
+  This group is jointly led by
   - Critical Power for Asymptotic Connectivity in Wireless Networks
-  - The capacity of wireless networks.
+  - The capacity of wireless networks
   
 * RNN gated unit group.
-  Group is jointly led by Long short-term memory and Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling.
+  This group is jointly led by 
+  - Long short-term memory
+  - Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling
   
 * word embedding group.
-  Group is jointly led by A unified architecture for natural language processing: deep neural networks with multitask learning, A neural probabilistic language model and Efficient Estimation of Word Representations in Vector Space.
+  This group is jointly led by
+  - A unified architecture for natural language processing: deep neural networks with multitask learning
+  - A neural probabilistic language model 
+  - Efficient Estimation of Word Representations in Vector Space
