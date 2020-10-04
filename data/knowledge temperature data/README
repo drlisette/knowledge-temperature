@@ -1,1 +1,37 @@
-HELLO
+The folder contains 16 academic topics that are used for knowledge temperature experiment.
+Topic citation relations are collected from academic databases including DBLP, arXiv, Elsevier and Springer. 
+Each topic is led by an article that have had a profound influence in certain domains. We refer to these papers as pioneering papers or leading papers.
+A scientific topic includes a pioneering paper, all the articles that directly cites it and all the citations among them. 
+
+Pioneering paper information is listed below:
+leading paper | year | journal | conference series
+--------------|------|---------|------------------
+On random graphs I | 1959 | |  
+Bose-Einstein condensation in a gas of sodium atoms | 1995 | Physical Review Letters |
+Particle swarm optimization | 1995 | | International Conference on Networks (ICON)
+Neural networks for pattern recognition | 1995 | Advances in Computers | 
+Long short-term memory | 1997 | Neural Computation | 
+Collective dynamics of ‘small-world’ networks | 1998 | Nature | 
+Critical Power for Asymptotic Connectivity in Wireless Networks | 1999 |  | 
+The capacity of wireless networks | 2000 | IEEE Transactions on Information Theory | 
+A FUNDAMENTAL RELATION BETWEEN SUPERMASSIVE BLACK HOLES AND THEIR HOST GALAXIES | 2000 | The Astrophysical Journal | 
+Coverage problems in wireless ad-hoc sensor networks | 2001 | | International Conference on Computer Communications (INFOCOM)
+Latent dirichlet allocation | 2003 | Journal of Machine Learning Research |
+A neural probabilistic language model | 2003 | Journal of Machine Learning Research | 
+A unified architecture for natural language processing: deep neural networks with multitask learning | 2008 | | International Conference on Machine Learning (ICML)
+Regulatory T Cells: Mechanisms of Differentiation and Function | 2012 | Annual Review of Immunology | 
+Efficient Estimation of Word Representations in Vector Space | 2013 |  | International Conference on Learning Representations (ICLR)
+Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling | 2014 | arXiv: Neural and Evolutionary Computing |
+
+
+Topic size is listed below (Topics are ordered by publishing year): 
+
+
+
+
+Among 16 topics, we identify 3 topic groups, each containing 2 or 3 topics, to conduct forest helping experiments. The topic groups and its corresponding pioneer papers are:
+\begin{itemize}
+    \item wireless network group.\\ Group is jointly led by Critical Power for Asymptotic Connectivity in Wireless Networks and The capacity of wireless networks.
+    \item RNN gated unit group.\\ Group is jointly led by Long short-term memory and Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling.
+    \item word embedding group.\\ Group is jointly led by A unified architecture for natural language processing: deep neural networks with multitask learning, A neural probabilistic language model and Efficient Estimation of Word Representations in Vector Space.
+\end{itemize}
