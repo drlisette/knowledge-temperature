@@ -4,9 +4,9 @@ Each topic is led by an article that have had a profound influence in certain do
 A scientific topic includes a pioneering paper, all the articles that directly cites it and all the citations among them. 
 
 Pioneering paper information is listed below:
-leading paper | year | journal | conference series
+leading paper | year | journal | conference series 
 --------------|------|---------|------------------
-On random graphs I | 1959 | |  
+On random graphs, I | 1959 | |  
 Bose-Einstein condensation in a gas of sodium atoms | 1995 | Physical Review Letters |
 Particle swarm optimization | 1995 | | International Conference on Networks (ICON)
 Neural networks for pattern recognition | 1995 | Advances in Computers | 
@@ -24,14 +24,30 @@ Efficient Estimation of Word Representations in Vector Space | 2013 |  | Interna
 Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling | 2014 | arXiv: Neural and Evolutionary Computing |
 
 
-Topic size is listed below (Topics are ordered by publishing year): 
-
-
+Topic size overview is listed below (Topics are ordered by publishing year): 
+leading paper | node num. | edge num.
+--------------|-----------|----------
+On random graphs, I | 5389 | 17098
+Bose-Einstein condensation in a gas of sodium atoms | 2338 | 9171
+Particle swarm optimization | 31800 | 183341 
+Neural networks for pattern recognition | 17046 | 42748
+Long short-term memory | 16777 | 98553
+Collective dynamics of ‘small-world’ networks | 25548 | 206646 
+Critical Power for Asymptotic Connectivity in Wireless Networks | 1078 | 4998
+The capacity of wireless networks | 7644 | 51788
+A FUNDAMENTAL RELATION BETWEEN SUPERMASSIVE BLACK HOLES AND THEIR HOST GALAXIES | 2432 | 34120 
+Coverage problems in wireless ad-hoc sensor networks | 1546 | 8865 
+Latent dirichlet allocation | 18813 | 114969
+A neural probabilistic language model | 3265 | 22912
+A unified architecture for natural language processing: deep neural networks with multitask learning | 2733 | 13855
+Regulatory T Cells: Mechanisms of Differentiation and Function | 1381 | 4190 
+Efficient Estimation of Word Representations in Vector Space | 8133 | 36219
+Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling | 2282 | 4675
 
 
 Among 16 topics, we identify 3 topic groups, each containing 2 or 3 topics, to conduct forest helping experiments. The topic groups and its corresponding pioneer papers are:
-\begin{itemize}
+\begin{enumerate}
     \item wireless network group.\\ Group is jointly led by Critical Power for Asymptotic Connectivity in Wireless Networks and The capacity of wireless networks.
     \item RNN gated unit group.\\ Group is jointly led by Long short-term memory and Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling.
     \item word embedding group.\\ Group is jointly led by A unified architecture for natural language processing: deep neural networks with multitask learning, A neural probabilistic language model and Efficient Estimation of Word Representations in Vector Space.
-\end{itemize}
+\end{enumerate}
