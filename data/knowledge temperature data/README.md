@@ -46,8 +46,13 @@ Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling | 2
 
 
 Among 16 topics, we identify 3 topic groups, each containing 2 or 3 topics, to conduct forest helping experiments. The topic groups and its corresponding pioneer papers are:
-\begin{enumerate}
-    \item wireless network group.\\ Group is jointly led by Critical Power for Asymptotic Connectivity in Wireless Networks and The capacity of wireless networks.
-    \item RNN gated unit group.\\ Group is jointly led by Long short-term memory and Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling.
-    \item word embedding group.\\ Group is jointly led by A unified architecture for natural language processing: deep neural networks with multitask learning, A neural probabilistic language model and Efficient Estimation of Word Representations in Vector Space.
-\end{enumerate}
+* wireless network group.
+  Group is jointly led by
+  - Critical Power for Asymptotic Connectivity in Wireless Networks
+  - The capacity of wireless networks.
+  
+* RNN gated unit group.
+  Group is jointly led by Long short-term memory and Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling.
+  
+* word embedding group.
+  Group is jointly led by A unified architecture for natural language processing: deep neural networks with multitask learning, A neural probabilistic language model and Efficient Estimation of Word Representations in Vector Space.
